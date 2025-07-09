@@ -9,8 +9,6 @@
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-logo="http://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime | Pluto TV Brasil ~ link 2 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="animetv.br" tvg-logo="https://i.imgur.com/MuCJvAd.png" group-title="Brasil: anime e tokusatsu",Anime TV | Brasil 
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime Ação | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-logo="http://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Anime Ação | link 2 
@@ -37,6 +35,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d916781
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="65d9167818036500080e8780" tvg-logo="https://images.pluto.tv/channels/65d9167818036500080e8780/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Hunter x Hunter | Pluto TV Brasil ~ link 3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="66c7982f6838ee00085f0d24" tvg-logo="https://images.pluto.tv/channels/66c7982f6838ee00085f0d24/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",JoJo's Bizarre Adventure | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Naruto | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Naruto | link 2 | Pluto TV Brasil 
@@ -49,8 +49,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="624b1c8d4321e200073ee421" tvg-logo="http://images.pluto.tv/channels/624b1c8d4321e200073ee421/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",One Piece | Pluto TV Brasil | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aq2lMmL.png" group-title="Brasil: anime e tokusatsu",Otaku Sign TV
-https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8
 #EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Super Onze | Brasil: infanto-juvenis
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="63988c2750108d00072e2686" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Brasil: anime e tokusatsu",Super Onze | link 2 | Brasil: infanto-juvenis
@@ -816,11 +814,14 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="Brasil: rádios",Rádio UFRGS | RS Brasil
 http://radioaovivo.ufrgs.br:8000/stream.mp3
 ############################### BRASIL: variedades em português ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Brasil: variedades",Agrobrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="Brasil: variedades",AWTV | Brasil
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades",Band | RBA TV | PA Brasil
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Brasil: variedades",Bem Mais TV | RJ | Brasil
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="Brasil: variedades",Blits TV | Brasil
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Brasil: variedades",BR Super TV | Brasil
