@@ -395,7 +395,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 #EXTINF:-1 tvg-id="TVI Ficção HD" tvg-logo="https://i.imgur.com/crseFhh.png" group-title="Brasil: humor; novelas e séries",TVI Ficção | Portugal
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VvGaGpj.png" group-title="Brasil: humor; novelas e séries",Xtreme TV
-https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8
+https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 ####################### Brasil crianças kids teen adolescentes ##################### Brasil: infanto-juvenis ##################### Brasil: infanto-juvenis ##################### Brasil: infanto-juvenis ##################### Brasil: infanto-juvenis ##################### Brasil: infanto-juvenis #####################
 #EXTINF:-1 tvg-id="5f6df6293a12e10007017396" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png" group-title="Brasil: infanto-juvenis",A vida moderna de Rocko | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -579,6 +579,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a819
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="GBAJ4900002DE" tvg-logo="https://i.imgur.com/YUIQH6G.png" group-title="Brasil: lifestyle e realities",Fashion TV | Brasil 
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="67603668f433320008760af1" tvg-logo="https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Homeful | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67603668f433320008760af1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Investigação | Pluto TV Brasil 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Investigação | Pluto TV Brasil 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-logo="https://images.pluto.tv/channels/5f32cf37c9ff2b00082adbc8/colorLogoPNG.png" group-title="Brasil: lifestyle e realities",Investigação | Pluto TV Brasil | link 2
@@ -5013,45 +5017,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ad552
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d819e738977e2c31096a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ad8d819e738977e2c31096a" tvg-logo="https://images.pluto.tv/channels/5ad8d819e738977e2c31096a/colorLogoPNG.png" group-title="Pets em inglês",The Pet Collective | Roku
 http://linear-174.frequency.stream/174/hls/master/playlist.m3u8
-###### 📻 Rádios da Espanha ########## Rádios da Espanha ########## Rádios da Espanha ########## Rádios da Espanha ########## Rádios da Espanha ########## Rádios da Espanha ####
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPxfjfl.jpg" group-title="Rádios da Espanha",Canal Fiesta | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel5.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KO7S0xs.png" group-title="Rádios da Espanha",CanalSur Música | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel10.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Almería | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel8.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Cádiz | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel11.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Campo de Gibraltar | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel15.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Córdoba | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel12.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Granada | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel13.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Huelva | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel14.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Jaén | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel16.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Jerez | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel18.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Málaga | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel17.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mct34MY.jpg" group-title="Rádios da Espanha",CanalSur Radio Sevilla | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel4.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p4ibEnp.png" group-title="Rádios da Espanha",Catalunya Informació | catalão
-https://directes-radio-int.ccma.cat/int/mp4:catinform/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWRnzlb.png" group-title="Rádios da Espanha",Catalunya Rádio | catalão
-https://directes-radio-int.ccma.cat/int/mp4:catradio/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f4a4vyF.png" group-title="Rádios da Espanha",CatMúsica | catalão
-https://directes-radio-int.ccma.cat/int/mp4:catmusica/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LSRC3Jc.png" group-title="Rádios da Espanha",Flamenco Radio | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel7.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iRQTOvY.png" group-title="Rádios da Espanha",iCat | catalão
-https://directes-radio-int.ccma.cat/int/mp4:icatfm/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qynTyzU.jpg" group-title="Rádios da Espanha",Radio Andalucia Información | castelhano
-https://cdnlive.codev8.net/rtvalive/smil:channel6.smil/master.m3u8
+
 ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão ######### reality shows em alemão 
 #EXTINF:-1 tvg-id="5ede45d077746000072be0fe" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="Reality shows em alemão",Auction Hunters | Pluto TV Alemanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ede45d077746000072be0fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
