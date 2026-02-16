@@ -500,12 +500,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66b3af48d
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/master.m3u8
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias",Euronews | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias",CNN Brasil | Soul TV
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="Desaparecidos RS" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/LOGO_REDONDO_100X100_FUNDO_PRETO_54DyE4h.png" group-title="Brasil: notícias",Desaparecidos RS | Soul TV
-https://video01.soultv.com.br/desaparecidosrs/desaparecidosrs/playlist.m3u8
-#EXTINF:-1 tvg-id="Euronews" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="Brasil: notícias",Euronews | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brasil: notícias",Record News | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Brasil: notícias",Record News | RunTime Brasil
@@ -534,128 +528,66 @@ https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DPsqixB.png" group-title="Brasil: rádios",Rádio UFRGS | RS Brasil
 http://radioaovivo.ufrgs.br:8000/stream.mp3
 ############################### BRASIL: variedades em português ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### BRASIL TV ABERTA ############################### BRASIL: variedades em português ############################### antes: BRASIL TV ABERTA ############################### 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PyCpEI8.png" group-title="Brasil: variedades",Agrobrasil TV
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/rXEBYmC.png" group-title="Brasil: variedades",AWTV | Brasil
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades",Band | RBA TV | PA Brasil
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kG2br4g.png" group-title="Brasil: variedades",Bem Mais TV | RJ | Brasil
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/blitstv_logo_reduzido_kJFHdGG.png" group-title="Brasil: variedades",Blits TV | Brasil
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
-#EXTINF:-1 tvg-id="BRSuperTV.br" tvg-logo="https://i.imgur.com/yhPMFEr.png" group-title="Brasil: variedades",BR Super TV | Brasil
-http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
-#EXTINF:-1 tvg-id="CanalPlural.br" tvg-logo="https://i.imgur.com/sFG3dSr.png" group-title="Brasil: variedades",Canal Plural | São José dos Campos | SP
-https://stmv2.samcast.com.br/osc6197/osc6197/playlist_w1376166006.m3u8
-#EXTINF:-1 tvg-id="CanalTVRio.br" tvg-logo="https://i.imgur.com/rm6HsPj.png" group-title="Brasil: variedades",Canal TV Rio
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-18351/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="64b9370b409629000802d32b" tvg-logo="https://images.pluto.tv/channels/64b9370b409629000802d32b/colorLogoPNG.png" group-title="Brasil: variedades",Canal UOL | Pluto TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="CentralTVBrasil" tvg-logo="https://i.imgur.com/LNLVIwF.png" group-title="Brasil: variedades",Central TV Brasil
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLOjkCJ.png" group-title="Brasil: variedades",Clouding TV | Brasil
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://coletiva.net/sites/coletiva/assets/images/coletiva_tv.png" group-title="Brasil: variedades",Coletiva TV | Brasil
 https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 #EXTINF:-1 tvg-id="combrasil.br" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="Brasil: variedades",Com Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WyR8zg.png" group-title="Brasil: variedades",Correio do Imbé | RS Brasil
-https://srv1.saragosonet.com.br/play/hls/tvc/index.m3u8
-#EXTINF:-1 tvg-id="66296e755a402e00086a2c47" tvg-logo="https://images.pluto.tv/channels/66296e755a402e00086a2c47/colorLogoPNG.png" group-title="Brasil: variedades",Cultne TV | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66296e755a402e00086a2c47/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="demaistv.br" tvg-logo="https://pbr-str.srvsite.com/arquivos/9046/cabecalho-9046-20230725105112.png" group-title="Brasil: variedades",D+ TV | Brasil
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1vnp5N1.png" group-title="Brasil: variedades",Demand Africa | Brasil 
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Brasil: variedades",GLN TV | Brasil
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CwrWVjO.png" group-title="Brasil: variedades",Globo São Paulo | Brasil
-https://cdn-2.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-#EXTINF:-1 tvg-id="5fa97a8a75cc210007c9041d" tvg-logo="https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/colorLogoPNG.png" group-title="Brasil: variedades",Guia de Canais | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://imperialtv.com.br/app-assets/images/logo/brand.png" group-title="Brasil: variedades",Imperial TV | Brasil
-https://acesso.ecast.site:3630/live/imperiallive.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/ZcHrNoa.png" group-title="Brasil: variedades",ISTV | Brasil
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-id="LifeChannel.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_pequeno_s1hYlfg.png" group-title="Brasil: variedades",Life Channel Brasil
-https://cdn2.connectbr.com.br/life/index.m3u8
-#EXTINF:-1 tvg-id="645a99282858cb0008ea8378" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png" group-title="Brasil: variedades",New Brasil | Pluto TV BR
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645a99282858cb0008ea8378/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u6DuMQk.png" group-title="Brasil: variedades",NGT SP
 https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="Brasil: variedades",Nova Era TV | Lages SC Brasil
 http://wz3.dnip.com.br/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="Primertv.br" tvg-logo="https://i.imgur.com/VZaj5Oc.png" group-title="Brasil: variedades",Primer TV | Brasil
 http://200.194.238.229:8383/live/primer/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/QTAL_channel_logo_REDUZIDO_ndWFcTU.png" group-title="Brasil: variedades",Q Tal? Channel
-https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/playlist.m3u8
 #EXTINF:-1 tvg-id="TVConquista.br" tvg-logo="https://i.imgur.com/RDekR7e.png" group-title="Brasil: variedades",Record | TV Conquista | MT Brasil
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/YTWxRSp.png" group-title="Brasil: variedades",Rede Brasil | TBO | Mato Grosso
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeMaisFamilia.br" tvg-logo="https://i.imgur.com/VryzCK6.png" group-title="Brasil: variedades",Rede Mais Família | Brasil
-https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist.m3u8
-#EXTINF:-1 tvg-id="QDM.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_QDM_reduzido_DGFc9E4.png" group-title="Brasil: variedades",Rede QDM | Brasil
-https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JqP03l.png" group-title="Brasil: variedades",Rede SPTV | SP Brasil
 https://video01.logicahost.com.br/websptv/websptv/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Brasil: variedades",Rede TV | PR Brasil
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Brasil: variedades",Rede TV | TO Brasil
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Brasil: variedades",Rede TV | TV Arapuan | PB Brasil
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Brasil: variedades",Rede TV | TV Pampa | RS Brasil
-https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:-1 tvg-id="6048fc47a44e540007745d2b" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="Brasil: variedades",Rede TV Episódios | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0HK61zq.png" group-title="Brasil: variedades",Rede UTV | Brasil
 https://utvsoultv.acessaradios.com.br/utvsoultv/utvsoultv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K21P6kb.png" group-title="Brasil: variedades",Revry Brasil
-http://linear-181.frequency.stream/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP 1 HD" tvg-logo="https://i.imgur.com/gsS7Kv5.png" group-title="Brasil: variedades",RTP 1 | Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP 2 HD" tvg-logo="https://i.imgur.com/IclFRK9.png" group-title="Brasil: variedades",RTP 2 | Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Açores" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="Brasil: variedades",RTP Açores | Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP África" tvg-logo="https://i.imgur.com/vkSRSWQ.png" group-title="Brasil: variedades",RTP África | Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPiAmerica.pt" tvg-logo="https://i.imgur.com/SBlCf1m.png" group-title="Brasil: variedades",RTP Internacional | Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="https://i.imgur.com/vZrqQPX.png" group-title="Brasil: variedades",RTP Madeira | Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP Memória" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtpMemoria_negativo_horiz_RGB.png" group-title="Brasil: variedades",RTP Memória | Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | Bem TV | Tangará da Serra | MT
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
+https://streaming-live.rtp.pt/liverepeater/estudoemcasa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | interior de SP 
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | Rede Massa | PR
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/master.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Cidade Verde | Piauí
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/master.m3u8
 #EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Guajará | Tailândia | PA
 https://video05.logicahost.com.br/tvguajara/tvguajara/master.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="Brasil: variedades",SBT | TV Paraense | Castanhal | PA 
-https://cdn.jmvstream.com/w/AVJ-13102/playlist/master.m3u8
-#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-logo="https://i.imgur.com/xXS3GTp.png" group-title="Brasil: variedades",SIC | Portugal
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="SOLTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gSSGWXx.png" group-title="Brasil: variedades",Sol Brasil
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LuvJMBp.png" group-title="Brasil: variedades",Top Mix TV
 https://video03.logicahost.com.br/topmixtv/topmixtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zcrcwhy.png" group-title="Brasil: variedades",TV A Folha | Palmas PR Brasil
 https://video01.logicahost.com.br/tvafolha/tvafolha/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V9jVgsc.png" group-title="Brasil: variedades",TV Brasil Central | Goiás
-https://tbc.zoeweb.tv/tbc/tbc/master.m3u8
-#EXTINF:-1 tvg-id="TVCarioca.br" tvg-logo="https://i.imgur.com/O1WAn2z.png" group-title="Brasil: variedades",TV Carioca | Brasil
-https://a.cdni.live/tvcarioca/tvcarioca/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6aTV1bY.png" group-title="Brasil: variedades",TV CNB
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVEstilo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/Logo_TV_Estilo_png_LBxqpep.png" group-title="Brasil: variedades",TV Estilo | SP Brasil
-https://cdn.jmvstream.com/w/AVJ-12950/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="Brasil: variedades",TV Galega | Blumenau SC Brasil
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/PMSiLyy.png" group-title="Brasil: variedades",TV Galega | Blumenau SC Brasil - link 2
@@ -664,42 +596,16 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 https://isaocorp.cloudecast.com/tvgramado/index.m3u8
 #EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/6LgJvM3.png" group-title="Brasil: variedades",TV Grande Natal | Brasil
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/iocaEiK.png" group-title="Brasil: variedades",TV Japi
-https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVMaisBrasil.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/sNgDx7c.png" group-title="Brasil: variedades",TV Mais Brasil
-https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/9178/cabecalho-9178-20230313135359.png" group-title="Brasil: variedades",TV Marchetti
 https://stmv1.samcast.com.br/junior4319/junior4319/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Brasil: variedades",TV MAX Rio | Brasil
 https://5cf4a2c2512a2.streamlock.net:443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMAXRio.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="Brasil: variedades",TV MAX Rio | Brasil ~ link 2
-https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/EhJNGIy.png" group-title="Brasil: variedades",TV Metrópole | Caucaia CE Brasil
+#EXTINF:-1 tvg-id="Tvmetropole.br" tvg-logo="https://i.imgur.com/5SsUIpn.png" group-title="Brasil: variedades",TV Metrópole | Caucaia CE Brasil
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMilagro.br" tvg-logo="https://i.imgur.com/Dlu9pzj.png" group-title="Brasil: variedades",TV MilAgro
-https://video01.soultv.com.br/tvmilagro/tvmilagro/playlist.m3u8
-#EXTINF:-1 tvg-id="Tvmon.br" tvg-logo="https://i.imgur.com/wPhNMMS.png" group-title="Brasil: variedades",TV Mon | Montenegro RS Brasil
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 tvg-id="TvNovaNordeste.br" tvg-logo="https://i.imgur.com/lSuo08k.png" group-title="Brasil: variedades",TV Nova Nordeste | Grande Recife PE Brasil
 https://acesso.ecast.site:3675/live/novatvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6nQrkR6.png" group-title="Brasil: variedades",TV Santa Cecília | SP Brasil
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/W4qPPLe.png" group-title="Brasil: variedades",TV Sonata | Brasil
-https://video01.kshost.com.br/tiago2001/tiago2001/playlist.m3u8
-#EXTINF:-1 tvg-id="SulBA.br" tvg-logo="https://i.imgur.com/ScGRWhq.png" group-title="Brasil: variedades",TV SulBA | Brasil
-https://video05.logicahost.com.br/tvsulba/tvsulba/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSPE.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/zTaRKN7.png" group-title="Brasil: variedades",TVS Surubim PE | Brasil
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades",TV União | Brasília | Brasil
-https://live.uniaoplus.com/hls/sqYJRqIsBLTW36TC.m3u8
-#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades",TV União | Fortaleza | Brasil
-https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades",TV União | Natal | Brasil
-https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
-#EXTINF:-1 tvg-id="TVUniaoFortaleza.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Rede.União.de.Televisão.png" group-title="Brasil: variedades",TV União | Rio Branco | Brasil
-https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8
-#EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://uniquetv.com.br/img/logo-uniquetv.png" group-title="Brasil: variedades",Unique TV | Florianópolis | Brasil
-https://video05.logicahost.com.br/uniquetvlive/uniquetvlive/playlist.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://zettafibra.com.br/wp-content/uploads/2021/06/tvwtjminas.png" group-title="Brasil: variedades",WTJ TV | MG Brasil
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="Brasil: variedades",Zoom
@@ -1302,11 +1208,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1056
 #EXTINF:-1 tvg-id="USAJ3000011S4" tvg-logo="https://i.imgur.com/K1kJf1s.png" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427" group-title="Cinema em inglês",Midnight Pulp | EUA
 https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="5ad8d3a31b95267e225e4e09" tvg-logo="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png" group-title="Cinema em inglês",Movies | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="localnow_Movies of the Week" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/610d8755b2d6aa31714f9a65" group-title="Cinema em inglês",Movies of the Week | Local Now
 https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="5efb60a9e426140007c78e4b" tvg-logo="http://images.pluto.tv/channels/5efb60a9e426140007c78e4b/colorLogoPNG.png" group-title="Cinema em inglês",Movies on Verizon | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb60a9e426140007c78e4b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb60a9e426140007c78e4b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cbXgGFT.png" group-title="Cinema em inglês",Mozzie TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1492
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qk3lttg.png" group-title="Cinema em inglês",Mythos
