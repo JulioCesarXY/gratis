@@ -9,12 +9,10 @@
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 #EXTINF:-1 tvg-id="DarkFlix" tvg-logo="https://i.imgur.com/XKMFQRl.png" group-title="Brasil: cinema",DarkFlix HD | Soul TV Brasil
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Brasil: cinema",MovieSphere | Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema",MyTime Movie Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Brasil: cinema",RunTime Ação | Brasil
@@ -259,14 +257,7 @@ https://dai.google.com/linear/hls/event/YvQxyCZaT9yhN-LCy5twQA/master.m3u8
 https://e5e136053ead4bb88b80fc7a901a4ac0.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-PLEX/mt/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-608a2c722957c9002c6a617b" tvg-logo="https://i.imgur.com/Nsb8a51.png" group-title="Caça; pesca e rodeio em inglês",Wired2Fish TV | SportsTribal
 https://linear-80.frequency.stream/dist/sportstribaltv/80/hls/master/playlist.m3u8
-####################################### Casa, decoração e viagens em espanhol############################
-#EXTINF:-1 tvg-id="Viajar.es" tvg-logo="https://i.imgur.com/YNGoDEp.png" group-title="Casa, decoração e viagens em espanhol",Viajar | Argentina
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1711
-####################################### Casa e decoração em inglês ############################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V7Mor8b.png" group-title="Casa e decoração em inglês",The Beach Show | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
-#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Casa e decoração em inglês",Tiny House Nation | Samsung EUA
-https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
+
 ########################################### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ############################
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="Celebridades e cultura pop em inglês",Axs TV Now | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
@@ -691,8 +682,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1533
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=709
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em outros idiomas",iFilm em árabe | Irã
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="IRIB iFilm IR" tvg-logo="https://i.imgur.com/ZTdKpLg.png" group-title="Cinema em outros idiomas",iFilm em farsi | Irã
-https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3C5cZlE.png" group-title="Cinema em outros idiomas",NollyAfrica | Nigéria
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2526
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1Q2Hoe.png" group-title="Cinema em outros idiomas",Lava | em russo
@@ -1787,7 +1776,7 @@ https://962e528c048144a8aad328ba7bb3035f.mediatailor.us-east-1.amazonaws.com/v1/
 ### MÚSICA ########### ###### ############ ############## #################### ########### ########### ########### ########### ########### ########### ########### ############# ############## ################ ##################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Música",3ABN Praise Him | EUA
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/master.m3u8
-#EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/hmSyoxR.png" group-title="Música",4 Kurd
+#EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/9gzUcqG.png" group-title="Música",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tOX70D5.png" group-title="Música",7 RadioVisione | Itália
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
@@ -1817,8 +1806,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1275
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1273
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wtFM93h.png" group-title="Música",Festiva Top 40 TV | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1274
-#EXTINF:-1 tvg-logo="https://www.radioyoume.com/images/logo_radio_you_and_me_big_light.png" group-title="Música",You & Me | Itália
-https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música",Mubeat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bl9rGPa.png" group-title="Música",Mubeat | música coreana 2
@@ -1837,6 +1824,14 @@ https://sonhls.persiana.live/hls/stream.m3u8
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música",QwestTV Jazz & Beyond | Plex
 https://qwest-jazz-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://labr.online/theme/images/LABR_LOGO.png" group-title="Música",Rádio LABR - Love a Brother Radio
+https://solid2.streamupsolutions.com/proxy/mqxncdsf?mp=/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zxSpyoo.png" group-title="Música",Rádio PipiCucu - Uruguay - música latina
+https://comodin.uy/hls/pipi_cucu/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLGzAQ1.png" group-title="Música",Rádio Rivendell
+https://play.radiorivendell.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjSFUUQ.png" group-title="Música",Rádio VTV Venezuela
+https://guri.tepuyserver.net/8110/stream
 #EXTINF:-1 tvg-id="Reload.cy" tvg-country="CY" tvg-logo="https://i.imgur.com/ZOKNxfc.png" group-title="Música",Reload | Chipre
 https://web.onair-radio.eu/video/video/master.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/8HCjnPt.png" group-title="Música",Stingray Classic Rock
@@ -1869,6 +1864,8 @@ https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Música",Xite | Alemanha 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/xiteaaaaa-xite-samsung-de/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioyoume.com/images/logo_radio_you_and_me_big_light.png" group-title="Música",You & Me | Itália
+https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 ##### Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ############## Música instrumental e som ambiente ##############
 #EXTINF:-1 tvg-id="Autumn Escape" tvg-logo="https://i.imgur.com/OMlghvE.png" group-title="Música instrumental e som ambiente",Autumn Escape | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8
@@ -1911,13 +1908,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=204
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1302
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZIzcKA.png" group-title="Música: karaokê",Party Tyme Karaoke | inglês 6
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=710
-############## NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ################# NOTÍCIAS em ESPANHOL ###########
-#EXTINF:-1 tvg-id="247.uy" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Notícias em espanhol",247 - Uruguay
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Notícias em espanhol",Euronews em espanhol | Plex
-https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8
-#EXTINF:-1 tvg-id="RTES.es" tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em espanhol",RT en español | Rússia
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
 ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ##########
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-logo="https://i.imgur.com/boJAKGs.png" group-title="Notícias em francês",AfricaNews
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
@@ -2020,21 +2011,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1505
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1044
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1" tvg-logo="http://images.pluto.tv/channels/5f161c0a8ba90f0007d5bd0b/colorLogoPNG.png" group-title="Notícias em inglês: dinheiro",Yahoo Finance | Local Now
 https://yahoofinance-localnow.amagi.tv/playlist.m3u8
-############## NOTÍCIAS em neerlandês (holandês) ################## NOTÍCIAS em neerlandês (holandês) ################## NOTÍCIAS em neerlandês (holandês) ################## NOTÍCIAS em neerlandês (holandês) ################## NOTÍCIAS em neerlandês (holandês) ################## NOTÍCIAS em neerlandês (holandês) ################## NOTÍCIAS em neerlandês (holandês) ####
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="Notícias em neerlandês (holandês)",Bruzz
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dA31yD6.png" group-title="Notícias em neerlandês (holandês)",Bruzz 2 | Bélgica
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="Notícias em neerlandês (holandês)",Focus | Bélgica 
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/AG1G1l.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGORIN8.png" group-title="Notícias em neerlandês (holandês)",Focus en WTV | Bélgica
-https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/ARXpX7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EV4NlTF.png" group-title="Notícias em neerlandês (holandês)",Rob TV | Bélgica
-https://api.new.livestream.com/accounts/27755193/events/8462344/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xTyUJTs.jpg" group-title="Notícias em neerlandês (holandês)",TV Limburg | Bélgica
-https://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xAITEOQ.png" group-title="Notícias em neerlandês (holandês)",TV Oost | Bélgica 
-https://player-api.new.livestream.com/accounts/27755193/events/8511193/live.m3u8
 ########### notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ############## notícias em outros idiomas ##############
 #EXTINF:-1 tvg-id="ABCNews.al" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQppoJvg5Inz_5KVl8gzhD8ydrZqta2qffqDLgaag=s400-c-k-c0x00ffffff-no-rj" group-title="Notícias em outros idiomas",ABC News | Albânia
 https://tv2.abcnews.al/live/abcnews/chunks.m3u8
@@ -2482,22 +2458,18 @@ https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 ######### variedades em espanhol ############# ######### variedades em espanhol ###################### variedades em espanhol ############# ######### variedades em espanhol #############
 #EXTINF:-1 tvg-id="101TVMalaga.es" tvg-country="ES-AN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/coUOBmg.png" group-title="Variedades em espanhol",101tv Málaga | Espanha
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
+#EXTINF:-1 tvg-id="247.uy" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Variedades em espanhol",247 - Uruguay
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
 #EXTINF:-1 tvg-id="Aragon.ar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARAGON" group-title="Variedades em espanhol", Aragon TV Internacional - Espanha
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="ATV.ar" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="Variedades em espanhol",ATV - Argentina
 https://tv.streaming.com.bo/atvargentina/index.m3u8
 #EXTINF:-1 tvg-id="AzMundo.mx" tvg-logo="https://i.imgur.com/hPv9EWd.png" tvg-url="https://www.bevy.be/bevyfiles/unitedstatespremium3.xml" group-title="Variedades em espanhol",Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="Variedades em espanhol",Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1731
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="Variedades em espanhol",Canela TV ~ link 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=65
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="Variedades em espanhol",Canela TV ~ link 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=118
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1qxm6bz.png" group-title="Variedades em espanhol",Canela TV ~ link 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="Variedades em espanhol",CGTN em espanhol | China
-https://livees.cgtn.com/1000e/prog_index.m3u8
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="Variedades em espanhol",CGTN em espanhol | Distro TV
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8?ads.islive=1&ads.streamtype=live
 #EXTINF:-1 tvg-id="AZ CLIC" tvg-logo="https://i.imgur.com/4K4Zl1K.png" tvg-url="https://www.bevy.be/bevyfiles/mexicopremium.xml" group-title="Variedades em espanhol",Clic | TV Azteca
@@ -2506,16 +2478,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1475
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jTWGxCL.png" group-title="Variedades em espanhol",Colosal TV | Costa Rica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1237
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://i.imgur.com/TrC7TG6.png" group-title="Variedades em espanhol",Euronews em espanhol | Plex
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zEVskQw.png" group-title="Variedades em espanhol",EV TV | Venezuela
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1400
-#EXTINF:-1 tvg-logo="https://www.glewed.tv/wp-content/uploads/2023/07/glewed-logo_orange.png" group-title="Variedades em espanhol",Glewed TV | Distro TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rJXDEvY.png?1" group-title="Variedades em espanhol",Guada TV Media | México
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1259
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wz3UQgL.png" group-title="Variedades em espanhol",Guaymate HD | República Dominicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1238
-#EXTINF:-1 tvg-id="7LaRioja.es" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fgauhTK.png" group-title="Variedades em espanhol",La 7 de La Rioja | Espanha
-https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRock22.ni" tvg-logo="https://i.imgur.com/DizPH5m.png" group-title="Variedades em espanhol",La Rock 22 | Nicarágua
 http://138.117.4.70:8075/channel22/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7A9xzGi.png" group-title="Variedades em espanhol",Life Style by Tríptic
@@ -2526,6 +2492,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmHf9Zn.png" group-title="Variedades em espanhol",Revry LatinX | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
+#EXTINF:-1 tvg-id="RTES.es" tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Variedades em espanhol",RT en español | Rússia
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="5TV.uy" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Variedades em espanhol",TV Cinco - Uruguay
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="UNI.ar" tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Variedades em espanhol",UNI Teve - Argentina
@@ -2550,7 +2518,7 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em francês",VoxAfrica | francês e inglês
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 ################## Variedades em farsi ############################ Variedades em farsi ############################ Variedades em farsi ############################ Variedades em farsi ############################ Variedades em farsi ############################ Variedades em farsi ##########
-#EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="Variedades em farsi",Persiana HD
+#EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.imgur.com/0xttibX.png" group-title="Variedades em farsi",Persiana HD
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Variedades em farsi",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
@@ -2558,8 +2526,6 @@ https://cinehls.persiana.live/hls/stream.m3u8
 https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Variedades em farsi",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-logo="https://i.imgur.com/AB0BaaA.png" group-title="Variedades em farsi",Persian Film
-https://pfilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Variedades em farsi",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Variedades em farsi",Persiana Junior
@@ -2570,11 +2536,11 @@ https://korhls.persiana.live/hls/stream.m3u8
 https://latinohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Persiana1.fr" tvg-logo="https://i.imgur.com/X1Dv6st.png" group-title="Variedades em farsi",Persiana One
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaRap.fr" tvg-logo="https://i.ibb.co/ThGc7d5/Persiana-Rap.png" group-title="Variedades em farsi",Persiana Rap
-https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaScience.fr" tvg-logo="https://i.postimg.cc/jd3ck5dw/persiana-science512.png" group-title="Variedades em farsi",Persiana Science
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Variedades em farsi",Persiana Sport
+#EXTINF:-1 tvg-id="PersianaRap.fr" tvg-logo="https://i.imgur.com/wwZ0DHE.png" group-title="Variedades em farsi",Persiana Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaSports.fr" tvg-logo="https://i.imgur.com/HSnAR8b.png" group-title="Variedades em farsi",Persiana Sport
 https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
 #EXTINF:-1 tvg-id="PersianaTurkiye.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Variedades em farsi",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
@@ -2694,6 +2660,8 @@ https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iQC3Vpe.png" group-title="Variedades em inglês",Survivor Net TV
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V7Mor8b.png" group-title="Variedades em inglês",The Beach Show | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyyQzYh.png" group-title="Variedades em inglês",The Grapevine | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=279
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyyQzYh.png" group-title="Variedades em inglês",The Grapevine | EUA 2
@@ -2917,8 +2885,6 @@ http://nn.geo.joj.sk/hls/jojplus-540.m3u8f
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvmana-hindi.com/wp-content/uploads/2020/07/Logo_Mana_HINDI_V1.png" group-title="Variedades em vários idiomas",Maná Hindi | português e hindi
 http://195.22.11.11:1935/tvmana-english/english2/playlist.m3u8
-#EXTINF:-1 tvg-language="Persian" tvg-logo="https://i.imgur.com/Bh8aX4c.png" group-title="Variedades em vários idiomas",Manoto em farsi
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XaXRbxj.png" group-title="Variedades em vários idiomas",MIS Televizija | Idioma sérvio
 https://5afd52b55ff79.streamlock.net/MISTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jDZJnth.png" group-title="Variedades em vários idiomas",Nigbati | em iorubá | Nigéria
