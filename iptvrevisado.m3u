@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/mi.tv.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml"  size="Medium"
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Cinema | Brasil", MovieSphere | Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
@@ -340,7 +340,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRACE.Urban.distro" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música | Geral", Trace Urban | Xiaomi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg/revision/latest?cb=20211104234315" group-title="Música | Geral", TIKTOK RADIO
+#EXTINF:-1 tvg-id="TikTok.Radio.on.Stingray.ca2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg/revision/latest?cb=20211104234315" group-title="Música | Geral", TIKTOK RADIO
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-id="CafeViola.br" tvg-logo="https://i.imgur.com/LXEJ3b2.png" group-title="Música | Geral", TV Café Viola | Goiânia
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
