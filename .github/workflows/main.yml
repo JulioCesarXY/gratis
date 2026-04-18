@@ -1,0 +1,44 @@
+            - name: Commits Log & Release
+  # You may pin to the exact commit or the version.
+  # uses: starburst997/commits-logs@7a37c4a08926af36b7d42108ac31b71803ff3a29
+  uses: starburst997/commits-logs@v1.4.0
+  with:
+    # Starting tag for changelog (optional, will auto-detect latest vX.Y.Z tag if not provided)
+    from-tag: # optional, default is 
+    # Ending tag for changelog (optional, defaults to HEAD)
+    to-tag: # optional, default is 
+    # Changelog format: "simple" (one line per commit) or "grouped" (grouped by type)
+    format: # optional, default is simple
+    # Include merge commits in changelog
+    include-merge-commits: # optional, default is false
+    # Title for the changelog section
+    changelog-title: # optional, default is ## Changes
+    # Create a new tag (auto-increments from latest tag)
+    create-tag: # optional, default is false
+    # Version bump type when auto-incrementing: "patch", "minor", or "major"
+    version-bump: # optional, default is patch
+    # Tag name for new release (only used if create-tag is true). Auto-increments if not provided.
+    new-tag: # optional, default is 
+    # Create a GitHub release
+    create-release: # optional, default is false
+    # GitHub token for creating releases
+    token: # optional, default is ${{ github.token }}
+    # Release name.
+    release-name: # optional, default is 
+    # Release body text. If empty, uses generated changelog
+    release-body: # optional, default is 
+    # Create a draft release
+    draft: # optional, default is false
+    # Mark as a prerelease
+    prerelease: # optional, default is false
+    # Mark as latest release
+    make-latest: # optional, default is true
+    # Use GitHub automatic release notes generation in addition to changelog
+    generate-release-notes: # optional, default is false
+    # Newline-delimited list of artifact paths to upload
+    artifacts: # optional, default is 
+    # Content type for artifacts
+    artifact-content-type: # optional, default is application/octet-stream
+    # Commit to tag for release creation
+    commit: # optional, default is 
+          
