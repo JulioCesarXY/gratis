@@ -1,6 +1,9 @@
 #EXTM3U #EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/portugal1.xml,https://raw.githubusercontent.com/rootcoder/epgtv/refs/heads/main/channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml"  size="Medium"
 
-
+#EXTINF:-1 group-title="Cinema | Brasil", NOSSO PLAY TV
+https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/cqtv/imagem/logo_classiqueTV_site.png" group-title="Cinema | Brasil", CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="Cinema | Brasil",FILMES ACAO TOTAL TV
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Cinema | Brasil", MovieSphere | Brasil
