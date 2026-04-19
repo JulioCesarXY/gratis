@@ -1,4 +1,4 @@
-#EXTM3U #EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/portugal1.xml,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/refs/heads/main/channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml"  size="Medium"
+#EXTM3U #EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/portugal1.xml,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/refs/heads/main/channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml"  size="Medium"
 
 #EXTINF:-1 group-title="Cinema | Brasil", NOSSO PLAY TV
 https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
@@ -342,13 +342,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1390
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a0iGaU3.png" group-title="Música | Geral", The Indie Beat
 https://tv.theindiebeat.fm/hls/1/stream.m3u8
-#EXTINF:-1 tvg-id="TRACE.Brazuca.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Trace_Brazuca_logo.png" group-title="Música | Geral", TRACE BRAZUCA
+#EXTINF:-1 tvg-id="TRACE.Brazuca.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Trace_Brazuca_logo.png" group-title="Música | Geral", TRACE BRAZUCA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TRACE.Latina.plex" tvg-logo="https://i.imgur.com/IJRDWGo.png" group-title="Música | Geral", TRACE LATINA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="TRACE.UK.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png" group-title="Música | Geral", TRACE UK
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/5dc882b1-a910-428c-a7d8-1d4af7346718/3.m3u8
-#EXTINF:-1 tvg-id="TRACE.Urban.distro" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música | Geral", TRACE URBAN
+#EXTINF:-1 tvg-id="TRACE.Urban.plex" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música | Geral", TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRACE.Urban.distro" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música | Geral", Trace Urban | Xiaomi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
