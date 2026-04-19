@@ -1,4 +1,4 @@
-#EXTM3U #EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/portugal1.xml,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/refs/heads/main/channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz,https://epg.pw/api/epg.xml?lang=en&date=20260419&channel_id=369737"  size="Medium"
+#EXTM3U #EXTM3U x-tvg-url="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/portugal1.xml,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/refs/heads/main/channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz,https://epg.pw/api/epg.xml?lang=en&date=20260419&channel_id=369737"  size="Medium"
 
 #EXTINF:-1 group-title="Cinema | Brasil", NOSSO PLAY TV
 https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
@@ -96,13 +96,13 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-19954/LVW19954_V2nXt9iI2m/master.m3u8
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-logo="https://i.imgur.com/rNizzxd.png" group-title="Religiosos | Cristianismo", Rede Super | Brasil
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Religiosos | Cristianismo", Rede Vida | Brasil
+#EXTINF:-1 tvg-id="SÃ£o.Paulo/SP..Rede.Vida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="Religiosos | Cristianismo", Rede Vida | Brasil
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f35Nxu2.png" group-title="Religiosos | Cristianismo", SBN Global
 https://acesso.ecast.site:3500/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-logo="https://i.imgur.com/tEQn90j.png" group-title="Religiosos | Cristianismo", Tenda TV | Brasil
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Religiosos | Cristianismo", TV Aparecida | Brasil
+#EXTINF:-1 tvg-id="SÃ£o.Paulo/SP...TV.Aparecida.(espelho).br" tvg-logo="https://i.imgur.com/NJCEHbQ.png" group-title="Religiosos | Cristianismo", TV Aparecida | Brasil
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="Religiosos | Cristianismo", TV Aparecida | PUC TV Goiás
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
