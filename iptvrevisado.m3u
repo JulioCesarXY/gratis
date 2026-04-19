@@ -1,4 +1,4 @@
-#EXTM3U #EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/portugal1.xml,https://raw.githubusercontent.com/rootcoder/epgtv/refs/heads/main/channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml"  size="Medium"
+#EXTM3U #EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/portugal1.xml,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/refs/heads/main/channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml"  size="Medium"
 
 #EXTINF:-1 group-title="Cinema | Brasil", NOSSO PLAY TV
 https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
@@ -332,12 +332,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385
 #EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/2GXzMx8.png" group-title="Música | Geral", Stingray Hit List
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388
-#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/hgTlysA.png" group-title="Música | Geral", Stingray Hot Country | Canadá
+#EXTINF:-1 tvg-id="Stingray.Hot.Country.ca2" tvg-logo="https://i.imgur.com/hgTlysA.png" group-title="Música | Geral", Stingray Hot Country | Canadá
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2704
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199" tvg-logo="https://i.imgur.com/z0mmnRk.png" group-title="Música | Geral", Stingray Qello Concerts
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=568
 #EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/h4NsDgP.png" group-title="Música | Geral", Stingray Soul Storm
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1390
+#EXTINF:-1 tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Música | Geral", Stingray Today's K-Pop
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a0iGaU3.png" group-title="Música | Geral", The Indie Beat
 https://tv.theindiebeat.fm/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="TRACE.Brazuca.distro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Trace_Brazuca_logo.png" group-title="Música | Geral", TRACE BRAZUCA
