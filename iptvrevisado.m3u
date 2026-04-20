@@ -354,8 +354,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRACE.Urban.distro" tvg-logo="https://i.imgur.com/zcpM1Ty.png" group-title="Música | Geral", Trace Urban | Xiaomi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="TikTok.Radio.on.Stingray.ca2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg/revision/latest?cb=20211104234315" group-title="Música | Geral", TIKTOK RADIO
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Logo_Trace_Vanilla_%282022%29.svg/250px-Logo_Trace_Vanilla_%282022%29.svg.png" group-title="Música | Geral",TRACE VANILLA
 https://channels.trace.plus/Traceprod/VANILLA_ld/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e8/Tracegospel2022.png/250px-Tracegospel2022.png" group-title="Música | Geral",TRACE GOSPEL | Nigeria
@@ -366,6 +364,8 @@ https://channels.trace.plus/Traceprod/GOSPEL_FR_ld/index.m3u8
 https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://br.trace.tv/wp-content/uploads/2020/04/Logo_trace_Caribbean_578x278.png" group-title="Música | Geral",TRACE CARIBE
 https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+#EXTINF:-1 tvg-id="TikTok.Radio.on.Stingray.ca2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg/revision/latest?cb=20211104234315" group-title="Música | Geral", TIKTOK RADIO
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
 #EXTINF:-1 tvg-id="CafeViola.br" tvg-logo="https://i.imgur.com/LXEJ3b2.png" group-title="Música | Geral", TV Café Viola | Goiânia
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
 #EXTINF:-1 tvg-id="DEBA2200007V6" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Música | Geral", Xite | Alemanha
