@@ -362,7 +362,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/test-my-ride/24dfb6e6-a1c3-4e88-aa4d-e42d9047b990/1.m3u8
 #EXTINF:-1 tvg-name="CHRONO TV" tvg-logo="https://a.jsrdn.com/hls/23064/chrono-tv/logo_20260324_012150_68.png" group-title="Esportes | Automobilismo",CHRONO TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/chrono-tv/4c7d7391-2715-4d74-8499-ab4398f94e49/1.m3u8
-#EXTINF:-1 tvg-name="FloRacing 24/7" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png" group-title="Esportes | Automobilismo",FloRacing 24/7
+#EXTINF:-1 tvg-name="FloRacing 24/7" tvg-logo="https://a.jsrdn.com/hls/22883/floracing-247/logo_20231219_225054_24.png" group-title="Esportes | Automobilismo",FloRacing 60FPS | DistroTV
 https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="Esportes | Lutas", Grappling Network
@@ -371,6 +371,8 @@ https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1352
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3JC3DOb.png" group-title="Esportes | Lutas", XFC TV | Distro TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/23064/the-ring-tv/logo_20260324_015855_68.png" group-title="Esportes | Lutas",THE RING TV | DistroTV
+https://e3be9ac5.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/0b4c237e-0250-4109-9272-9874b2bc13d2/3.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0fb261_fbb547748fef4cf090fae871fa91ee5f~mv2.png/v1/fill/w_299,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SFT%2053%20logo.png" group-title="Esportes | Lutas", SFT COMBAT
 https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
 
