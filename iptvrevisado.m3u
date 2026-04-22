@@ -753,6 +753,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2Zbn8A.png" group-title="Televendas | Inglês", TSC | Canadá
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="TVSN" tvg-logo="https://i.imgur.com/lmoAFm3.png" group-title="Televendas | Inglês",TVSN | Australia
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master_TVSN.m3u8
 
 #EXTINF:-1 tvg-id="DroneTV.distro" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png" group-title="Outros | Ambient", Drone TV
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
