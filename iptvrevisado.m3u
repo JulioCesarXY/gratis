@@ -83,6 +83,8 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e9
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
 #EXTINF:-1 tvg-id="CineLife.distro" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Cinema | Inglês", CineLife | USA
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kung.Fu.Movies.distro" tvg-logo="https://electricnowdspmedia.cachefly.net/images/6984781fb7a7545d6d00b7bc" group-title="Cinema | Inglês",Kung Fu Movies | USA
+https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/GUSOODFXPR004XSKTJAD/hls3/now,-1m/m.m3u8?ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_platform=%7Bdevice_model%7D&ads.app_store_url=%7Bapp_url%7D&ads.app_ver=%7Bdevice_os_version%7D&ads.channel_name=Kung+Fu+Movies&ads.content_cat=IAB1-5&ads.content_genre=Action%2CClassic%2CMovies&ads.content_id=SGL104&ads.content_language=en&ads.content_title=Enforcer+From+Death+Row&ads.coppa=0&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.did=%7Bdevice_ifa%7D&ads.gdpr=0&ads.gdpr_consent=&ads.h=%7Bplayer_height%7D&ads.ic=IAB1-5&ads.livestream=1&ads.lmt=0&ads.provider=Global+Media&ads.rating=TV14&ads.url=%7Bapp_url%7D&ads.us_privacy=0&ads.video_id=%7Bvideo_id%7D&ads.w=%7Bplayer_width%7D&lastUpdatedAt=1770288740
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema | Inglês", Cinepride | EUA | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2579
 #EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Cinema | Inglês", Discover Film | Plex
@@ -126,6 +128,8 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/XJVYPFQ/22176F765F52/m.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="Cinema | Espanhol", RunTime em Espanhol
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 tvg-id="plex.tv.Electric.Now.plex" tvg-logo="https://electricnowdspmedia.cachefly.net/images/698e5dd0bb906981490c5cd5" group-title="Cinema | Espanhol", Electric Now | Espanhol
+https://amg01705-amg01705c2-amgplt0274.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0274/playlist.m3u8?app_name=&did=&is_lat=1&app_store_url=&coppa=0&ifa_type=&dnt=0&app_bundle=&lastUpdatedAt=1763999154
 
 #EXTINF:-1 tvg-id="FRBA2200010VN" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema | Francês", MyTime Movie Network | França
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -582,7 +586,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/p
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
 #EXTINF:-1 tvg-name="DANCE TELEVISION" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg" group-title="Música | Geral",DANCE TELEVISION
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-name="BOX PLAYLIST" tvg-logo="https://www.dropbox.com/scl/fi/u26q9wzkxlfosekwkkddq/boxplaylist.png?rlkey=gt9o880yijbgrf4rap7fz03u7&st=df2vwiup&dl=0" group-title="Música | Geral",BOX PLAYLIST
+#EXTINF:-1 tvg-name="BOX PLAYLIST" tvg-logo="https://electricnowdspmedia.cachefly.net/images/698475629656354b5d078bd2" group-title="Música | Geral",BOX PLAYLIST
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 538" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/TV-538-RGB_new.png" group-title="Música | Geral",TV 538 | Paises Baixos
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
