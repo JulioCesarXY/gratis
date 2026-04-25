@@ -81,13 +81,11 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e9
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3SuqJaK.png" group-title="Cinema | Inglês", 24 Hour Free Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a27bb62bf105667747223/" group-title="Cinema | Inglês", CineLife | EUA
+#EXTINF:-1 tvg-id="CineLife.distro" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Cinema | Inglês", CineLife | EUA
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema | Inglês", Cinepride | EUA | Galxy TV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema | Inglês", Cinepride | EUA | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2579
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema | Inglês", Cinepride | EUA | Galxy TV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2591
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96d7d0f2-6aff-4bf8-9ad6-37776e655f5f/thumbnail_discoverfilm_logo_ligh" group-title="Cinema | Inglês", Discover Film | Plex
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Cinema | Inglês", Discover Film | Plex
 https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://i.imgur.com/ejyvmON.png" group-title="Cinema | Inglês", Electric Now | EUA 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2184
