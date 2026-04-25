@@ -532,7 +532,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8?ads.dpname=distrotv&ads.rnd=xb9s&ads.env_i=957003d3-a9bc-46d4-b526-59983820f369&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=203&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=45.174.160.84&ads.geo=BR&ads.lat=-2.04980&ads.long=-44.77080&ads.dma=&ads.geoType=2&ads.contentid=23146&ads.content_duration=18000&ads.episode_id=126109&ads.show_id=5050&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CMusic%20Video%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=pa&ads.showtitle=Saga%20Music&ads.episodetitle=Saga%20Music&ads.keywords=Punjabi%20Songs%2CPunjabi%20Music%2CLatest%20Punjabi%20Songs%2CTrending%20Punjabi%20tracks%2CTop%20Punjabi%20Tracks%2CNew%20Punjabi%20Songs%2CPopular%20Punjabi%20Songs%2CBest%20Punjabi%20Songs&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=DpQOv-LyqAS
 #EXTINF:-1 tvg-name="YRF Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" tvg-id="YRF.Music.distro" group-title="Música | Geral",YRF Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/a4d7f39f-ffb3-4988-800a-3e9fa0cebde0/1.m3u8
-#EXTINF:-1 tvg-name="GOSPEL MUSIC TV" tvg-logo="https://imgur.com/D2baHW3.png" group-title="Música | Geral",GOSPEL MUSIC TV
+#EXTINF:-1 tvg-name="GOSPEL MUSIC TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="Música | Geral",GOSPEL MUSIC TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="HIP HOP VAI ALEM TV" tvg-logo="https://imgur.com/Vc2vUtX.png" group-title="Música | Geral",HIP HOP VAI ALEM TV
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
@@ -540,7 +540,7 @@ https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FM TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b3470710001abbd0f526250561a2e03.webp" group-title="Música | Geral",FM TV
 https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
-#EXTINF:-1 tvg-name="TV PORTAL ATIVO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5cfae87cb8a191172ff08ff1b13c3c05.webp" group-title="Música | Geral",TV PORTAL ATIVO | Brasil
+#EXTINF:-1 tvg-name="TV PORTAL ATIVO" tvg-logo="" group-title="Música | Geral",TV PORTAL ATIVO | Brasil
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="MAIS UM" tvg-logo="https://imgur.com/wE5uBK7.png" group-title="Música | Geral",MAIS UM | Brasil
 https://stream.ichibantv.com:3230/stream/play.m3u8
