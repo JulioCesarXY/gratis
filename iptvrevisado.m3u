@@ -32,7 +32,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-id="ESBD800004KU" tvg-logo="https://i.imgur.com/4c7bwSN.png" group-title="Cinema | Brasil", RunTime Romance | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-name="CHARLIE TV" tvg-logo="https://imgur.com/exmQFrD.png" group-title="Cinema | Brasil",CHARLIE TV
+#EXTINF:-1 tvg-name="CHARLIE TV" tvg-logo="https://topmixtv.com.br/wp-content/uploads/2025/09/logomarca.png" group-title="Cinema | Brasil",CHARLIE TV
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TOP MIX TV FILMES" tvg-logo="https://imgur.com/ALSZMdl.png" group-title="Cinema | Brasil",TOP MIX TV FILMES
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
@@ -484,6 +484,10 @@ https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://topmixtv.com.br/wp-content/uploads/2025/09/logomarca.png" group-title="Música | Geral", TOP MIX TV POP ANTIGO
 https://video01.logicahost.com.br/topmixtvpopantigo5/topmixtvpopantigo5/playlist.m3u8
+#EXTINF:-1 tvg-name="TOP MIX ECLETICO" tvg-logo="https://topmixtv.com.br/wp-content/uploads/2025/09/logomarca.png" group-title="Música | Geral",TOP MIX ECLETICO
+https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
+#EXTINF:-1 tvg-name="TOP MIX TV SERTANEJO" tvg-logo="https://topmixtv.com.br/wp-content/uploads/2025/09/logomarca.png" group-title="Música | Geral",TOP MIX TV SERTANEJO
+https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Vt6SgVrOP6LJ2bXhe92ngIHBW8o4ncazVNLuCc-iMVQGf2WKIYc9fuI1sSwP95VBKrUbJOPJpQ=s160-c-k-c0x00ffffff-no-rj" group-title="Música | Geral", KURIAKOS MUSIC | Portugal
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmeLANAtbPtDdO01BemN1t69-zIwcGYIdDxVy8UY1qf0NeZilJ1NVqCA&s=10" group-title="Música | Geral", AUGE MUSIC
@@ -528,10 +532,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/c72d5886-2c34-47fe-acd1-fc36e722ad12/2.m3u8
 #EXTINF:-1 tvg-name="YRF Music" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" tvg-id="YRF.Music.distro" group-title="Música | Geral",YRF Music
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/a4d7f39f-ffb3-4988-800a-3e9fa0cebde0/1.m3u8
-#EXTINF:-1 tvg-name="TOP MIX ECLETICO" tvg-logo="https://imgur.com/ALSZMdl.png" group-title="Música | Geral",TOP MIX ECLETICO
-https://video03.logicahost.com.br/aovivo/aovivo/playlist.m3u8
-#EXTINF:-1 tvg-name="TOP MIX TV SERTANEJO" tvg-logo="https://imgur.com/ALSZMdl.png" group-title="Música | Geral",TOP MIX TV SERTANEJO
-https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8
 #EXTINF:-1 tvg-name="GOSPEL MUSIC TV" tvg-logo="https://imgur.com/D2baHW3.png" group-title="Música | Geral",GOSPEL MUSIC TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="HIP HOP VAI ALEM TV" tvg-logo="https://imgur.com/Vc2vUtX.png" group-title="Música | Geral",HIP HOP VAI ALEM TV
