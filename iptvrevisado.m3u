@@ -402,9 +402,11 @@ https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg0
 
 ====== MÚSICA | GERAL ======
 #EXTINF:-1 tvg-id"Bollywood.HD.distro" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="Música | Geral", Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/e6a0d4fb-7c98-4b97-9273-0f0fda15a641/0.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.vf=lWu9a-np_Vi
 #EXTINF:-1 tvg-id"Bollywood.Classic.distro" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Música | Geral", Bollywood Classic HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/47cad374-eec2-42a8-a835-6363b640d0bf/1.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8?ads.vf=QzgeokcHKvy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="Música | Geral", 3ABN Praise Him | EUA
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/master.m3u8
 #EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/9gzUcqG.png" group-title="Música | Geral", 4 Kurd
