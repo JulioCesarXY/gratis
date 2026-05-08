@@ -548,7 +548,7 @@ https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Qwest.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-jazz&beyond_channel_logo_dark.png" group-title="Música | Geral", Qwest Jazz & Beyond | DistroTV
 https://qwest-jazz-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kUD55Qc.png" group-title="Música | Geral", ESSENTIAL TV
+#EXTINF:-1 tvg-id="Music.Dummy.us"  tvg-logo="https://i.imgur.com/kUD55Qc.png" group-title="Música | Geral", ESSENTIAL TV
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essential%3B&channel_id=newid_247&
 #EXTINF:-1 tvg-id="PersianaMusic.fr" tvg-logo="https://i.imgur.com/SHxxi5I.png" group-title="Música | Geral", Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
@@ -576,17 +576,17 @@ https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 tvg-name="TOP TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad098033466e6a8f12678abed2172f66.webp" group-title="Música | Geral",TOP TV
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FM TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b3470710001abbd0f526250561a2e03.webp" group-title="Música | Geral",FM TV
+#EXTINF:-1 tvg-id="Music.Dummy.us"  tvg-name="FM TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3b3470710001abbd0f526250561a2e03.webp" group-title="Música | Geral",FM TV
 https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
-#EXTINF:-1 tvg-name="TV PORTAL ATIVO" tvg-logo="https://flussonic-tv.jupiter.com.br/images/logos_stb/portal_ativo_hd.png" group-title="Música | Geral",TV PORTAL ATIVO | Brasil
+#EXTINF:-1 tvg-id="Music.Dummy.us"  tvg-name="TV PORTAL ATIVO" tvg-logo="https://flussonic-tv.jupiter.com.br/images/logos_stb/portal_ativo_hd.png" group-title="Música | Geral",TV PORTAL ATIVO | Brasil
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="MAIS UM" tvg-logo="https://i.ibb.co/bg6mmR4n/Logo-Mais-Um-plataforma.png" group-title="Música | Geral",MAIS UM | Brasil
+#EXTINF:-1 tvg-id="Music.Dummy.us"  tvg-name="MAIS UM" tvg-logo="https://i.ibb.co/bg6mmR4n/Logo-Mais-Um-plataforma.png" group-title="Música | Geral",MAIS UM | Brasil
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="RIO HOT MIX" tvg-logo="https://imgur.com/rCRohkk.png" group-title="Música | Geral",RIO HOT MIX
 https://stmv2.voxtvhd.com.br/riohitmix/riohitmix/playlist.m3u8
-#EXTINF:-1 tvg-name="ALTERNATIVA WEB TV IVAI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e134a59abd63476de1b308c959542330.webp" group-title="Música | Geral",ALTERNATIVA WEB TV IVAI
+#EXTINF:-1 tvg-id="Music.Dummy.us"  tvg-name="ALTERNATIVA WEB TV IVAI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e134a59abd63476de1b308c959542330.webp" group-title="Música | Geral",ALTERNATIVA WEB TV IVAI
 https://stmv2.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8
-#EXTINF:-1 tvg-name="LAMORE ROCK SHOW WEB TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/21bae9dbda5e553dc0f618bd5bf36b3c.webp" group-title="Música | Geral",LAMORE ROCK SHOW WEB TV
+#EXTINF:-1 tvg-id="Music.Dummy.us"  tvg-name="LAMORE ROCK SHOW WEB TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/21bae9dbda5e553dc0f618bd5bf36b3c.webp" group-title="Música | Geral",LAMORE ROCK SHOW WEB TV
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 tvg-name="CATEDRAL DO ROCK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d697ec8c1724e5dc37d8999e9aa71ac3.webp" group-title="Música | Geral",CATEDRAL DO ROCK TV
 https://stmv1.srvif.com/tvcrucilandia/tvcrucilandia/playlist.m3u8
