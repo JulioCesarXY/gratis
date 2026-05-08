@@ -4,44 +4,260 @@
     <display-name lang="pt">KpopTV.br</display-name>
     <icon src="https://link-da-logo.com/kpoptvbr.png" />
   </channel>
-
-  <programme start="20260508190000 +0000" stop="20260508200000 +0000" channel="KpopTV.br">
-    <title lang="pt">Hits On Top</title>
-    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
-  </programme>
-
-  <programme start="20260508200000 +0000" stop="20260508210000 +0000" channel="KpopTV.br">
-    <title lang="pt">Boys vs Girls</title>
-    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
-  </programme>
-
-  <programme start="20260508210000 +0000" stop="20260508213000 +0000" channel="KpopTV.br">
-    <title lang="pt">MV e Letra</title>
-    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
-  </programme>
-
-  <programme start="20260508213000 +0000" stop="20260508214500 +0000" channel="KpopTV.br">
-    <title lang="pt">Dança e Joga</title>
-    <desc lang="pt">Interatividade e coreografias para animar sua noite.</desc>
-  </programme>
-
-  <programme start="20260508214500 +0000" stop="20260508233000 +0000" channel="KpopTV.br">
-    <title lang="pt">Programação Musical</title>
-    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
-  </programme>
-
-  <programme start="20260508233000 +0000" stop="20260509010000 +0000" channel="KpopTV.br">
-    <title lang="pt">Old K-Pop</title>
-    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
-  </programme>
-
-  <programme start="20260509010000 +0000" stop="20260509180000 +0000" channel="KpopTV.br">
+  <programme start="20260508010000 -0300" stop="20260508180000 -0300" channel="KpopTV.br">
     <title lang="pt">Programação Musical</title>
     <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
   </programme>
-
-  <programme start="20260509180000 +0000" stop="20260509190000 +0000" channel="KpopTV.br">
-    <title lang="pt">K-News</title>
-    <desc lang="pt">Giro de notícias e aquecimento para o Hits On Top.</desc>
+  <programme start="20260508180000 -0300" stop="20260508190000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Aquecimento para os destaques da noite.</desc>
+  </programme>
+  <programme start="20260508190000 -0300" stop="20260508200000 -0300" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
+  </programme>
+  <programme start="20260508200000 -0300" stop="20260508210000 -0300" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
+  </programme>
+  <programme start="20260508210000 -0300" stop="20260508213000 -0300" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+  <programme start="20260508213000 -0300" stop="20260508214500 -0300" channel="KpopTV.br">
+    <title lang="pt">Dança e Joga</title>
+    <desc lang="pt">Interatividade e coreografias para animar sua noite.</desc>
+  </programme>
+  <programme start="20260508214500 -0300" stop="20260508233000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260508233000 -0300" stop="20260509010000 -0300" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260509010000 -0300" stop="20260509180000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
+  </programme>
+  <programme start="20260509180000 -0300" stop="20260509190000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Aquecimento para os destaques da noite.</desc>
+  </programme>
+  <programme start="20260509190000 -0300" stop="20260509200000 -0300" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
+  </programme>
+  <programme start="20260509200000 -0300" stop="20260509210000 -0300" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
+  </programme>
+  <programme start="20260509210000 -0300" stop="20260509213000 -0300" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+  <programme start="20260509213000 -0300" stop="20260509214500 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260509214500 -0300" stop="20260509233000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260509233000 -0300" stop="20260510010000 -0300" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260510010000 -0300" stop="20260510180000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
+  </programme>
+  <programme start="20260510180000 -0300" stop="20260510190000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Aquecimento para os destaques da noite.</desc>
+  </programme>
+  <programme start="20260510190000 -0300" stop="20260510200000 -0300" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
+  </programme>
+  <programme start="20260510200000 -0300" stop="20260510210000 -0300" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
+  </programme>
+  <programme start="20260510210000 -0300" stop="20260510213000 -0300" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+  <programme start="20260510213000 -0300" stop="20260510214500 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260510214500 -0300" stop="20260510233000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260510233000 -0300" stop="20260511010000 -0300" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260511010000 -0300" stop="20260511180000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
+  </programme>
+  <programme start="20260511180000 -0300" stop="20260511190000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Aquecimento para os destaques da noite.</desc>
+  </programme>
+  <programme start="20260511190000 -0300" stop="20260511200000 -0300" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
+  </programme>
+  <programme start="20260511200000 -0300" stop="20260511210000 -0300" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
+  </programme>
+  <programme start="20260511210000 -0300" stop="20260511213000 -0300" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+  <programme start="20260511213000 -0300" stop="20260511214500 -0300" channel="KpopTV.br">
+    <title lang="pt">Dança e Joga</title>
+    <desc lang="pt">Interatividade e coreografias para animar sua noite.</desc>
+  </programme>
+  <programme start="20260511214500 -0300" stop="20260511233000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260511233000 -0300" stop="20260512010000 -0300" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260512010000 -0300" stop="20260512180000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
+  </programme>
+  <programme start="20260512180000 -0300" stop="20260512190000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Aquecimento para os destaques da noite.</desc>
+  </programme>
+  <programme start="20260512190000 -0300" stop="20260512200000 -0300" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
+  </programme>
+  <programme start="20260512200000 -0300" stop="20260512210000 -0300" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
+  </programme>
+  <programme start="20260512210000 -0300" stop="20260512213000 -0300" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+  <programme start="20260512213000 -0300" stop="20260512214500 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260512214500 -0300" stop="20260512233000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260512233000 -0300" stop="20260513010000 -0300" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260513010000 -0300" stop="20260513180000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
+  </programme>
+  <programme start="20260513180000 -0300" stop="20260513190000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Aquecimento para os destaques da noite.</desc>
+  </programme>
+  <programme start="20260513190000 -0300" stop="20260513200000 -0300" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
+  </programme>
+  <programme start="20260513200000 -0300" stop="20260513210000 -0300" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
+  </programme>
+  <programme start="20260513210000 -0300" stop="20260513213000 -0300" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+  <programme start="20260513213000 -0300" stop="20260513214500 -0300" channel="KpopTV.br">
+    <title lang="pt">Dança e Joga</title>
+    <desc lang="pt">Interatividade e coreografias para animar sua noite.</desc>
+  </programme>
+  <programme start="20260513214500 -0300" stop="20260513233000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260513233000 -0300" stop="20260514010000 -0300" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260514010000 -0300" stop="20260514180000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
+  </programme>
+  <programme start="20260514180000 -0300" stop="20260514190000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Aquecimento para os destaques da noite.</desc>
+  </programme>
+  <programme start="20260514190000 -0300" stop="20260514200000 -0300" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
+  </programme>
+  <programme start="20260514200000 -0300" stop="20260514210000 -0300" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
+  </programme>
+  <programme start="20260514210000 -0300" stop="20260514213000 -0300" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+  <programme start="20260514213000 -0300" stop="20260514214500 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260514214500 -0300" stop="20260514233000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260514233000 -0300" stop="20260515010000 -0300" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260515010000 -0300" stop="20260515180000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
+  </programme>
+  <programme start="20260515180000 -0300" stop="20260515190000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Aquecimento para os destaques da noite.</desc>
+  </programme>
+  <programme start="20260515190000 -0300" stop="20260515200000 -0300" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
+  </programme>
+  <programme start="20260515200000 -0300" stop="20260515210000 -0300" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
+  </programme>
+  <programme start="20260515210000 -0300" stop="20260515213000 -0300" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+  <programme start="20260515213000 -0300" stop="20260515214500 -0300" channel="KpopTV.br">
+    <title lang="pt">Dança e Joga</title>
+    <desc lang="pt">Interatividade e coreografias para animar sua noite.</desc>
+  </programme>
+  <programme start="20260515214500 -0300" stop="20260515233000 -0300" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+  <programme start="20260515233000 -0300" stop="20260516010000 -0300" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
   </programme>
 </tv>
