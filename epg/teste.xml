@@ -1,106 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Gemini_EPG_Gen" generator-info-url="http://totalmusic.uk">
-  
-  <channel id="totalmusic.uk">
-    <display-name lang="pt">Total Music UK</display-name>
+<tv generator-info-name="GeminiEPG">
+  <channel id="KpopTV.br">
+    <display-name lang="pt">KpopTV.br</display-name>
+    <icon src="https://link-da-logo.com/kpoptvbr.png" />
   </channel>
 
-  <programme start="20260508000000 +0000" stop="20260508020000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Late Night Jazz</title>
-    <desc lang="pt">Uma seleção sofisticada de jazz contemporâneo e clássicos para a madrugada.</desc>
-  </programme>
-  <programme start="20260508020000 +0000" stop="20260508040000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Lo-Fi Study Beats</title>
-    <desc lang="pt">Batidas instrumentais perfeitas para concentração ou relaxamento profundo.</desc>
-  </programme>
-  <programme start="20260508040000 +0000" stop="20260508060000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Synthwave Dreams</title>
-    <desc lang="pt">O melhor do retrowave e sintetizadores inspirados nos anos 80.</desc>
-  </programme>
-  <programme start="20260508060000 +0000" stop="20260508080000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Morning Acoustic</title>
-    <desc lang="pt">Versões acústicas e desplugadas para um despertar suave.</desc>
-  </programme>
-  <programme start="20260508080000 +0000" stop="20260508100000 +0000" channel="totalmusic.uk">
-    <title lang="pt">EuroPop Hits</title>
-    <desc lang="pt">As músicas que estão dominando as paradas em toda a Europa.</desc>
-  </programme>
-  <programme start="20260508100000 +0000" stop="20260508120000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Heavy Metal Hour</title>
-    <desc lang="pt">Riffs potentes e o melhor do metal clássico e moderno.</desc>
-  </programme>
-  <programme start="20260508120000 +0000" stop="20260508140000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Urban Rhythms</title>
-    <desc lang="pt">O melhor do Hip-Hop, Trap e R&amp;B mundial.</desc>
-  </programme>
-  <programme start="20260508140000 +0000" stop="20260508160000 +0000" channel="totalmusic.uk">
-    <title lang="pt">World Music Tour</title>
-    <desc lang="pt">Ritmos globais, do Afrobeat ao Reggaeton e música latina.</desc>
-  </programme>
-  <programme start="20260508160000 +0000" stop="20260508180000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Alternative Drive</title>
-    <desc lang="pt">Rock alternativo e indie para acompanhar o seu fim de tarde.</desc>
-  </programme>
-  <programme start="20260508180000 +0000" stop="20260508200000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Club Classics</title>
-    <desc lang="pt">Os hinos que marcaram as pistas de dança nas últimas décadas.</desc>
-  </programme>
-  <programme start="20260508200000 +0000" stop="20260508220000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Friday Night Live</title>
-    <desc lang="pt">Sets exclusivos de DJs convidados para começar o final de semana.</desc>
-  </programme>
-  <programme start="20260508220000 +0000" stop="20260509000000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Mainstage EDM</title>
-    <desc lang="pt">A energia dos grandes festivais de música eletrônica na sua tela.</desc>
+  <programme start="20260508190000 +0000" stop="20260508200000 +0000" channel="KpopTV.br">
+    <title lang="pt">Hits On Top</title>
+    <desc lang="pt">Os maiores sucessos do K-Pop que estão no topo das paradas.</desc>
   </programme>
 
-  <programme start="20260509000000 +0000" stop="20260509020000 +0000" channel="totalmusic.uk">
-    <title lang="pt">After Party Zone</title>
-    <desc lang="pt">Batidas intensas para quem não quer que a noite termine.</desc>
-  </programme>
-  <programme start="20260509020000 +0000" stop="20260509040000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Deep &amp; Dark Techno</title>
-    <desc lang="pt">Imersão total nas vertentes mais pesadas da música eletrônica underground.</desc>
-  </programme>
-  <programme start="20260509040000 +0000" stop="20260509060000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Sunrise Ambient</title>
-    <desc lang="pt">Melodias etéreas para saudar o nascer do sol de sábado.</desc>
-  </programme>
-  <programme start="20260509060000 +0000" stop="20260509080000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Weekend Breakfast</title>
-    <desc lang="pt">Clipes animados e pop leve para o café da manhã de sábado.</desc>
-  </programme>
-  <programme start="20260509080000 +0000" stop="20260509100000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Saturday Pop</title>
-    <desc lang="pt">As músicas mais virais das redes sociais e plataformas de streaming.</desc>
-  </programme>
-  <programme start="20260509100000 +0000" stop="20260509120000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Rock Legends</title>
-    <desc lang="pt">Documentários musicais e grandes shows de lendas do rock.</desc>
-  </programme>
-  <programme start="20260509120000 +0000" stop="20260509140000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Reggae Sunsplash</title>
-    <desc lang="pt">Vibrações positivas com o melhor do Roots Reggae e Dub.</desc>
-  </programme>
-  <programme start="20260509140000 +0000" stop="20260509160000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Soul &amp; Funk Express</title>
-    <desc lang="pt">O balanço irresistível do Motown e do Funk clássico.</desc>
-  </programme>
-  <programme start="20260509160000 +0000" stop="20260509180000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Vocal Trance</title>
-    <desc lang="pt">Melodias épicas e vocais poderosos no melhor do Trance.</desc>
-  </programme>
-  <programme start="20260509180000 +0000" stop="20260509200000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Saturday Night Fever</title>
-    <desc lang="pt">Disco e Funk para colocar todo mundo para dançar.</desc>
-  </programme>
-  <programme start="20260509200000 +0000" stop="20260509220000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Global Dance Chart</title>
-    <desc lang="pt">As faixas de música eletrônica mais tocadas nos clubes ao redor do mundo.</desc>
-  </programme>
-  <programme start="20260509220000 +0000" stop="20260510000000 +0000" channel="totalmusic.uk">
-    <title lang="pt">Big Room House</title>
-    <desc lang="pt">O som dos grandes estádios e arenas para fechar a noite de sábado.</desc>
+  <programme start="20260508200000 +0000" stop="20260508210000 +0000" channel="KpopTV.br">
+    <title lang="pt">Boys vs Girls</title>
+    <desc lang="pt">A batalha definitiva entre Boy Groups e Girl Groups.</desc>
   </programme>
 
+  <programme start="20260508210000 +0000" stop="20260508213000 +0000" channel="KpopTV.br">
+    <title lang="pt">MV e Letra</title>
+    <desc lang="pt">Assista aos clipes e aprenda a cantar com as letras na tela.</desc>
+  </programme>
+
+  <programme start="20260508213000 +0000" stop="20260508214500 +0000" channel="KpopTV.br">
+    <title lang="pt">Dança e Joga</title>
+    <desc lang="pt">Interatividade e coreografias para animar sua noite.</desc>
+  </programme>
+
+  <programme start="20260508214500 +0000" stop="20260508233000 +0000" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">A melhor seleção de clipes e novidades do mundo coreano.</desc>
+  </programme>
+
+  <programme start="20260508233000 +0000" stop="20260509010000 +0000" channel="KpopTV.br">
+    <title lang="pt">Old K-Pop</title>
+    <desc lang="pt">Uma viagem no tempo com os clássicos que definiram gerações.</desc>
+  </programme>
+
+  <programme start="20260509010000 +0000" stop="20260509180000 +0000" channel="KpopTV.br">
+    <title lang="pt">Programação Musical</title>
+    <desc lang="pt">Sua trilha sonora de K-Pop para o dia todo.</desc>
+  </programme>
+
+  <programme start="20260509180000 +0000" stop="20260509190000 +0000" channel="KpopTV.br">
+    <title lang="pt">K-News</title>
+    <desc lang="pt">Giro de notícias e aquecimento para o Hits On Top.</desc>
+  </programme>
 </tv>
