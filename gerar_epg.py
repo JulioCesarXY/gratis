@@ -83,7 +83,7 @@ def gerar_xml_epg():
     xml_lines.append('</tv>')
 
     # Salva o arquivo
-    with open("epg_kpoptvbr.xml", "w", encoding="utf-8") as f:
+    with open("epg/epg_kpoptvbr.xml", "w", encoding="utf-8") as f:
         f.write("\n".join(xml_lines))
     
     print("EPG gerado com sucesso!")
