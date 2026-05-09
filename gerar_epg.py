@@ -9,10 +9,10 @@ def gerar_xml_epg():
     
     xml_lines = [
         '<?xml version="1.0" encoding="UTF-8"?>',
-        '<tv generator-info-name="GeminiEPG-Automated">',
+        '<tv generator-info-name="EPG-Automated">',
         f'  <channel id="{channel_id}">',
         f'    <display-name lang="pt">{channel_name}</display-name>',
-        '    <icon src="https://link-da-logo.com/kpoptvbr.png" />',
+        '    <icon src="https://i.imgur.com/Tf0vweF.png" />',
         '  </channel>'
     ]
 
@@ -59,7 +59,7 @@ def gerar_xml_epg():
 
         # 21h30 - Dança e Joga (Seg/Qua/Sex) ou Programação Musical
         if dia_semana in [0, 2, 4]:
-            titulo, desc = "Dança e Joga", "Coreografias e games interativos."
+            titulo, desc = "Dança e Joga", "Combinação de Game + K-Pop."
         else:
             titulo, desc = "Programação Musical", "A melhor seleção de clipes."
 
