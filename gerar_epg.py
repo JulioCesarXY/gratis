@@ -82,11 +82,19 @@ def gerar_xml_epg():
 
     xml_lines.append('</tv>')
 
-    # Salva o arquivo
-    with open("epg/epg_kpoptvbr.xml", "w", encoding="utf-8") as f:
+      # Importe o 'os' no topo do arquivo se não tiver: import os
+
+    # Cria a pasta 'epg' se ela não existir
+    if not os.path.exists("epg"):
+        os.makedirs("epg")
+
+    # Salva o arquivo dentro da pasta epg
+    caminho_arquivo = os.path.join("epg", "epg_kpoptvbr.xml")
+    with open(caminho_arquivo, "w", encoding="utf-8") as f:
         f.write("\n".join(xml_lines))
     
-    print("EPG gerado com sucesso!")
+    print(f"EPG gerado com sucesso em: {caminho_arquivo}")
+
 
 if __name__ == "__main__":
     gerar_xml_epg()
