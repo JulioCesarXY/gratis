@@ -1,11 +1,20 @@
 import requests
+import os
 from lxml import etree
 from datetime import datetime
-import os
+from deep_translator import GoogleTranslator
+import time
 
+# URL da API JSRDN
 url = "https://tv.jsrdn.com/epg/query.php?range=now,2h&id=45144,139216,145581,145582,83822,119200,145127,145591,138029,140186,136898,140613,140616,140614,140615,114364,126120,92945,95229,138031,138032,138214,138215,145579,145580,145589,145586,145587,145588,145583,145584,145500,145504,145506,145416,145415,145126,145128,144990,144993,144994"
 
 headers = {'User-Agent': 'Mozilla/5.0'}
+translator = GoogleTranslator(source='auto', target='pt')
+
+# Configuração de Pasta e Arquivo
+FOLDER_NAME = "epg"
+FILE_NAME = "epg_distrotv.xml"
+FILE_PATH = os.path.join(FOLDER_NAME, FILE_NAME)
 
 def format_xmltv_date(date_str):
     try:
@@ -14,21 +23,31 @@ def format_xmltv_date(date_str):
     except:
         return ""
 
+def translate_description(text):
+    if not text or len(text) < 3:
+        return text
+    try:
+        return translator.translate(text)
+    except Exception:
+        return text
+
 def generate_xmltv():
     try:
-        # Cria a pasta epg se não existir
-        if not os.path.exists('epg'):
-            os.makedirs('epg')
+        # 1. Cria a pasta 'epg' se ela não existir
+        if not os.path.exists(FOLDER_NAME):
+            os.makedirs(FOLDER_NAME)
+            print(f"Pasta '{FOLDER_NAME}' criada.")
 
-        print("Lendo dados da JSRDN...")
+        print("Obtendo dados da JSRDN...")
         response = requests.get(url, headers=headers)
         data = response.json()
         epg_data = data.get('epg', {})
         
-        root = etree.Element("tv", generator_info_name="JSRDN_Automation")
+        root = etree.Element("tv", generator_info_name="JSRDN_PT_DistroTV")
 
         for cid, info in epg_data.items():
-            channel_name = info.get('title', f"Channel {cid}")
+            # Canal
+            channel_name = info.get('title', f"Canal {cid}")
             chan_tag = etree.SubElement(root, "channel", id=str(cid))
             etree.SubElement(chan_tag, "display-name").text = channel_name
 
@@ -44,24 +63,28 @@ def generate_xmltv():
                     "channel": str(cid)
                 })
 
-                title = s.get('title', 'No Title')
-                etree.SubElement(prog_tag, "title", lang="en").text = str(title)
+                # Título
+                title = s.get('title', 'Sem Título')
+                etree.SubElement(prog_tag, "title", lang="pt").text = str(title)
                 
-                desc = s.get('description')
-                if desc:
-                    etree.SubElement(prog_tag, "desc", lang="en").text = str(desc)
+                # Descrição Traduzida
+                desc_original = s.get('description')
+                if desc_original:
+                    print(f"Traduzindo: {title[:30]}...")
+                    desc_pt = translate_description(desc_original)
+                    etree.SubElement(prog_tag, "desc", lang="pt").text = str(desc_pt)
+                    time.sleep(0.2)
 
-        # Caminho atualizado conforme seu pedido
-        save_path = os.path.join('epg', 'epg_distrotv.xml')
+        # 2. Salva o arquivo no caminho específico: epg/epg_distrotv.xml
         xml_output = etree.tostring(root, pretty_print=True, xml_declaration=True, encoding="UTF-8")
-        
-        with open(save_path, "wb") as f:
+        with open(FILE_PATH, "wb") as f:
             f.write(xml_output)
         
-        print(f"Sucesso! Salvo em {save_path}")
+        print(f"Sucesso! Arquivo salvo em: {FILE_PATH}")
 
     except Exception as e:
         print(f"Erro: {e}")
 
 if __name__ == "__main__":
     generate_xmltv()
+        
