@@ -1,971 +1,946 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator_info_name="JSRDN_Automation">
+<tv generator_info_name="JSRDN_PT_DistroTV">
   <channel id="45144">
     <display-name>Euronews Español</display-name>
   </channel>
-  <programme start="20260509223835 +0000" stop="20260509230000 +0000" channel="45144">
-    <title lang="en">News</title>
-    <desc lang="en">Las principales noticias del momento.</desc>
-  </programme>
-  <programme start="20260509230000 +0000" stop="20260509230500 +0000" channel="45144">
-    <title lang="en">Global Week-End</title>
-    <desc lang="en">Las noticias internacionales y regionales de última hora, análisis y entrevistas.</desc>
-  </programme>
   <programme start="20260509230500 +0000" stop="20260509232955 +0000" channel="45144">
-    <title lang="en">News</title>
-    <desc lang="en">Las principales noticias del momento.</desc>
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
   </programme>
   <programme start="20260509232955 +0000" stop="20260509233455 +0000" channel="45144">
-    <title lang="en">Global Week-End</title>
-    <desc lang="en">Las noticias internacionales y regionales de última hora, análisis y entrevistas.</desc>
+    <title lang="pt">Global Week-End</title>
+    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
   </programme>
   <programme start="20260509233455 +0000" stop="20260510000000 +0000" channel="45144">
-    <title lang="en">News</title>
-    <desc lang="en">Las principales noticias del momento.</desc>
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
   </programme>
   <programme start="20260510000000 +0000" stop="20260510000505 +0000" channel="45144">
-    <title lang="en">Global Week-End</title>
-    <desc lang="en">Las noticias internacionales y regionales de última hora, análisis y entrevistas.</desc>
+    <title lang="pt">Global Week-End</title>
+    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
   </programme>
   <programme start="20260510000505 +0000" stop="20260510003000 +0000" channel="45144">
-    <title lang="en">News</title>
-    <desc lang="en">Las principales noticias del momento.</desc>
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
   </programme>
   <programme start="20260510003000 +0000" stop="20260510003835 +0000" channel="45144">
-    <title lang="en">Global Week-End</title>
-    <desc lang="en">Las noticias internacionales y regionales de última hora, análisis y entrevistas.</desc>
+    <title lang="pt">Global Week-End</title>
+    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
   </programme>
   <programme start="20260510003835 +0000" stop="20260510010000 +0000" channel="45144">
-    <title lang="en">News</title>
-    <desc lang="en">Las principales noticias del momento.</desc>
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260510010000 +0000" stop="20260510010500 +0000" channel="45144">
+    <title lang="pt">Global Week-End</title>
+    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
+  </programme>
+  <programme start="20260510010500 +0000" stop="20260510012955 +0000" channel="45144">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
   </programme>
   <channel id="139216">
     <display-name>CINDIE TV</display-name>
   </channel>
   <programme start="20260509211419 +0000" stop="20260509233123 +0000" channel="139216">
-    <title lang="en">Mi monstruo favorito</title>
-    <desc lang="en">Los humanos y los monstruos han vivido en sus mundos separados, pero después del nacimiento de Wuba, el último de los reyes monstruos, comienza la aventura de unir a las dos razas.</desc>
+    <title lang="pt">Mi monstruo favorito</title>
+    <desc lang="pt">Humanos e monstros viveram em mundos separados, mas após o nascimento de Wuba, o último dos reis monstros, começa a aventura de unir as duas raças.</desc>
   </programme>
   <programme start="20260509233123 +0000" stop="20260510014008 +0000" channel="139216">
-    <title lang="en">ABAJO EL AMOR</title>
-    <desc lang="en">En el Nueva York de 1963, una columnista de consejos que ha renunciado al amor se enamora de un periodista mujeriego que planea atraparla.</desc>
+    <title lang="pt">ABAJO EL AMOR</title>
+    <desc lang="pt">Em 1963, em Nova York, um colunista de conselhos que desistiu do amor se apaixona por um jornalista mulherengo que planeja prendê-la.</desc>
   </programme>
   <channel id="145581">
     <display-name>CHRONO TV</display-name>
   </channel>
   <programme start="20260509222846 +0000" stop="20260509233903 +0000" channel="145581">
-    <title lang="en">Formula 1 Renault Eurocup Round 5</title>
-    <desc lang="en">Formula Renault Eurocup was a Formula Renault motor racing championship. Eurocup raced only on European circuits.</desc>
+    <title lang="pt">Formula 1 Renault Eurocup Round 5</title>
+    <desc lang="pt">A Fórmula Renault Eurocup foi um campeonato de automobilismo da Fórmula Renault. A Eurocup correu apenas em circuitos europeus.</desc>
   </programme>
   <programme start="20260509233903 +0000" stop="20260510004918 +0000" channel="145581">
-    <title lang="en">Formula 1 Renault Eurocup 2017</title>
-    <desc lang="en">The 2017 Formula Renault Eurocup is a multi-event motor racing championship for open wheel, formula racing cars held across Europe. The championship features drivers competing in 2 litre Formula Renault single seat race cars that conform to the technical regulations for the championship.</desc>
+    <title lang="pt">Formula 1 Renault Eurocup 2017</title>
+    <desc lang="pt">A Fórmula Renault Eurocup 2017 é um campeonato de automobilismo multieventos para carros de corrida de fórmula de roda aberta, realizado em toda a Europa. O campeonato conta com pilotos competindo em carros de corrida monolugares da Fórmula Renault de 2 litros que atendem aos regulamentos técnicos do campeonato.</desc>
+  </programme>
+  <programme start="20260510004918 +0000" stop="20260510014755 +0000" channel="145581">
+    <title lang="pt">Formula 1 Renault Eurocup Round 4</title>
+    <desc lang="pt">A Fórmula Renault Eurocup foi um campeonato de automobilismo da Fórmula Renault. A Eurocup correu apenas em circuitos europeus.</desc>
   </programme>
   <channel id="145582">
     <display-name>DRIVE + SPEED</display-name>
   </channel>
-  <programme start="20260509222202 +0000" stop="20260509225346 +0000" channel="145582">
-    <title lang="en">Shifting Gears</title>
-    <desc lang="en">Shifting Gears is the all-new authoritative guide to the latest trends and technology from within today’s ever-changing automotive industry. From the racetrack to the suburban street, Shifting Gears delivers the most up-to-date news on cutting edge research, development and design.</desc>
-  </programme>
   <programme start="20260509225346 +0000" stop="20260509232530 +0000" channel="145582">
-    <title lang="en">Shifting Gears</title>
-    <desc lang="en">Shifting Gears is the all-new authoritative guide to the latest trends and technology from within today’s ever-changing automotive industry. From the racetrack to the suburban street, Shifting Gears delivers the most up-to-date news on cutting edge research, development and design.</desc>
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
   </programme>
   <programme start="20260509232530 +0000" stop="20260509235713 +0000" channel="145582">
-    <title lang="en">Shifting Gears</title>
-    <desc lang="en">Shifting Gears is the all-new authoritative guide to the latest trends and technology from within today’s ever-changing automotive industry. From the racetrack to the suburban street, Shifting Gears delivers the most up-to-date news on cutting edge research, development and design.</desc>
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
   </programme>
   <programme start="20260509235713 +0000" stop="20260510002857 +0000" channel="145582">
-    <title lang="en">Shifting Gears</title>
-    <desc lang="en">Shifting Gears is the all-new authoritative guide to the latest trends and technology from within today’s ever-changing automotive industry. From the racetrack to the suburban street, Shifting Gears delivers the most up-to-date news on cutting edge research, development and design.</desc>
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
   </programme>
   <programme start="20260510002857 +0000" stop="20260510010041 +0000" channel="145582">
-    <title lang="en">Shifting Gears</title>
-    <desc lang="en">Shifting Gears is the all-new authoritative guide to the latest trends and technology from within today’s ever-changing automotive industry. From the racetrack to the suburban street, Shifting Gears delivers the most up-to-date news on cutting edge research, development and design.</desc>
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
+  </programme>
+  <programme start="20260510010041 +0000" stop="20260510013225 +0000" channel="145582">
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
   </programme>
   <channel id="83822">
     <display-name>KOZOOM TV</display-name>
   </channel>
-  <programme start="20260509204204 +0000" stop="20260509225141 +0000" channel="83822">
-    <title lang="en">Artistic European Champ Antalya 2023</title>
-    <desc lang="en">Individual Artistic Division European Championship 2023 Antalya Final.</desc>
-  </programme>
   <programme start="20260509225141 +0000" stop="20260510010102 +0000" channel="83822">
-    <title lang="en">9 Ball Eurotour Italian Open 2022</title>
-    <desc lang="en">All Euro Tour tournaments are 9-ball and players compete in a double-elimination format, playing down to the last 32 competitors, and then single elimination until the finish. All matches are races to 9 racks with alternate break.</desc>
+    <title lang="pt">9 Ball Eurotour Italian Open 2022</title>
+    <desc lang="pt">Todos os torneios do Euro Tour são de 9 bolas e os jogadores competem em formato de eliminação dupla, jogando até os últimos 32 competidores e, em seguida, eliminação simples até o final. Todas as partidas são corridas para 9 racks com intervalos alternados.</desc>
+  </programme>
+  <programme start="20260510010102 +0000" stop="20260510030931 +0000" channel="83822">
+    <title lang="pt">3 Cushion Kozoom Challenge Cup 2021</title>
+    <desc lang="pt">Partida entre 3 jogadores em uma única mesa. Serão disputados 18 sets a 10 pontos. O vencedor de cada grupo estará classificado para a fase final.</desc>
   </programme>
   <channel id="119200">
     <display-name>Romance Channel</display-name>
   </channel>
-  <programme start="20260509214948 +0000" stop="20260509224526 +0000" channel="119200">
-    <title lang="en">La Nuera</title>
-    <desc lang="en">Una joven se enamora de un compañero de clase, pero su padre, un poderoso banquero, quiere casarla con un hombre influyente. Para estar junto a quien ama, deberá enfrentarse a las presiones familiares y luchar por su derecho a elegir su destino.</desc>
-  </programme>
   <programme start="20260509224853 +0000" stop="20260509234712 +0000" channel="119200">
-    <title lang="en">La Nuera</title>
-    <desc lang="en">Una joven se enamora de un compañero de clase, pero su padre, un poderoso banquero, quiere casarla con un hombre influyente. Para estar junto a quien ama, deberá enfrentarse a las presiones familiares y luchar por su derecho a elegir su destino.</desc>
+    <title lang="pt">La Nuera</title>
+    <desc lang="pt">Uma jovem se apaixona por um colega de classe, mas seu pai, um poderoso banqueiro, quer casá-la com um homem influente. Para estar com quem ama, ele deve enfrentar as pressões familiares e lutar pelo direito de escolher seu destino.</desc>
   </programme>
   <programme start="20260509234803 +0000" stop="20260509235248 +0000" channel="119200">
-    <title lang="en">LittleGourmet0s1ep02RMNCLAStv.mp4</title>
+    <title lang="pt">LittleGourmet0s1ep02RMNCLAStv.mp4</title>
   </programme>
   <programme start="20260509235254 +0000" stop="20260509235746 +0000" channel="119200">
-    <title lang="en">Saladeria0s1ep02RMNCLAStv.mp4</title>
+    <title lang="pt">Saladeria0s1ep02RMNCLAStv.mp4</title>
   </programme>
   <programme start="20260510000028 +0000" stop="20260510013947 +0000" channel="119200">
-    <title lang="en">Cómo Ser Rey</title>
-    <desc lang="en">Ramón vive una vida común y corriente, cuando inesperadamente recibe la propuesta de convertirse en rey.
-
-
-
-
-</desc>
+    <title lang="pt">Cómo Ser Rey</title>
+    <desc lang="pt">Ramón vive uma vida normal, quando inesperadamente recebe a proposta para se tornar rei.</desc>
   </programme>
   <channel id="145127">
     <display-name>Trufa</display-name>
   </channel>
-  <programme start="20260509215451 +0000" stop="20260509225026 +0000" channel="145127">
-    <title lang="en">Deliciosisimo</title>
-    <desc lang="en">Es un dia especial para Salchi y Martin prepara una torta</desc>
-  </programme>
   <programme start="20260509225026 +0000" stop="20260509234601 +0000" channel="145127">
-    <title lang="en">Deliciosisimo</title>
-    <desc lang="en">Es un dia especial para Salchi y Martin prepara una torta</desc>
+    <title lang="pt">Deliciosisimo</title>
+    <desc lang="pt">É um dia especial para Salchi e Martin prepara um bolo</desc>
   </programme>
   <programme start="20260509234601 +0000" stop="20260510004136 +0000" channel="145127">
-    <title lang="en">Deliciosisimo</title>
-    <desc lang="en">Es un dia especial para Salchi y Martin prepara una torta</desc>
+    <title lang="pt">Deliciosisimo</title>
+    <desc lang="pt">É um dia especial para Salchi e Martin prepara um bolo</desc>
+  </programme>
+  <programme start="20260510004136 +0000" stop="20260510013710 +0000" channel="145127">
+    <title lang="pt">Deliciosisimo</title>
+    <desc lang="pt">É um dia especial para Salchi e Martin prepara um bolo</desc>
   </programme>
   <channel id="145591">
     <display-name>TyC Sports FAN</display-name>
   </channel>
   <programme start="20260509221036 +0000" stop="20260509232049 +0000" channel="145591">
-    <title lang="en">1 Gimnasia vs. Camioneros 2026 Copa Argentina </title>
-    <desc lang="en">Partido de Fútbol Argentina</desc>
+    <title lang="pt">1 Gimnasia vs. Camioneros 2026 Copa Argentina </title>
+    <desc lang="pt">Jogo de futebol argentino</desc>
   </programme>
   <programme start="20260509232049 +0000" stop="20260510002728 +0000" channel="145591">
-    <title lang="en">2 Gimnasia vs. Camioneros 2026 Copa Argentina </title>
-    <desc lang="en">Partido de Fútbol Argentina</desc>
+    <title lang="pt">2 Gimnasia vs. Camioneros 2026 Copa Argentina </title>
+    <desc lang="pt">Jogo de futebol argentino</desc>
   </programme>
   <programme start="20260510002728 +0000" stop="20260510013747 +0000" channel="145591">
-    <title lang="en">1 Sarmiento vs. Tristan Suarez 2026 Copa Argentina </title>
-    <desc lang="en">Partido de Fútbol Argentina</desc>
+    <title lang="pt">1 Sarmiento vs. Tristan Suarez 2026 Copa Argentina </title>
+    <desc lang="pt">Jogo de futebol argentino</desc>
   </programme>
   <channel id="138029">
     <display-name>Viajar TV</display-name>
   </channel>
-  <programme start="20260509223400 +0000" stop="20260509225000 +0000" channel="138029">
-    <title lang="en">Viajar por mi país - Santa Ana de los Guácaras</title>
-    <desc lang="en">Santa Ana de los Guáracas, Corrientes - Ruinas de Quilmes, Tucumán - Lanin National Park, Neuquén</desc>
-  </programme>
-  <programme start="20260509225000 +0000" stop="20260509230400 +0000" channel="138029">
-    <title lang="en">Viajar por mi país - Estancia Cristina, a magical place</title>
-    <desc lang="en">We invite you to come and discover a land of untouched nature, with treasures hidden in the trails of the glaciers as they carved and defined this land. Those who choose to stay and experience the enveloping night skies and expansive sunrises in this untamed land are those we call wild souls. </desc>
-  </programme>
   <programme start="20260509230400 +0000" stop="20260509233800 +0000" channel="138029">
-    <title lang="en">Los ojos del cielo - Ischigualasto II</title>
-    <desc lang="en">Ischigualasto Provincial Park, also known as the Valley of the Moon, is located in the northwest of San Juan province, Argentina.</desc>
+    <title lang="pt">Los ojos del cielo - Ischigualasto II</title>
+    <desc lang="pt">O Parque Provincial Ischigualasto, também conhecido como Vale da Lua, está localizado no noroeste da província de San Juan, Argentina.</desc>
   </programme>
   <programme start="20260509233800 +0000" stop="20260509235200 +0000" channel="138029">
-    <title lang="en">Viajar por mi país - Lacar lake, a good place to chill</title>
-    <desc lang="en">Lacar lake, Neuquen - Paraná, Entre Ríos - Estancia Las Carreras, Tafí del Valle, Tucumán</desc>
+    <title lang="pt">Viajar por mi país - Lacar lake, a good place to chill</title>
+    <desc lang="pt">Lago Lácar, Neuquen - Paraná, Entre Ríos - Estância Las Carreras, Tafí del Valle, Tucumán</desc>
   </programme>
   <programme start="20260509235200 +0000" stop="20260510000800 +0000" channel="138029">
-    <title lang="en">Viajar por mi país -Tinogasta, Catamarca</title>
-    <desc lang="en">Corrientes, Corrientes- Bartolomé Mitre Square, Buenos Aires- Sandboard, Tinogasta, Catamarca</desc>
+    <title lang="pt">Viajar por mi país -Tinogasta, Catamarca</title>
+    <desc lang="pt">Corrientes, Corrientes- Praça Bartolomé Mitre, Buenos Aires- Sandboard, Tinogasta, Catamarca</desc>
   </programme>
   <programme start="20260510000800 +0000" stop="20260510003900 +0000" channel="138029">
-    <title lang="en">Los ojos del cielo - Quebrada de las Conchas</title>
-    <desc lang="en">We flew over La Quebrada de las Conchas, a nature reserve located within the Calchaquí Valleys, in the province of Salta, northern Argentina.</desc>
+    <title lang="pt">Los ojos del cielo - Quebrada de las Conchas</title>
+    <desc lang="pt">Sobrevoamos La Quebrada de las Conchas, reserva natural localizada nos Vales Calchaquíes, na província de Salta, norte da Argentina.</desc>
   </programme>
   <programme start="20260510003900 +0000" stop="20260510005600 +0000" channel="138029">
-    <title lang="en">Viajar por mi país - Mar del Plata, the happy city</title>
-    <desc lang="en">Mar del Plata, Buenos Aires - Saltos del Moconá, Misiones - Cerro Fitz Roy, Santa Cruz - Ernesto Tornquist square, Buenos Aires</desc>
+    <title lang="pt">Viajar por mi país - Mar del Plata, the happy city</title>
+    <desc lang="pt">Mar del Plata, Buenos Aires - Cataratas de Moconá, Misiones - Cerro Fitz Roy, Santa Cruz - Praça Ernesto Tornquist, Buenos Aires</desc>
+  </programme>
+  <programme start="20260510005600 +0000" stop="20260510011000 +0000" channel="138029">
+    <title lang="pt">Viajar por mi país - Saltos del Moconá, the famous waterfalls</title>
+    <desc lang="pt">Cataratas de Moconá, Corrientes - Parque Nacional Lanín, Neuquén - Sierra de la Ventana, viagem 4x4, Buenos Aires</desc>
+  </programme>
+  <programme start="20260510011000 +0000" stop="20260510012600 +0000" channel="138029">
+    <title lang="pt">Viajar por mi país - Esteros del Iberá</title>
+    <desc lang="pt">Os Esteros del Iberá são uma extensa zona úmida da província de Corrientes, Argentina, conhecida por suas lagoas, banhados e estuários que abrigam uma rica biodiversidade</desc>
   </programme>
   <channel id="140186">
     <display-name>Chicas Guapas TV</display-name>
   </channel>
-  <programme start="20260509210000 +0000" stop="20260509230525 +0000" channel="140186">
-    <title lang="en">Gloria de la Torre: su historia como madre de acogida, el hate y su embarazo en Matronas al rescate</title>
-    <desc lang="en">n este episodio de Matronas al rescate, Emma Salado y Gema Clavero charlan con Gloria G de la Torre, más conocida como Mami de acogida.
-
-Gloria abre su corazón y cuenta cómo vivió la maternidad de acogida con dos niñas que después regresaron con su familia biológica, y cómo finalmente llegó a la maternidad biológica con su propio embarazo.
-
-Además, habla de su vida como influencer, del hate en redes sociales y de todo lo que aprendió en un camino lleno de emociones, despedidas y nuevos comienzos.
-
-</desc>
-  </programme>
   <programme start="20260509233000 +0000" stop="20260510010326 +0000" channel="140186">
-    <title lang="en">EMMA SALADO, GEMA Y CRISTINA PAREJO HABLAN DE SEXO Y MATERNIDAD EN EL BARRO I MATRONAS AL RESCATE</title>
-    <desc lang="en">Hablar de maternidad y sexo sigue siendo un tabú, pero en esta charla de BARRO lo rompemos sin miedo. ¿Qué pasa con el placer después del parto? ¿Cómo cambia el deseo, la intimidad y la forma de relacionarnos cuando nos convertimos en madres y padres? Entre risas, experiencias reales y preguntas incómodas, exploramos la relación entre parto, placer y sexualidad para abrir la conversación que tantos callan.</desc>
+    <title lang="pt">EMMA SALADO, GEMA Y CRISTINA PAREJO HABLAN DE SEXO Y MATERNIDAD EN EL BARRO I MATRONAS AL RESCATE</title>
+    <desc lang="pt">Falar sobre maternidade e sexo ainda é um tabu, mas nesse papo de BARRO a gente quebra sem medo. O que acontece com o prazer após o parto? Como o desejo, a intimidade e a forma como nos relacionamos mudam quando nos tornamos mães e pais? Entre risos, experiências reais e perguntas incômodas, exploramos a relação entre parto, prazer e sexualidade para abrir a conversa sobre a qual tantos silenciam.</desc>
   </programme>
   <channel id="136898">
     <display-name>Comercio TV</display-name>
   </channel>
-  <programme start="20260509210000 +0000" stop="20260509230000 +0000" channel="136898">
-    <title lang="en">Noticias y Análisis</title>
-    <desc lang="en">Resumen informativo con los hechos más relevantes del día y análisis clave del entorno económico, empresarial y social.</desc>
-  </programme>
   <programme start="20260509230000 +0000" stop="20260510000000 +0000" channel="136898">
-    <title lang="en">Noticias y Análisis</title>
-    <desc lang="en">Resumen informativo con los hechos más relevantes del día y análisis clave del entorno económico, empresarial y social.</desc>
+    <title lang="pt">Noticias y Análisis</title>
+    <desc lang="pt">Resumo informativo com os acontecimentos mais relevantes do dia e principais análises do ambiente económico, empresarial e social.</desc>
   </programme>
   <programme start="20260510000000 +0000" stop="20260510010000 +0000" channel="136898">
-    <title lang="en">Noticias y Análisis</title>
-    <desc lang="en">Resumen informativo con los hechos más relevantes del día y análisis clave del entorno económico, empresarial y social.</desc>
+    <title lang="pt">Noticias y Análisis</title>
+    <desc lang="pt">Resumo informativo com os acontecimentos mais relevantes do dia e principais análises do ambiente económico, empresarial e social.</desc>
+  </programme>
+  <programme start="20260510010000 +0000" stop="20260510013000 +0000" channel="136898">
+    <title lang="pt">Noticias y Análisis</title>
+    <desc lang="pt">Resumo informativo com os acontecimentos mais relevantes do dia e principais análises do ambiente económico, empresarial e social.</desc>
   </programme>
   <channel id="140613">
     <display-name>Gritos TV by Trinian</display-name>
   </channel>
   <programme start="20260509213814 +0000" stop="20260509232552 +0000" channel="140613">
-    <title lang="en">Kecksburg</title>
-    <desc lang="en">Un reportero investiga un misterioso accidente y descubre algo más que un objeto, sino una enorme conspiración gubernamental. Inspirada en los hechos reales del 9 de diciembre de 1965 y en uno de los incidentes OVNI más misteriosos de Estados Unidos...</desc>
+    <title lang="pt">Kecksburg</title>
+    <desc lang="pt">Um repórter investiga um acidente misterioso e descobre mais do que apenas um objeto, mas uma enorme conspiração governamental. Inspirado nos acontecimentos reais de 9 de dezembro de 1965 e em um dos mais misteriosos incidentes de OVNIs nos Estados Unidos...</desc>
   </programme>
   <programme start="20260509232552 +0000" stop="20260510010242 +0000" channel="140613">
-    <title lang="en">El Culto de Humpty Dumpty</title>
-    <desc lang="en">Un grupo de adolescentes con problemas y su maestra deben luchar por sobrevivir después de descubrir que una secta ha devuelto la vida a Humpty Dumpty, un muñeco asesino, y lo ha liberado en el campamento en el que se encuentran...</desc>
+    <title lang="pt">El Culto de Humpty Dumpty</title>
+    <desc lang="pt">Um grupo de adolescentes problemáticos e seu professor devem lutar para sobreviver depois de descobrirem que um culto trouxe Humpty Dumpty, um boneco assassino, de volta à vida e o libertou no acampamento em que estão...</desc>
+  </programme>
+  <programme start="20260510010242 +0000" stop="20260510023936 +0000" channel="140613">
+    <title lang="pt">El Bosque del Diablo</title>
+    <desc lang="pt">Rachel e sua equipe de cineastas viajam para a Transilvânia, na Romênia, para documentar os fenômenos paranormais na floresta Hoia-Baciu...</desc>
   </programme>
   <channel id="140616">
     <display-name>Mi Miedo Canal</display-name>
   </channel>
-  <programme start="20260509203432 +0000" stop="20260509224615 +0000" channel="140616">
-    <title lang="en">Soy Una Buena Persona</title>
-    <desc lang="en">Sabina es una treintañera muy "artista" convencida de que podrá algún día vivir de su arte como diseñadora, actriz, guionista o directora, porque ella está destinada a petarlo. Mientras, como casi toda su generación, malvive gorroneando en casa de sus padres. Pero una noche tiene, por desgracia ajena, una oportunidad de lujo... y no dudará en aprovecharla sin pensárselo demasiado.</desc>
-  </programme>
   <programme start="20260509224615 +0000" stop="20260510005617 +0000" channel="140616">
-    <title lang="en">La Sangre Iluminada</title>
-    <desc lang="en">Seis personajes explican su compleja existencia entrelazada. Cada cierto tiempo, debido a matemáticas inexplicables, la vida de estos personajes cambia y ocupan el cuerpo de otro</desc>
+    <title lang="pt">La Sangre Iluminada</title>
+    <desc lang="pt">Seis personagens explicam sua complexa existência entrelaçada. De tempos em tempos, devido a uma matemática inexplicável, a vida desses personagens muda e eles ocupam o corpo de outro</desc>
+  </programme>
+  <programme start="20260510005617 +0000" stop="20260510030253 +0000" channel="140616">
+    <title lang="pt">Inquebrantable</title>
+    <desc lang="pt">Lupita mora em Ciudad Juárez com sua filha Margarita, o marido de Margarita é alcoólatra, mulherengo e agressor, filha de Lupita, Margarita frequenta a universidade mas desde criança tem uma doença cardíaca causada pela violência doméstica que sofre desde criança, Dr. Villa avisa a Lupita que Margarita sua filha vai morrer se não tiver um doador de coração, desesperada ela começa a vender tudo de valor que tem em sua casa para comprar o coração no mercado negro.</desc>
   </programme>
   <channel id="140614">
     <display-name>Mi Raza Canal</display-name>
   </channel>
   <programme start="20260509222609 +0000" stop="20260510004934 +0000" channel="140614">
-    <title lang="en">Dinero Maldito</title>
-    <desc lang="en">Un hombre pobre arruina su vida al encontrar dinero y volverse rico. Con Sergio Reynoso y Elizabeth Solis.</desc>
+    <title lang="pt">Dinero Maldito</title>
+    <desc lang="pt">Um homem pobre arruína sua vida ao encontrar dinheiro e ficar rico. Com Sergio Reynoso e Elizabeth Solis.</desc>
+  </programme>
+  <programme start="20260510004934 +0000" stop="20260510031237 +0000" channel="140614">
+    <title lang="pt">El Motero</title>
+    <desc lang="pt">Gustavo Morales trai sua família e ajuda Los Cortes a sabotar suas plantações de maconha.</desc>
   </programme>
   <channel id="140615">
     <display-name>Mi Raza Canal Plus</display-name>
   </channel>
   <programme start="20260509214924 +0000" stop="20260509234913 +0000" channel="140615">
-    <title lang="en">Esposa de Vacaciones</title>
-    <desc lang="en">Aprovechando la ausencia de su esposa, un hombre se sumerge en las tentaciones que ofrece el ciber espacio y conoce a una mujer casada. Ellos vivirán un romance idílico sin dimensionar las consecuencias.</desc>
+    <title lang="pt">Esposa de Vacaciones</title>
+    <desc lang="pt">Aproveitando a ausência da esposa, um homem mergulha nas tentações que o ciberespaço oferece e conhece uma mulher casada. Eles viverão um romance idílico sem considerar as consequências.</desc>
   </programme>
   <programme start="20260509234913 +0000" stop="20260510014957 +0000" channel="140615">
-    <title lang="en">Aute Retrato</title>
-    <desc lang="en">Recopilación de los mejores momentos de Luis Eduardo Aute en sus 50 años de carrera musical y artística. Un recorrido por sus distintas facetas creativas y sus bandas sonoras. Toda la vida el artista desvelada por un grupo de testigos, colaboradores y amigos que, a través de sus testimonios, demuestran el impacto que han tenido sus icónicas canciones sobre la actualidad musical.</desc>
+    <title lang="pt">Aute Retrato</title>
+    <desc lang="pt">Compilação dos melhores momentos de Luis Eduardo Aute em seus 50 anos de carreira musical e artística. Uma viagem pelas suas diferentes facetas criativas e pelas suas bandas sonoras. Toda a vida do artista revelada por um grupo de testemunhas, colaboradores e amigos que, através dos seus depoimentos, demonstram o impacto que as suas canções icónicas tiveram na música atual.</desc>
   </programme>
   <channel id="114364">
     <display-name>Negocios TV</display-name>
   </channel>
-  <programme start="20260509221500 +0000" stop="20260509224500 +0000" channel="114364">
-    <title lang="en">Live</title>
-  </programme>
   <programme start="20260509224500 +0000" stop="20260509233000 +0000" channel="114364">
-    <title lang="en">Live</title>
+    <title lang="pt">Live</title>
   </programme>
   <programme start="20260509233000 +0000" stop="20260510000000 +0000" channel="114364">
-    <title lang="en">Live</title>
+    <title lang="pt">Live</title>
   </programme>
   <programme start="20260510000000 +0000" stop="20260510003000 +0000" channel="114364">
-    <title lang="en">Live</title>
+    <title lang="pt">Live</title>
   </programme>
   <programme start="20260510003000 +0000" stop="20260510010000 +0000" channel="114364">
-    <title lang="en">Live</title>
+    <title lang="pt">Live</title>
+  </programme>
+  <programme start="20260510010000 +0000" stop="20260510013000 +0000" channel="114364">
+    <title lang="pt">Live</title>
   </programme>
   <channel id="126120">
     <display-name>Pitufo TV</display-name>
   </channel>
-  <programme start="20260509223455 +0000" stop="20260509225817 +0000" channel="126120">
-    <title lang="en">Los Pitufos - El Pequeño Vikingo</title>
-    <desc lang="en">Los Pitufos llevan a Abuelo Pitufo al castillo del rey para que pueda conocer a Guillermo.</desc>
-  </programme>
   <programme start="20260509230000 +0000" stop="20260509231447 +0000" channel="126120">
-    <title lang="en">Pitufos Y Solo Pitufos</title>
-    <desc lang="en">El malvado mago Gargamel ha conseguido capturar a Pitufina.</desc>
+    <title lang="pt">Pitufos Y Solo Pitufos</title>
+    <desc lang="pt">O malvado mago Gargamel conseguiu capturar Smurfette.</desc>
   </programme>
   <programme start="20260509231447 +0000" stop="20260509232946 +0000" channel="126120">
-    <title lang="en">Los Pitufos - El Juguete Mágico</title>
-    <desc lang="en">Abuelo Pitufo llevaba algunos cientos de años sin ver su antiguo juguete.</desc>
+    <title lang="pt">Los Pitufos - El Juguete Mágico</title>
+    <desc lang="pt">Vovô Smurf não via seu antigo brinquedo há algumas centenas de anos.</desc>
   </programme>
   <programme start="20260509233000 +0000" stop="20260509234327 +0000" channel="126120">
-    <title lang="en">Aquel Que Pitufa El Último…</title>
-    <desc lang="en">Pitufo Bromista se pasa de la raya con sus bromas cuando Clorhidris cae víctima de una de ellas.</desc>
+    <title lang="pt">Aquel Que Pitufa El Último…</title>
+    <desc lang="pt">O Prankster Smurf vai longe demais com suas pegadinhas quando Clorhydris é vítima de uma delas.</desc>
   </programme>
   <programme start="20260509234327 +0000" stop="20260509235818 +0000" channel="126120">
-    <title lang="en">Medicina Para Bromista</title>
-    <desc lang="en">Los Pitufos son pequeños y alegres seres azules. ¡Sigue sus aventuras más emocionantes y mágicas!</desc>
+    <title lang="pt">Medicina Para Bromista</title>
+    <desc lang="pt">Os Smurfs são seres azuis pequenos e felizes. Acompanhe suas aventuras mais emocionantes e mágicas!</desc>
   </programme>
   <channel id="92945">
     <display-name>Motorvision TV Español</display-name>
   </channel>
-  <programme start="20260509223828 +0000" stop="20260509224816 +0000" channel="92945">
-    <title lang="en">Cadillac Escalade</title>
-    <desc lang="en">El Cadillac Escalade es un SUV de lujo americano</desc>
-  </programme>
-  <programme start="20260509224816 +0000" stop="20260509225855 +0000" channel="92945">
-    <title lang="en">Porsche Panamera GTS</title>
-    <desc lang="en">Una berlina de lujo y un deportivo</desc>
-  </programme>
   <programme start="20260509230000 +0000" stop="20260510000830 +0000" channel="92945">
-    <title lang="en">New Zealand Rally Championship - Rally de Otago</title>
-    <desc lang="en">Central Machine Hire Rally Otago: Ben Hunt lucha con los hermanos Stokes en inicio NZRC.</desc>
+    <title lang="pt">New Zealand Rally Championship - Rally de Otago</title>
+    <desc lang="pt">Central Machine Hire Rally Otago: Ben Hunt luta com os irmãos Stokes na largada do NZRC.</desc>
   </programme>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
   <programme start="20260509220000 +0000" stop="20260509233000 +0000" channel="95229">
-    <title lang="en">EL PROYECTOR</title>
-    <desc lang="en">Acérquese a la vida de la China antigua y moderna a través de las producciones dramáticas de CGTN-Español. La combinación perfecta de historia y ficción chinas en la pantalla de su televisor.</desc>
+    <title lang="pt">EL PROYECTOR</title>
+    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
   </programme>
   <programme start="20260509233000 +0000" stop="20260509234500 +0000" channel="95229">
-    <title lang="en">SABOREANDO CHINA</title>
-    <desc lang="en">Aprenda a preparar las recetas más populares de China. Nuestro chef le revelará de forma práctica los secretos del arte culinario de esta nación asiática. Conozca los ingredientes más utilizados en la variada cocina regional, los orígenes de los platos e incluso sus beneficios para la salud. En De China a tu cocina, el espectador podrá experimentar a la vez la riqueza tradicional y la variedad gastronómica de China.</desc>
+    <title lang="pt">SABOREANDO CHINA</title>
+    <desc lang="pt">Aprenda a preparar as receitas chinesas mais populares. Nosso chef irá revelar de forma prática os segredos da arte culinária desta nação asiática. Conheça os ingredientes mais utilizados na variada gastronomia regional, a origem dos pratos e até os seus benefícios para a saúde. Em Da China para a sua cozinha, o espectador poderá vivenciar tanto a riqueza tradicional quanto a variedade gastronômica da China.</desc>
   </programme>
   <programme start="20260509234500 +0000" stop="20260510000000 +0000" channel="95229">
-    <title lang="en">NIHAO CHINA</title>
-    <desc lang="en">Es la clase de chino de CGTN-Español. Las series “Aprendamos juntos pinyin”, “Comunícate en chino” y “Viajando y aprendiendo chino”, abordan diferentes niveles de aprendizaje de la nueva lengua de moda en el mundo, brindando así a los televidentes la posibilidad de ampliar su vocabulario, mejorar su gramática y dominar las frases y expresiones más usuales del idioma con más hablantes en el planeta.</desc>
+    <title lang="pt">NIHAO CHINA</title>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260510000000 +0000" stop="20260510003000 +0000" channel="95229">
-    <title lang="en">DOCUMENTAL</title>
-    <desc lang="en">Presentapersonajes y acontecimientos típicos, avances y descubrimientos tecnológicos y científicos,  y la civilización social de China.</desc>
+    <title lang="pt">DOCUMENTAL</title>
+    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
   </programme>
   <programme start="20260510003000 +0000" stop="20260510010000 +0000" channel="95229">
-    <title lang="en">ASÍ ES CHINA</title>
-    <desc lang="en">Descubre para el televidente el gran legado cultural e histórico de las distintas regiones y etnias de China. También le acerca a la vida y las costumbres de la gente común y le muestra la evolución del país en aspectos como educación, sociedad y protección del medio ambiente y del patrimonio histórico y natural.</desc>
+    <title lang="pt">ASÍ ES CHINA</title>
+    <desc lang="pt">Descubra para o espectador o grande legado cultural e histórico das diferentes regiões e etnias da China. Também aproxima você da vida e dos costumes do cidadão comum e mostra a evolução do país em aspectos como educação, sociedade e proteção do meio ambiente e do patrimônio histórico e natural.</desc>
+  </programme>
+  <programme start="20260510010000 +0000" stop="20260510013000 +0000" channel="95229">
+    <title lang="pt">CGTN NOTICIAS</title>
+    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
   </programme>
   <channel id="138031">
     <display-name>Box Cinema</display-name>
   </channel>
-  <programme start="20260509200400 +0000" stop="20260509230700 +0000" channel="138031">
-    <title lang="en">13 Horas: Los soldados secretos de Bengasi</title>
-    <desc lang="en">Durante un ataque a un departamento estadounidense en Libia, un equipo de seguridad intenta dar sentido al reinante caos.</desc>
-  </programme>
   <programme start="20260509230700 +0000" stop="20260510013000 +0000" channel="138031">
-    <title lang="en">Doctor Strange</title>
-    <desc lang="en">Durante un viaje de curación física y espiritual, un brillante neurocirujano se ve arrastrado al mundo de las artes místicas.</desc>
+    <title lang="pt">Doctor Strange</title>
+    <desc lang="pt">Durante uma jornada de cura física e espiritual, um neurocirurgião brilhante é atraído para o mundo das artes místicas.</desc>
   </programme>
   <channel id="138032">
     <display-name>Box Gamers</display-name>
   </channel>
-  <programme start="20260509215700 +0000" stop="20260509224100 +0000" channel="138032">
-    <title lang="en">Box Soccer Gameplay - manchester united vs manchester city</title>
-    <desc lang="en">Partidazo virtual entre gigantes del fútbol.</desc>
-  </programme>
   <programme start="20260509224100 +0000" stop="20260509231800 +0000" channel="138032">
-    <title lang="en">Notibox - los proximos juegos a salir al mercado</title>
-    <desc lang="en">Próximos títulos que harán historia.</desc>
+    <title lang="pt">Notibox - los proximos juegos a salir al mercado</title>
+    <desc lang="pt">Próximos títulos que farão história.</desc>
   </programme>
   <programme start="20260509231800 +0000" stop="20260510002100 +0000" channel="138032">
-    <title lang="en">La Batalla - team tmm bandits playoffs de liga sd de rocket league</title>
-    <desc lang="en">Batalla feroz en playoffs de Liga SD.</desc>
+    <title lang="pt">La Batalla - team tmm bandits playoffs de liga sd de rocket league</title>
+    <desc lang="pt">Batalha feroz nos playoffs da SD League.</desc>
   </programme>
   <programme start="20260510002100 +0000" stop="20260510013800 +0000" channel="138032">
-    <title lang="en">New Gaming Trend</title>
-    <desc lang="en">Upcoming Games </desc>
+    <title lang="pt">New Gaming Trend</title>
+    <desc lang="pt">Próximos jogos</desc>
   </programme>
   <channel id="138214">
     <display-name>HITS MEXICANOS</display-name>
   </channel>
-  <programme start="20260509223800 +0000" stop="20260509224400 +0000" channel="138214">
-    <title lang="en">Magneto - Vuela Vuela</title>
-    <desc lang="en">Classic hits to remember and enjoy.</desc>
-  </programme>
-  <programme start="20260509224400 +0000" stop="20260509224600 +0000" channel="138214">
-    <title lang="en">Doble Blindaje - Andamos Enclicados</title>
-    <desc lang="en">The best Mexican hits, all styles.</desc>
-  </programme>
-  <programme start="20260509224600 +0000" stop="20260509225100 +0000" channel="138214">
-    <title lang="en">Luis Miguel - O Tú, O Ninguna</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
-  </programme>
-  <programme start="20260509225100 +0000" stop="20260509225500 +0000" channel="138214">
-    <title lang="en">La Reunión Norteña - Todo Contigo</title>
-    <desc lang="en">Feel Mexico through its greatest hits.</desc>
-  </programme>
-  <programme start="20260509225500 +0000" stop="20260509230000 +0000" channel="138214">
-    <title lang="en">Cristian Castro - Sin Tu Amor</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
-  </programme>
-  <programme start="20260509230000 +0000" stop="20260509230100 +0000" channel="138214">
-    <title lang="en">Id - Hits Mexicanos (04)</title>
-    <desc lang="en">Discover Mexican hits that define culture.</desc>
-  </programme>
-  <programme start="20260509230100 +0000" stop="20260509230700 +0000" channel="138214">
-    <title lang="en">Maná - En El Muelle De San Blás</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
-  </programme>
   <programme start="20260509230700 +0000" stop="20260509231200 +0000" channel="138214">
-    <title lang="en">RBD - Nuestro Amor</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">RBD - Nuestro Amor</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260509231200 +0000" stop="20260509231400 +0000" channel="138214">
-    <title lang="en">Id - Hits Mexicanos - Pack 02</title>
-    <desc lang="en">Discover Mexican hits that define culture.</desc>
+    <title lang="pt">Id - Hits Mexicanos - Pack 02</title>
+    <desc lang="pt">Descubra sucessos mexicanos que definem a cultura.</desc>
   </programme>
   <programme start="20260509231400 +0000" stop="20260509231700 +0000" channel="138214">
-    <title lang="en">Grupo Límite - Vete</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">Grupo Límite - Vete</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260509231700 +0000" stop="20260509232300 +0000" channel="138214">
-    <title lang="en">Mijares - Para Amarnos Más</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">Mijares - Para Amarnos Más</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260509232300 +0000" stop="20260509232600 +0000" channel="138214">
-    <title lang="en">Thalia - Entre El Mar Y Una Estrella</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">Thalia - Entre El Mar Y Una Estrella</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260509232600 +0000" stop="20260509233300 +0000" channel="138214">
-    <title lang="en">Pedro Fernández -Yo No Fui</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">Pedro Fernández -Yo No Fui</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260509233300 +0000" stop="20260509233800 +0000" channel="138214">
-    <title lang="en">Paulina Rubio - El Último Adiós</title>
-    <desc lang="en">Classic hits to remember and enjoy.</desc>
+    <title lang="pt">Paulina Rubio - El Último Adiós</title>
+    <desc lang="pt">Sucessos clássicos para lembrar e curtir.</desc>
   </programme>
   <programme start="20260509233800 +0000" stop="20260509234300 +0000" channel="138214">
-    <title lang="en">El Chapo De Sinaloa - Hola Mi Amor</title>
-    <desc lang="en">The best Mexican hits, all styles.</desc>
+    <title lang="pt">El Chapo De Sinaloa - Hola Mi Amor</title>
+    <desc lang="pt">Os melhores sucessos mexicanos, todos os estilos.</desc>
   </programme>
   <programme start="20260509234300 +0000" stop="20260509234700 +0000" channel="138214">
-    <title lang="en">Cristian Castro - Lloran Las Rosas</title>
-    <desc lang="en">Classic hits to remember and enjoy.</desc>
+    <title lang="pt">Cristian Castro - Lloran Las Rosas</title>
+    <desc lang="pt">Sucessos clássicos para lembrar e curtir.</desc>
   </programme>
   <programme start="20260509234700 +0000" stop="20260509235200 +0000" channel="138214">
-    <title lang="en">Eden Muñoz - ¡Chale!</title>
-    <desc lang="en">Feel Mexico through its greatest hits.</desc>
+    <title lang="pt">Eden Muñoz - ¡Chale!</title>
+    <desc lang="pt">Sinta o México através de seus maiores sucessos.</desc>
   </programme>
   <programme start="20260509235200 +0000" stop="20260509235500 +0000" channel="138214">
-    <title lang="en">Patricia Manterola - Quiero Emborracharme De Ti</title>
-    <desc lang="en">Ride the wave of global hits.</desc>
+    <title lang="pt">Patricia Manterola - Quiero Emborracharme De Ti</title>
+    <desc lang="pt">Aproveite a onda de sucessos globais.</desc>
   </programme>
   <programme start="20260509235500 +0000" stop="20260509235900 +0000" channel="138214">
-    <title lang="en">Pedro Fernández - Como Quieres Que Te Olvide</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">Pedro Fernández - Como Quieres Que Te Olvide</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260509235900 +0000" stop="20260510000400 +0000" channel="138214">
-    <title lang="en">Christian Nodal Ft Ángela Aguilar - Dime Cómo Quieres</title>
-    <desc lang="en">Feel Mexico through its greatest hits.</desc>
+    <title lang="pt">Christian Nodal Ft Ángela Aguilar - Dime Cómo Quieres</title>
+    <desc lang="pt">Sinta o México através de seus maiores sucessos.</desc>
   </programme>
   <programme start="20260510000400 +0000" stop="20260510000700 +0000" channel="138214">
-    <title lang="en">Joan Sebastian - Un Idiota</title>
-    <desc lang="en">The best Mexican hits, all styles.</desc>
+    <title lang="pt">Joan Sebastian - Un Idiota</title>
+    <desc lang="pt">Os melhores sucessos mexicanos, todos os estilos.</desc>
   </programme>
   <programme start="20260510000700 +0000" stop="20260510001100 +0000" channel="138214">
-    <title lang="en">Plastilina Mosh - Mr. P-Mosh</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">Plastilina Mosh - Mr. P-Mosh</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260510001100 +0000" stop="20260510001600 +0000" channel="138214">
-    <title lang="en">Los Buitres De Culiacan - Ya Después de Muerto</title>
-    <desc lang="en">The best Mexican hits, all styles.</desc>
+    <title lang="pt">Los Buitres De Culiacan - Ya Después de Muerto</title>
+    <desc lang="pt">Os melhores sucessos mexicanos, todos os estilos.</desc>
   </programme>
   <programme start="20260510001600 +0000" stop="20260510001900 +0000" channel="138214">
-    <title lang="en">Chapo De Sinaloa - Si Te Agarran Las Ganas</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">Chapo De Sinaloa - Si Te Agarran Las Ganas</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260510001900 +0000" stop="20260510002300 +0000" channel="138214">
-    <title lang="en">El Gran Silencio - Chúntaros Style</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">El Gran Silencio - Chúntaros Style</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260510002300 +0000" stop="20260510002700 +0000" channel="138214">
-    <title lang="en">Lilia Downs - El Último Trago</title>
-    <desc lang="en">The best Mexican hits, all styles.</desc>
+    <title lang="pt">Lilia Downs - El Último Trago</title>
+    <desc lang="pt">Os melhores sucessos mexicanos, todos os estilos.</desc>
   </programme>
   <programme start="20260510002700 +0000" stop="20260510003200 +0000" channel="138214">
-    <title lang="en">Cristian Castro - Lloran Las Rosas</title>
-    <desc lang="en">The sound of Mexico in hits.</desc>
+    <title lang="pt">Cristian Castro - Lloran Las Rosas</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <programme start="20260510003200 +0000" stop="20260510003600 +0000" channel="138214">
-    <title lang="en">Alejandra Guzmán - La Plaga</title>
-    <desc lang="en">Ride the wave of global hits.</desc>
+    <title lang="pt">Alejandra Guzmán - La Plaga</title>
+    <desc lang="pt">Aproveite a onda de sucessos globais.</desc>
   </programme>
   <programme start="20260510003600 +0000" stop="20260510004100 +0000" channel="138214">
-    <title lang="en">Cristian Castro - No Hace Falta</title>
-    <desc lang="en">Classic hits to remember and enjoy.</desc>
+    <title lang="pt">Cristian Castro - No Hace Falta</title>
+    <desc lang="pt">Sucessos clássicos para lembrar e curtir.</desc>
+  </programme>
+  <programme start="20260510004100 +0000" stop="20260510004600 +0000" channel="138214">
+    <title lang="pt">Bibi Gaytán - Tan Sólo Una Mujer</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
+  </programme>
+  <programme start="20260510004600 +0000" stop="20260510004900 +0000" channel="138214">
+    <title lang="pt">Pandora - Cuando No Estas Conmigo</title>
+    <desc lang="pt">Aproveite a onda de sucessos globais.</desc>
+  </programme>
+  <programme start="20260510004900 +0000" stop="20260510005200 +0000" channel="138214">
+    <title lang="pt">Diego Verdaguer - Nena</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
+  </programme>
+  <programme start="20260510005200 +0000" stop="20260510005700 +0000" channel="138214">
+    <title lang="pt">Enrique Guzmán - Uno De Tantos</title>
+    <desc lang="pt">Sucessos supermexicanos em todos os estilos musicais.</desc>
+  </programme>
+  <programme start="20260510005700 +0000" stop="20260510010200 +0000" channel="138214">
+    <title lang="pt">Molotov - Dame El Power</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
+  </programme>
+  <programme start="20260510010200 +0000" stop="20260510010500 +0000" channel="138214">
+    <title lang="pt">Id - Hits Mexicanos - Pack 03</title>
+    <desc lang="pt">Descubra sucessos mexicanos que definem a cultura.</desc>
+  </programme>
+  <programme start="20260510010500 +0000" stop="20260510010800 +0000" channel="138214">
+    <title lang="pt">Los Panchos - Recordar Es Vivir</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
+  </programme>
+  <programme start="20260510010800 +0000" stop="20260510011100 +0000" channel="138214">
+    <title lang="pt">Vicente Fernández - Que Dios Te Lo Pague</title>
+    <desc lang="pt">O som do México em sucessos.</desc>
   </programme>
   <channel id="138215">
     <display-name>Rockola Television</display-name>
   </channel>
-  <programme start="20260509224000 +0000" stop="20260509224300 +0000" channel="138215">
-    <title lang="en">Ricardo Arjona - Mujeres</title>
-    <desc lang="en">Discover the magic of Spanish 90s songs.</desc>
-  </programme>
-  <programme start="20260509224300 +0000" stop="20260509224800 +0000" channel="138215">
-    <title lang="en">System of a Down - Chop Suey!</title>
-    <desc lang="en">90s classic rock that shaped a generation.</desc>
-  </programme>
-  <programme start="20260509224800 +0000" stop="20260509225200 +0000" channel="138215">
-    <title lang="en">Ricky Martin - La Bomba</title>
-    <desc lang="en">Discover the magic of Spanish 90s songs.</desc>
-  </programme>
-  <programme start="20260509225200 +0000" stop="20260509225800 +0000" channel="138215">
-    <title lang="en">Smash Mouth - All Star</title>
-    <desc lang="en">90s classic rock that shaped a generation.</desc>
-  </programme>
-  <programme start="20260509225800 +0000" stop="20260509230400 +0000" channel="138215">
-    <title lang="en">Pop vs Rock (3)</title>
-    <desc lang="en">Where pop meets rock, unforgettable music in English.</desc>
-  </programme>
-  <programme start="20260509230400 +0000" stop="20260509231000 +0000" channel="138215">
-    <title lang="en">Maná - Bendita Tu Luz</title>
-    <desc lang="en">A channel dedicated to lovers of the music of the 90s in Spanish.</desc>
-  </programme>
   <programme start="20260509231000 +0000" stop="20260509231500 +0000" channel="138215">
-    <title lang="en">Isabel Pantoja - Hoy Quiero Confesarme</title>
-    <desc lang="en">Spanish 80s anthems that shaped generations.</desc>
+    <title lang="pt">Isabel Pantoja - Hoy Quiero Confesarme</title>
+    <desc lang="pt">Hinos espanhóis dos anos 80 que moldaram gerações.</desc>
   </programme>
   <programme start="20260509231500 +0000" stop="20260509232000 +0000" channel="138215">
-    <title lang="en">Vicente Fernández - El Rey</title>
-    <desc lang="en">Relive unforgettable concerts, all in Spanish.</desc>
+    <title lang="pt">Vicente Fernández - El Rey</title>
+    <desc lang="pt">Reviva concertos inesquecíveis, todos em espanhol.</desc>
   </programme>
   <programme start="20260509232000 +0000" stop="20260509232400 +0000" channel="138215">
-    <title lang="en">Franco De Vita Ft Alejandra Guzmán - Tan Sólo Tú</title>
-    <desc lang="en">Relive unforgettable concerts, all in Spanish.</desc>
+    <title lang="pt">Franco De Vita Ft Alejandra Guzmán - Tan Sólo Tú</title>
+    <desc lang="pt">Reviva concertos inesquecíveis, todos em espanhol.</desc>
   </programme>
   <programme start="20260509232400 +0000" stop="20260509232900 +0000" channel="138215">
-    <title lang="en">Laura Pausini - Entre Tù Y Mil Mares</title>
-    <desc lang="en">Discover the magic of Spanish 90s songs.</desc>
+    <title lang="pt">Laura Pausini - Entre Tù Y Mil Mares</title>
+    <desc lang="pt">Descubra a magia das músicas espanholas dos anos 90.</desc>
   </programme>
   <programme start="20260509232900 +0000" stop="20260509233300 +0000" channel="138215">
-    <title lang="en">José Luis Perales - ¿Y Cómo Es Él?</title>
-    <desc lang="en">A channel for true 80s Spanish hits.</desc>
+    <title lang="pt">José Luis Perales - ¿Y Cómo Es Él?</title>
+    <desc lang="pt">Um canal de verdadeiros sucessos espanhóis dos anos 80.</desc>
   </programme>
   <programme start="20260509233300 +0000" stop="20260509234200 +0000" channel="138215">
-    <title lang="en">The Human League - Don't You Want Me</title>
-    <desc lang="en">The best 80s classics, all here.</desc>
+    <title lang="pt">The Human League - Don't You Want Me</title>
+    <desc lang="pt">Os melhores clássicos dos anos 80, todos aqui.</desc>
   </programme>
   <programme start="20260509234200 +0000" stop="20260509234900 +0000" channel="138215">
-    <title lang="en">Kid Rock - American Bad Ass</title>
-    <desc lang="en">90s classic rock that shaped a generation.</desc>
+    <title lang="pt">Kid Rock - American Bad Ass</title>
+    <desc lang="pt">Rock clássico dos anos 90 que moldou uma geração.</desc>
   </programme>
   <programme start="20260509234900 +0000" stop="20260509235200 +0000" channel="138215">
-    <title lang="en">Stella Getz - Friends</title>
-    <desc lang="en">Dance through the golden 90s beats in English.</desc>
+    <title lang="pt">Stella Getz - Friends</title>
+    <desc lang="pt">Dance as batidas douradas dos anos 90 em inglês.</desc>
   </programme>
   <programme start="20260509235200 +0000" stop="20260510000300 +0000" channel="138215">
-    <title lang="en">Pop vs Rock (2)</title>
-    <desc lang="en">Where pop meets rock, unforgettable music in English.</desc>
+    <title lang="pt">Pop vs Rock (2)</title>
+    <desc lang="pt">Onde o pop encontra o rock, música inesquecível em inglês.</desc>
   </programme>
   <programme start="20260510000300 +0000" stop="20260510000900 +0000" channel="138215">
-    <title lang="en">Pop vs Rock (22)</title>
-    <desc lang="en">Where pop meets rock, unforgettable music in English.</desc>
+    <title lang="pt">Pop vs Rock (22)</title>
+    <desc lang="pt">Onde o pop encontra o rock, música inesquecível em inglês.</desc>
   </programme>
   <programme start="20260510000900 +0000" stop="20260510001300 +0000" channel="138215">
-    <title lang="en">Maná - Clavado En Un Bar</title>
-    <desc lang="en">Discover the magic of Spanish 90s songs.</desc>
+    <title lang="pt">Maná - Clavado En Un Bar</title>
+    <desc lang="pt">Descubra a magia das músicas espanholas dos anos 90.</desc>
   </programme>
   <programme start="20260510001300 +0000" stop="20260510001900 +0000" channel="138215">
-    <title lang="en">Camilo Sesto - Jamás</title>
-    <desc lang="en">Relive unforgettable concerts, all in Spanish.</desc>
+    <title lang="pt">Camilo Sesto - Jamás</title>
+    <desc lang="pt">Reviva concertos inesquecíveis, todos em espanhol.</desc>
   </programme>
   <programme start="20260510001900 +0000" stop="20260510002100 +0000" channel="138215">
-    <title lang="en">Id - Rockola Television</title>
-    <desc lang="en">Relive unforgettable concerts, all in Spanish.</desc>
+    <title lang="pt">Id - Rockola Television</title>
+    <desc lang="pt">Reviva concertos inesquecíveis, todos em espanhol.</desc>
   </programme>
   <programme start="20260510002100 +0000" stop="20260510002500 +0000" channel="138215">
-    <title lang="en">Myriam Hernández - El Hombre Que Yo Amo</title>
-    <desc lang="en">Spanish 80s anthems that shaped generations.</desc>
+    <title lang="pt">Myriam Hernández - El Hombre Que Yo Amo</title>
+    <desc lang="pt">Hinos espanhóis dos anos 80 que moldaram gerações.</desc>
   </programme>
   <programme start="20260510002500 +0000" stop="20260510003300 +0000" channel="138215">
-    <title lang="en">Pop vs Rock (33)</title>
-    <desc lang="en">Where pop meets rock, unforgettable music in English.</desc>
+    <title lang="pt">Pop vs Rock (33)</title>
+    <desc lang="pt">Onde o pop encontra o rock, música inesquecível em inglês.</desc>
   </programme>
   <programme start="20260510003300 +0000" stop="20260510004000 +0000" channel="138215">
-    <title lang="en">Pop vs Rock (11)</title>
-    <desc lang="en">Where pop meets rock, unforgettable music in English.</desc>
+    <title lang="pt">Pop vs Rock (11)</title>
+    <desc lang="pt">Onde o pop encontra o rock, música inesquecível em inglês.</desc>
   </programme>
   <programme start="20260510004000 +0000" stop="20260510004300 +0000" channel="138215">
-    <title lang="en">Crystal Waters - 100% Pure Love</title>
-    <desc lang="en">Dance through the golden 90s beats in English.</desc>
+    <title lang="pt">Crystal Waters - 100% Pure Love</title>
+    <desc lang="pt">Dance as batidas douradas dos anos 90 em inglês.</desc>
+  </programme>
+  <programme start="20260510004300 +0000" stop="20260510004900 +0000" channel="138215">
+    <title lang="pt">Papa Roach - Between Angels And Insects</title>
+    <desc lang="pt">Rock clássico dos anos 90 que moldou uma geração.</desc>
+  </programme>
+  <programme start="20260510004900 +0000" stop="20260510005000 +0000" channel="138215">
+    <title lang="pt">Id - Rockola Television</title>
+    <desc lang="pt">Dance as batidas douradas dos anos 90 em inglês.</desc>
+  </programme>
+  <programme start="20260510005000 +0000" stop="20260510005400 +0000" channel="138215">
+    <title lang="pt">Amanda Miguel - Castillos</title>
+    <desc lang="pt">Um canal de verdadeiros sucessos espanhóis dos anos 80.</desc>
+  </programme>
+  <programme start="20260510005400 +0000" stop="20260510010100 +0000" channel="138215">
+    <title lang="pt">Pop vs Rock (6)</title>
+    <desc lang="pt">Onde o pop encontra o rock, música inesquecível em inglês.</desc>
+  </programme>
+  <programme start="20260510010100 +0000" stop="20260510010400 +0000" channel="138215">
+    <title lang="pt">Enrique Iglesias - Esperanza</title>
+    <desc lang="pt">Descubra a magia das músicas espanholas dos anos 90.</desc>
+  </programme>
+  <programme start="20260510010400 +0000" stop="20260510011600 +0000" channel="138215">
+    <title lang="pt">Guns N' Roses - November Rain</title>
+    <desc lang="pt">Rock clássico dos anos 90 que moldou uma geração.</desc>
   </programme>
   <channel id="145579">
     <display-name>Absinthe TV</display-name>
   </channel>
-  <programme start="20260509223458 +0000" stop="20260509224948 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 1</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various websites including Transworld Snowboarding, MPORA and Swatch as well as on absinthe-films.com</desc>
-  </programme>
-  <programme start="20260509224948 +0000" stop="20260509230137 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 2</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various websites including Transworld Snowboarding, MPORA and Swatch as well as on absinthe-films.com</desc>
-  </programme>
   <programme start="20260509230137 +0000" stop="20260509231834 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 3</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various websites including Transworld Snowboarding, MPORA and Swatch as well as on absinthe-films.com</desc>
+    <title lang="pt">Flipside - NowHere Episode 3</title>
+    <desc lang="pt">Flipside é o show que leva você aos bastidores da Absinthe Films durante a produção do nosso último filme de snowboard - NowHere. Acompanhe a vida e os tempos de alguns dos pilotos mais progressistas e divertidos do snowboard. Nossa série Flipside 2010 é transmitida em webisodes de 10 a 12 minutos em vários sites, incluindo Transworld Snowboarding, MPORA e Swatch, bem como em absinthe-films.com</desc>
   </programme>
   <programme start="20260509231834 +0000" stop="20260509233629 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 4</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various websites including Transworld Snowboarding, MPORA and Swatch as well as on absinthe-films.com</desc>
+    <title lang="pt">Flipside - NowHere Episode 4</title>
+    <desc lang="pt">Flipside é o show que leva você aos bastidores da Absinthe Films durante a produção do nosso último filme de snowboard - NowHere. Acompanhe a vida e os tempos de alguns dos pilotos mais progressistas e divertidos do snowboard. Nossa série Flipside 2010 é transmitida em webisodes de 10 a 12 minutos em vários sites, incluindo Transworld Snowboarding, MPORA e Swatch, bem como em absinthe-films.com</desc>
   </programme>
   <programme start="20260509233629 +0000" stop="20260509234829 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 5</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various websites including Transworld Snowboarding, MPORA and Swatch as well as on absinthe-films.com</desc>
+    <title lang="pt">Flipside - NowHere Episode 5</title>
+    <desc lang="pt">Flipside é o show que leva você aos bastidores da Absinthe Films durante a produção do nosso último filme de snowboard - NowHere. Acompanhe a vida e os tempos de alguns dos pilotos mais progressistas e divertidos do snowboard. Nossa série Flipside 2010 é transmitida em webisodes de 10 a 12 minutos em vários sites, incluindo Transworld Snowboarding, MPORA e Swatch, bem como em absinthe-films.com</desc>
   </programme>
   <programme start="20260509234829 +0000" stop="20260510000007 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 6</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various websites including Transworld Snowboarding, MPORA and Swatch as well as on absinthe-films.com</desc>
+    <title lang="pt">Flipside - NowHere Episode 6</title>
+    <desc lang="pt">Flipside é o show que leva você aos bastidores da Absinthe Films durante a produção do nosso último filme de snowboard - NowHere. Acompanhe a vida e os tempos de alguns dos pilotos mais progressistas e divertidos do snowboard. Nossa série Flipside 2010 é transmitida em webisodes de 10 a 12 minutos em vários sites, incluindo Transworld Snowboarding, MPORA e Swatch, bem como em absinthe-films.com</desc>
   </programme>
   <programme start="20260510000007 +0000" stop="20260510001730 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 7</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various websites including Transworld Snowboarding, MPORA and Swatch as well as on absinthe-films.com</desc>
+    <title lang="pt">Flipside - NowHere Episode 7</title>
+    <desc lang="pt">Flipside é o show que leva você aos bastidores da Absinthe Films durante a produção do nosso último filme de snowboard - NowHere. Acompanhe a vida e os tempos de alguns dos pilotos mais progressistas e divertidos do snowboard. Nossa série Flipside 2010 é transmitida em webisodes de 10 a 12 minutos em vários sites, incluindo Transworld Snowboarding, MPORA e Swatch, bem como em absinthe-films.com</desc>
   </programme>
   <programme start="20260510001730 +0000" stop="20260510003432 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 8</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various websites including Transworld Snowboarding, MPORA and Swatch as well as on absinthe-films.com</desc>
+    <title lang="pt">Flipside - NowHere Episode 8</title>
+    <desc lang="pt">Flipside é o show que leva você aos bastidores da Absinthe Films durante a produção do nosso último filme de snowboard - NowHere. Acompanhe a vida e os tempos de alguns dos pilotos mais progressistas e divertidos do snowboard. Nossa série Flipside 2010 é transmitida em webisodes de 10 a 12 minutos em vários sites, incluindo Transworld Snowboarding, MPORA e Swatch, bem como em absinthe-films.com</desc>
   </programme>
   <programme start="20260510003432 +0000" stop="20260510005133 +0000" channel="145579">
-    <title lang="en">Flipside - NowHere Episode 9</title>
-    <desc lang="en">Flipside is the show that takes you behind the scenes with Absinthe Films during the making of our latest snowboard movie - NowHere. Follow the life and times of a handful of the most progressive and entertaining riders in snowboarding. Our 2010 Flipside series is broadcasted in 10-12 minute webisodes on various networks, but you can always get the newest releases at absinthe-films.com.</desc>
+    <title lang="pt">Flipside - NowHere Episode 9</title>
+    <desc lang="pt">Flipside é o show que leva você aos bastidores da Absinthe Films durante a produção do nosso último filme de snowboard - NowHere. Acompanhe a vida e os tempos de alguns dos pilotos mais progressistas e divertidos do snowboard. Nossa série Flipside 2010 é transmitida em webisodes de 10 a 12 minutos em várias redes, mas você sempre pode obter os lançamentos mais recentes em absinthe-films.com.</desc>
+  </programme>
+  <programme start="20260510005133 +0000" stop="20260510011019 +0000" channel="145579">
+    <title lang="pt">Flipside - NowHere Episode 10</title>
+    <desc lang="pt">Flipside é o show que leva você aos bastidores da Absinthe Films durante a produção do nosso último filme de snowboard - NowHere. Acompanhe a vida e os tempos de alguns dos pilotos mais progressistas e divertidos do snowboard. Nossa série Flipside 2010 é transmitida em webisodes de 10 a 12 minutos em várias redes, mas você sempre pode obter os lançamentos mais recentes em absinthe-films.com.</desc>
   </programme>
   <channel id="145580">
     <display-name>AMERICA'S BOATING CHANNEL</display-name>
   </channel>
-  <programme start="20260509221751 +0000" stop="20260509225013 +0000" channel="145580">
-    <title lang="en">McHale's Navy</title>
-    <desc lang="en">The misadventures of a misfit PT boat crew during World War II.</desc>
-  </programme>
-  <programme start="20260509225013 +0000" stop="20260509225940 +0000" channel="145580">
-    <title lang="en">Popeye the Sailor</title>
-    <desc lang="en">The continuing animated adventures of Olive Oyl, Wimpy, Swee'pea and Popeye.</desc>
-  </programme>
   <programme start="20260509225940 +0000" stop="20260509233259 +0000" channel="145580">
-    <title lang="en">P1 Offshore - 2022 - SuperCat Season Review</title>
-    <desc lang="en">One of the most thrilling categories in offshore powerboat racing. High-performance boats with specially modified V-shaped hulls. The 2022 P1 Offshore SuperCat season saw intense competition across its events, which were part of the APBA Offshore National Championship Series.</desc>
+    <title lang="pt">P1 Offshore - 2022 - SuperCat Season Review</title>
+    <desc lang="pt">Uma das categorias mais emocionantes nas corridas de lanchas offshore. Barcos de alto desempenho com cascos em forma de V especialmente modificados. A temporada 2022 P1 Offshore SuperCat viu intensa competição em seus eventos, que faziam parte da APBA Offshore National Championship Series.</desc>
   </programme>
   <programme start="20260509233259 +0000" stop="20260510014359 +0000" channel="145580">
-    <title lang="en">Return to Treasure Island</title>
-    <desc lang="en">While being hunted by a corrupt sea captian, adult Jim Hawkins has a second encounter with the island and Long John Silver.</desc>
+    <title lang="pt">Return to Treasure Island</title>
+    <desc lang="pt">Enquanto é caçado por um capitão do mar corrupto, o adulto Jim Hawkins tem um segundo encontro com a ilha e Long John Silver.</desc>
   </programme>
   <channel id="145589">
     <display-name>THE RING TV</display-name>
   </channel>
   <programme start="20260509232623 +0000" stop="20260510012027 +0000" channel="145589">
-    <title lang="en">LFA 203: Satybaldiev vs. Soares in Las Vegas Prelims game</title>
-    <desc lang="en">Be prepared with the LFA 203 Prelims between Azizbek Temirov and Daniel Araújo</desc>
+    <title lang="pt">LFA 203: Satybaldiev vs. Soares in Las Vegas Prelims game</title>
+    <desc lang="pt">Esteja preparado com as preliminares do LFA 203 entre Azizbek Temirov e Daniel Araújo</desc>
   </programme>
   <channel id="145586">
     <display-name>TEST MY RIDE</display-name>
   </channel>
   <programme start="20260509223750 +0000" stop="20260509233623 +0000" channel="145586">
-    <title lang="en">Test my Ride</title>
-    <desc lang="en">Test My Ride gives drivers the opportunity to go head to head against the ex-Formula 1 driver Mika Salo.</desc>
+    <title lang="pt">Test my Ride</title>
+    <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
   </programme>
   <programme start="20260509233623 +0000" stop="20260510003438 +0000" channel="145586">
-    <title lang="en">Test my Ride</title>
-    <desc lang="en">Test My Ride gives drivers the opportunity to go head to head against the ex-Formula 1 driver Mika Salo.</desc>
+    <title lang="pt">Test my Ride</title>
+    <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
   </programme>
   <programme start="20260510003438 +0000" stop="20260510013320 +0000" channel="145586">
-    <title lang="en">Test my Ride</title>
-    <desc lang="en">Test My Ride gives drivers the opportunity to go head to head against the ex-Formula 1 driver Mika Salo.</desc>
+    <title lang="pt">Test my Ride</title>
+    <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
   </programme>
   <channel id="145587">
     <display-name>THALAA TV</display-name>
   </channel>
   <programme start="20260509223724 +0000" stop="20260509231420 +0000" channel="145587">
-    <title lang="en">Raja Rani</title>
-    <desc lang="en">Rani pretends to be rich to win actor Raja’s love, but Babu tries to ruin their relationship.</desc>
+    <title lang="pt">Raja Rani</title>
+    <desc lang="pt">Rani finge ser rico para conquistar o amor do ator Raja, mas Babu tenta arruinar o relacionamento deles.</desc>
   </programme>
   <programme start="20260509231420 +0000" stop="20260509235116 +0000" channel="145587">
-    <title lang="en">Raja Rani</title>
-    <desc lang="en">Rani pretends to be rich to win actor Raja’s love, but Babu tries to ruin their relationship.</desc>
+    <title lang="pt">Raja Rani</title>
+    <desc lang="pt">Rani finge ser rico para conquistar o amor do ator Raja, mas Babu tenta arruinar o relacionamento deles.</desc>
   </programme>
   <programme start="20260509235116 +0000" stop="20260510002812 +0000" channel="145587">
-    <title lang="en">Raja Rani</title>
-    <desc lang="en">Rani pretends to be rich to win actor Raja’s love, but Babu tries to ruin their relationship.</desc>
+    <title lang="pt">Raja Rani</title>
+    <desc lang="pt">Rani finge ser rico para conquistar o amor do ator Raja, mas Babu tenta arruinar o relacionamento deles.</desc>
   </programme>
   <programme start="20260510002812 +0000" stop="20260510010508 +0000" channel="145587">
-    <title lang="en">Raja Rani</title>
-    <desc lang="en">Rani pretends to be rich to win actor Raja’s love, but Babu tries to ruin their relationship.</desc>
+    <title lang="pt">Raja Rani</title>
+    <desc lang="pt">Rani finge ser rico para conquistar o amor do ator Raja, mas Babu tenta arruinar o relacionamento deles.</desc>
+  </programme>
+  <programme start="20260510010508 +0000" stop="20260510012814 +0000" channel="145587">
+    <title lang="pt">Raja Rani</title>
+    <desc lang="pt">Rani finge ser rico para conquistar o amor do ator Raja, mas Babu tenta arruinar o relacionamento deles.</desc>
   </programme>
   <channel id="145588">
     <display-name>TOLLY TV</display-name>
   </channel>
-  <programme start="20260509220552 +0000" stop="20260509224246 +0000" channel="145588">
-    <title lang="en">Kodukulu</title>
-    <desc lang="en">Raghuramaiah’s happy life shatters when his brother-in-law Papa Rao returns from jail.</desc>
-  </programme>
   <programme start="20260509224246 +0000" stop="20260509231941 +0000" channel="145588">
-    <title lang="en">Kodukulu</title>
-    <desc lang="en">Raghuramaiah’s happy life shatters when his brother-in-law Papa Rao returns from jail.</desc>
+    <title lang="pt">Kodukulu</title>
+    <desc lang="pt">A vida feliz de Raghuramaiah desmorona quando seu cunhado Papa Rao retorna da prisão.</desc>
   </programme>
   <programme start="20260509231941 +0000" stop="20260509235636 +0000" channel="145588">
-    <title lang="en">Kodukulu</title>
-    <desc lang="en">Raghuramaiah’s happy life shatters when his brother-in-law Papa Rao returns from jail.</desc>
+    <title lang="pt">Kodukulu</title>
+    <desc lang="pt">A vida feliz de Raghuramaiah desmorona quando seu cunhado Papa Rao retorna da prisão.</desc>
   </programme>
   <programme start="20260509235636 +0000" stop="20260510003330 +0000" channel="145588">
-    <title lang="en">Kodukulu</title>
-    <desc lang="en">Raghuramaiah’s happy life shatters when his brother-in-law Papa Rao returns from jail.</desc>
+    <title lang="pt">Kodukulu</title>
+    <desc lang="pt">A vida feliz de Raghuramaiah desmorona quando seu cunhado Papa Rao retorna da prisão.</desc>
   </programme>
   <programme start="20260510003330 +0000" stop="20260510005519 +0000" channel="145588">
-    <title lang="en">Kodukulu</title>
-    <desc lang="en">Raghuramaiah’s happy life shatters when his brother-in-law Papa Rao returns from jail.</desc>
+    <title lang="pt">Kodukulu</title>
+    <desc lang="pt">A vida feliz de Raghuramaiah desmorona quando seu cunhado Papa Rao retorna da prisão.</desc>
+  </programme>
+  <programme start="20260510005519 +0000" stop="20260510013214 +0000" channel="145588">
+    <title lang="pt">Bottu Katuka</title>
+    <desc lang="pt">Depois que Krishnamurthy morre, sua esposa esconde a verdade, mas é chantageada por um pupilo.</desc>
   </programme>
   <channel id="145583">
     <display-name>FIGHT TV</display-name>
   </channel>
-  <programme start="20260509221022 +0000" stop="20260509224534 +0000" channel="145583">
-    <title lang="en">Bangkok Fight Night</title>
-    <desc lang="en">Located in the impressive MBK Center in the heart of the Bangkok shopping district, thousands flock to witness the incredible Muay Thai events put on by Bangkok Fight Night every week.</desc>
-  </programme>
   <programme start="20260509224534 +0000" stop="20260509231351 +0000" channel="145583">
-    <title lang="en">Dynasty Combat Sports</title>
-    <desc lang="en">Dynasty Combat Sports is Nebraska's largest and most active Mixed Martial Arts Company and will hold its 94th event over the past 7 years.</desc>
+    <title lang="pt">Dynasty Combat Sports</title>
+    <desc lang="pt">A Dynasty Combat Sports é a maior e mais ativa Companhia de Artes Marciais Mistas de Nebraska e realizará seu 94º evento nos últimos 7 anos.</desc>
   </programme>
   <programme start="20260509231351 +0000" stop="20260510001702 +0000" channel="145583">
-    <title lang="en">Queensbury Boxing League</title>
-    <desc lang="en">The Queensbury Boxing League is one of the UK’s most exciting boxing competitions.</desc>
+    <title lang="pt">Queensbury Boxing League</title>
+    <desc lang="pt">A Queensbury Boxing League é uma das competições de boxe mais emocionantes do Reino Unido.</desc>
   </programme>
   <programme start="20260510001702 +0000" stop="20260510012013 +0000" channel="145583">
-    <title lang="en">Queensbury Boxing League</title>
-    <desc lang="en">The Queensbury Boxing League is one of the UK’s most exciting boxing competitions.</desc>
+    <title lang="pt">Queensbury Boxing League</title>
+    <desc lang="pt">A Queensbury Boxing League é uma das competições de boxe mais emocionantes do Reino Unido.</desc>
   </programme>
   <channel id="145584">
     <display-name>HORROR TV</display-name>
   </channel>
   <programme start="20260509222834 +0000" stop="20260510002948 +0000" channel="145584">
-    <title lang="en">Insidious Inferno</title>
-    <desc lang="en">A secluded cottage is plagued by a series of gruesome murders, unbeknownst to the inhabitants something other worldly lurks within the halls.</desc>
+    <title lang="pt">Insidious Inferno</title>
+    <desc lang="pt">Uma cabana isolada é atormentada por uma série de assassinatos horríveis, sem o conhecimento dos habitantes, algo de outro mundo se esconde nos corredores.</desc>
   </programme>
   <programme start="20260510002948 +0000" stop="20260510022930 +0000" channel="145584">
-    <title lang="en">A Cry From Within</title>
-    <desc lang="en">Cecile and her family decide to leave NYC for a quieter life away from the city, but soon find themselves victim to evil spirits residing in their new home.</desc>
+    <title lang="pt">A Cry From Within</title>
+    <desc lang="pt">Cecile e sua família decidem deixar Nova York em busca de uma vida mais tranquila, longe da cidade, mas logo se vêem vítimas de espíritos malignos que residem em sua nova casa.</desc>
   </programme>
   <channel id="145500">
     <display-name>The Homestyle Channel</display-name>
   </channel>
-  <programme start="20260509220000 +0000" stop="20260509230000 +0000" channel="145500">
-    <title lang="en">Matt the Mortgage Guy</title>
-    <desc lang="en">In this episode of Matt the Mortgage Guy Matt walks us through the 2025 Mortgage Forecast.</desc>
-  </programme>
   <programme start="20260509230000 +0000" stop="20260510000000 +0000" channel="145500">
-    <title lang="en">Your World on Money</title>
-    <desc lang="en">This first mega collection of 'Your World on Money' features content from 'George Goes Everywhere,' 'The GloZell Show,' 'American Paycheck,' 'HeartBroke,' and more.</desc>
+    <title lang="pt">Your World on Money</title>
+    <desc lang="pt">Esta primeira mega coleção de 'Your World on Money' apresenta conteúdo de 'George Goes Everywhere', 'The GloZell Show', 'American Paycheck', 'HeartBroke' e muito mais.</desc>
   </programme>
   <programme start="20260510000000 +0000" stop="20260510010000 +0000" channel="145500">
-    <title lang="en">Your World on Money</title>
-    <desc lang="en">This second mega collection of 'Your World on Money' features content from 'George Goes Everywhere,' 'Do the Hustle,' 'Wags to Riches,' 'Your Brain on Money,' and more.</desc>
+    <title lang="pt">Your World on Money</title>
+    <desc lang="pt">Esta segunda mega coleção de 'Your World on Money' apresenta conteúdo de 'George Goes Everywhere', 'Do the Hustle', 'Wags to Riches', 'Your Brain on Money' e muito mais.</desc>
+  </programme>
+  <programme start="20260510010000 +0000" stop="20260510020000 +0000" channel="145500">
+    <title lang="pt">Design Loves Detail</title>
+    <desc lang="pt">Mollie Openshaw nos mostra uma bela reforma de cozinha que evoca os anos 90 e, em seguida, nos guia por uma reforma aconchegante e iluminada de uma sala de estar.</desc>
   </programme>
   <channel id="145504">
     <display-name>HUNT FISH TV</display-name>
   </channel>
-  <programme start="20260509221426 +0000" stop="20260509224230 +0000" channel="145504">
-    <title lang="en">Doubled Down Outdoors</title>
-    <desc lang="en">An exciting series following the outdoor hunting and fishing adventures of three Canadian outdoorsmen with a passion for the chase: Ryan Tomuschat, Devin Skipton and Mark Thompson. Join along as they Double Down and go all in on this exciting pastime.  </desc>
-  </programme>
-  <programme start="20260509224230 +0000" stop="20260509230955 +0000" channel="145504">
-    <title lang="en">Backwoods Backstage</title>
-    <desc lang="en">Join Canadian country music superstar Brett Kissel and friends on outdoor adventures.</desc>
-  </programme>
   <programme start="20260509230955 +0000" stop="20260510000358 +0000" channel="145504">
-    <title lang="en">Born to Hunt</title>
-    <desc lang="en">Passionate about hunting and fishing, Michel Bélisle, Éric Lacelle and brothers Éric and Martin Marion invite us into their world. </desc>
+    <title lang="pt">Born to Hunt</title>
+    <desc lang="pt">Apaixonados pela caça e pela pesca, Michel Bélisle, Éric Lacelle e os irmãos Éric e Martin Marion nos convidam para o seu mundo.</desc>
   </programme>
   <programme start="20260510000358 +0000" stop="20260510003202 +0000" channel="145504">
-    <title lang="en">Doubled Down Outdoors</title>
-    <desc lang="en">An exciting series following the outdoor hunting and fishing adventures of three Canadian outdoorsmen with a passion for the chase: Ryan Tomuschat, Devin Skipton and Mark Thompson. Join along as they Double Down and go all in on this exciting pastime.  </desc>
+    <title lang="pt">Doubled Down Outdoors</title>
+    <desc lang="pt">Uma série emocionante que acompanha as aventuras de caça e pesca ao ar livre de três aventureiros canadenses apaixonados pela perseguição: Ryan Tomuschat, Devin Skipton e Mark Thompson. Junte-se a eles enquanto eles dobram e apostam tudo neste passatempo emocionante.</desc>
   </programme>
   <programme start="20260510003202 +0000" stop="20260510005927 +0000" channel="145504">
-    <title lang="en">Backwoods Backstage</title>
-    <desc lang="en">Join Canadian country music superstar Brett Kissel and friends on outdoor adventures.</desc>
+    <title lang="pt">Backwoods Backstage</title>
+    <desc lang="pt">Junte-se ao astro da música country canadense Brett Kissel e amigos em aventuras ao ar livre.</desc>
+  </programme>
+  <programme start="20260510005927 +0000" stop="20260510015330 +0000" channel="145504">
+    <title lang="pt">Born to Hunt</title>
+    <desc lang="pt">Apaixonados pela caça e pela pesca, Michel Bélisle, Éric Lacelle e os irmãos Éric e Martin Marion nos convidam para o seu mundo.</desc>
   </programme>
   <channel id="145506">
     <display-name>SPORT FISHING TV</display-name>
   </channel>
-  <programme start="20260509222528 +0000" stop="20260509225431 +0000" channel="145506">
-    <title lang="en">Chief Off Shore</title>
-    <desc lang="en">Dan goes fishing aboard the Chief for Tuna and yellowtail</desc>
-  </programme>
   <programme start="20260509225431 +0000" stop="20260509232333 +0000" channel="145506">
-    <title lang="en">Clemente</title>
-    <desc lang="en">Dan goes fishing for Calico Bass aboard the Clemente</desc>
+    <title lang="pt">Clemente</title>
+    <desc lang="pt">Dan vai pescar Calico Bass a bordo do Clemente</desc>
   </programme>
   <programme start="20260509232333 +0000" stop="20260509235235 +0000" channel="145506">
-    <title lang="en">Eclipse Episode 1</title>
-    <desc lang="en">Dan goes fishing aboard the Eclipse for Tuna and yellowtail</desc>
+    <title lang="pt">Eclipse Episode 1</title>
+    <desc lang="pt">Dan vai pescar a bordo do Eclipse para atum e rabo-amarelo</desc>
   </programme>
   <programme start="20260509235235 +0000" stop="20260510002137 +0000" channel="145506">
-    <title lang="en">Chief Marines</title>
-    <desc lang="en">Dan takes a boat load of US Marines fishing for the day as his way of saying thank you for all you do.</desc>
+    <title lang="pt">Chief Marines</title>
+    <desc lang="pt">Dan leva um barco cheio de fuzileiros navais dos EUA para pescar durante o dia como forma de agradecer por tudo que você faz.</desc>
   </programme>
   <programme start="20260510002137 +0000" stop="20260510005039 +0000" channel="145506">
-    <title lang="en">Mirage</title>
-    <desc lang="en">Dan Hernandez goes Fishing aboard in Mirage to the Channel Islands for Adventurous Rock Fishing.He also guides to Hook a Buck tail for Fishing &amp; Learn How to cook delicious Rock Fish.</desc>
+    <title lang="pt">Mirage</title>
+    <desc lang="pt">Dan Hernandez vai pescar a bordo do Mirage até as Ilhas do Canal para uma pesca aventureira em rochas. Ele também orienta como enganchar um rabo de fanfarrão para pescar e aprender a cozinhar deliciosos peixes de rocha.</desc>
+  </programme>
+  <programme start="20260510005039 +0000" stop="20260510010049 +0000" channel="145506">
+    <title lang="pt">Fisherman III </title>
+    <desc lang="pt">Aqui está um programa que filmamos no ano passado a bordo do Pacific Islander, é um ótimo barco com uma ótima tripulação e estou ansioso para pescar nele novamente em breve. Se você gostaria de pescar com Dan em um de seus barcos de pesca na televisão, use este link para ver todas as viagens que ele fará nesta temporada,</desc>
+  </programme>
+  <programme start="20260510010049 +0000" stop="20260510013903 +0000" channel="145506">
+    <title lang="pt">Oceanside 95 split audio</title>
+    <desc lang="pt">Dan Hernandez vai pescar rabo-amarelo no Oceanside 95</desc>
   </programme>
   <channel id="145416">
     <display-name>BOLLYWOOD TV</display-name>
   </channel>
-  <programme start="20260509220145 +0000" stop="20260509224054 +0000" channel="145416">
-    <title lang="en">Murders By Masses</title>
-    <desc lang="en">The face-off between Swami Ji and the LGBTQ NGO head with each person engaging in highly tensed arguments while presenting their respective views on the social acceptance of the LGBTQ community. Pratyush posts an emotional message on social media and Renuka seeks out a way to break the shackles of the orthodox societal barriers.</desc>
-  </programme>
-  <programme start="20260509224054 +0000" stop="20260509225701 +0000" channel="145416">
-    <title lang="en">Drishtikon</title>
-    <desc lang="en">Aadhya tries to change Drishtikon of her father by and tries to prove him wrong. she tries to take family business.</desc>
-  </programme>
   <programme start="20260509225701 +0000" stop="20260509232433 +0000" channel="145416">
-    <title lang="en">Sultanat</title>
-    <desc lang="en">Sultanat the war for power is all set to go on the road of revenge. Kabir is blood-thirsty, will he be able to take his revenge?</desc>
+    <title lang="pt">Sultanat</title>
+    <desc lang="pt">Sultanat, a guerra pelo poder, está pronta para seguir o caminho da vingança. Kabir tem sede de sangue, será que ele conseguirá se vingar?</desc>
   </programme>
   <programme start="20260509232433 +0000" stop="20260509233645 +0000" channel="145416">
-    <title lang="en">Drishtikon</title>
-    <desc lang="en">Aadhya tries to change Drishtikon of her father by and tries to prove him wrong. she tries to take family business.</desc>
+    <title lang="pt">Drishtikon</title>
+    <desc lang="pt">Aadhya tenta mudar Drishtikon de seu pai e tenta provar que ele está errado. ela tenta cuidar dos negócios da família.</desc>
   </programme>
   <programme start="20260509233645 +0000" stop="20260510001349 +0000" channel="145416">
-    <title lang="en">Murders By Masses</title>
-    <desc lang="en">Pratyush's identity reveals on social media divides opinion with one side using hate speech and the other side supporting the sexual identity of Pratyush. Renuka who is still locked up tries to defend her sexuality against her father. A verbal dispute between father and daughter unfolds the occurrence of cataclysmic events ending with an unfortunate incident.</desc>
+    <title lang="pt">Murders By Masses</title>
+    <desc lang="pt">A identidade de Pratyush revelada nas redes sociais divide opiniões com um lado usando discurso de ódio e o outro lado apoiando a identidade sexual de Pratyush. Renuka, que ainda está presa, tenta defender sua sexualidade contra o pai. Uma disputa verbal entre pai e filha desenrola a ocorrência de eventos cataclísmicos que terminam com um infeliz incidente.</desc>
   </programme>
   <programme start="20260510001349 +0000" stop="20260510003347 +0000" channel="145416">
-    <title lang="en">Drishtikon</title>
-    <desc lang="en">Aadhya tries to change Drishtikon of her father by and tries to prove him wrong. she tries to take family business.</desc>
+    <title lang="pt">Drishtikon</title>
+    <desc lang="pt">Aadhya tenta mudar Drishtikon de seu pai e tenta provar que ele está errado. ela tenta cuidar dos negócios da família.</desc>
   </programme>
   <programme start="20260510003347 +0000" stop="20260510004513 +0000" channel="145416">
-    <title lang="en">Afwahbaaz</title>
-    <desc lang="en">Guru Ashwatthama starts a day with his IT Cell students in a rural India School with mostly unemployed
-adult as his WhatsApp university students.</desc>
+    <title lang="pt">Afwahbaaz</title>
+    <desc lang="pt">Guru Ashwatthama começa um dia com seus alunos da Célula de TI em uma escola rural da Índia, em sua maioria desempregados
+adulto como seus estudantes universitários do WhatsApp.</desc>
+  </programme>
+  <programme start="20260510004513 +0000" stop="20260510010537 +0000" channel="145416">
+    <title lang="pt">Drishtikon</title>
+    <desc lang="pt">Aadhya tenta mudar Drishtikon de seu pai e tenta provar que ele está errado. ela tenta cuidar dos negócios da família.</desc>
+  </programme>
+  <programme start="20260510010537 +0000" stop="20260510011659 +0000" channel="145416">
+    <title lang="pt">Afwahbaaz</title>
+    <desc lang="pt">Guru Ashwatthama conhece os estudantes universitários e os ensina como tornar qualquer vídeo viral.</desc>
   </programme>
   <channel id="145415">
     <display-name>BOLLYWOOD 4U</display-name>
   </channel>
-  <programme start="20260509223127 +0000" stop="20260509225556 +0000" channel="145415">
-    <title lang="en">Manohar Samosewala Ranchi Ka Mashoor</title>
-    <desc lang="en">A son feels shame to reveal the real identity of his father infront of his grilfriend.</desc>
-  </programme>
   <programme start="20260509225556 +0000" stop="20260509232002 +0000" channel="145415">
-    <title lang="en">The Masterpiece</title>
-    <desc lang="en">A killer kills a man who tries to come close to a girl and then surrenders himsef. Now the Police and society people will decide his destiny.</desc>
+    <title lang="pt">The Masterpiece</title>
+    <desc lang="pt">Um assassino mata um homem que tenta se aproximar de uma garota e depois se entrega. Agora a Polícia e a sociedade decidirão o seu destino.</desc>
   </programme>
   <programme start="20260509232002 +0000" stop="20260509234358 +0000" channel="145415">
-    <title lang="en">Kaayam</title>
-    <desc lang="en">Choonda has the most amazing talent to hunt for the fishes in the river, and he is the leader of the Kabaddi Team of the village. Thamara is a native of the neighboring village, she has watched her mother being brutally raped and murdered. Over the years, Thamara defends herself from every man in the village. </desc>
+    <title lang="pt">Kaayam</title>
+    <desc lang="pt">Choonda tem o talento mais incrível para caçar os peixes do rio e é o líder da Equipe Kabaddi da aldeia. Thamara é natural da aldeia vizinha, ela viu sua mãe ser brutalmente estuprada e assassinada. Ao longo dos anos, Thamara se defende de todos os homens da aldeia.</desc>
   </programme>
   <programme start="20260509234358 +0000" stop="20260510000745 +0000" channel="145415">
-    <title lang="en">Bapi Ki Gaadi</title>
-    <desc lang="en">Two brothers travel across the village for white flowers to decorate their drunken father's car, where they meet Karim uncle, whom the two brothers neither seek help nor meet, and thus the story unfolds. reaches the end with an interesting twist</desc>
+    <title lang="pt">Bapi Ki Gaadi</title>
+    <desc lang="pt">Dois irmãos viajam pela aldeia em busca de flores brancas para decorar o carro do pai bêbado, onde encontram o tio Karim, a quem os dois irmãos não procuram ajuda nem encontram, e assim a história se desenrola. chega ao final com uma reviravolta interessante</desc>
   </programme>
   <programme start="20260510000745 +0000" stop="20260510003057 +0000" channel="145415">
-    <title lang="en">Extraa Innings</title>
-    <desc lang="en">A man enters into the life of an old age home to guide them to think for a new life.</desc>
+    <title lang="pt">Extraa Innings</title>
+    <desc lang="pt">Um homem entra na vida de um lar de idosos para orientá-los a pensar em uma nova vida.</desc>
   </programme>
   <programme start="20260510003057 +0000" stop="20260510011656 +0000" channel="145415">
-    <title lang="en">Sultanat</title>
-    <desc lang="en">Sultanat the war for power is all set to go on the road of revenge. Kabir is blood-thirsty, will he be able to take his revenge?</desc>
+    <title lang="pt">Sultanat</title>
+    <desc lang="pt">Sultanat, a guerra pelo poder, está pronta para seguir o caminho da vingança. Kabir tem sede de sangue, será que ele conseguirá se vingar?</desc>
   </programme>
   <channel id="145126">
     <display-name>CUISINE CULTURE</display-name>
   </channel>
-  <programme start="20260509221149 +0000" stop="20260509224434 +0000" channel="145126">
-    <title lang="en">Cuisine Culture Presents</title>
-    <desc lang="en">Chef Shaul Ben Aderet fuses Israeli flavors with world-class culinary techniques.</desc>
-  </programme>
   <programme start="20260509224434 +0000" stop="20260509231717 +0000" channel="145126">
-    <title lang="en">Michelin Star</title>
-    <desc lang="en">An exclusive glimpse into Chef Daniel Boulud’s New York kitchen, showcasing his three-star mastery, refined French technique, and contemporary, globally inspired cuisine.</desc>
+    <title lang="pt">Michelin Star</title>
+    <desc lang="pt">Um vislumbre exclusivo da cozinha nova-iorquina do chef Daniel Boulud, mostrando sua mestria três estrelas, técnica francesa refinada e cozinha contemporânea de inspiração global.</desc>
   </programme>
   <programme start="20260509231717 +0000" stop="20260509234959 +0000" channel="145126">
-    <title lang="en">Cuisine Culture Presents</title>
-    <desc lang="en">An intimate look at rising Two-Star Michelin Chef Michael Nizzero, redefining modern French gastronomy with precision and creativity.</desc>
+    <title lang="pt">Cuisine Culture Presents</title>
+    <desc lang="pt">Um olhar íntimo sobre o chef Michael Nizzero, duas estrelas Michelin, redefinindo a gastronomia francesa moderna com precisão e criatividade.</desc>
   </programme>
   <programme start="20260509234959 +0000" stop="20260510002239 +0000" channel="145126">
-    <title lang="en">Cuisine Culture Presents</title>
-    <desc lang="en">An exploration of timeless excellence with Three-Star Michelin Chef Marc Haeberlin in Alsace.</desc>
+    <title lang="pt">Cuisine Culture Presents</title>
+    <desc lang="pt">Uma exploração da excelência atemporal com o chef Marc Haeberlin, três estrelas Michelin, na Alsácia.</desc>
   </programme>
   <programme start="20260510002239 +0000" stop="20260510005514 +0000" channel="145126">
-    <title lang="en">Cooking at Maxim's</title>
-    <desc lang="en">An inside look at the legendary Parisian kitchen Maxim s, where classic French gastronomy, meticulous technique, and timeless elegance come together in one of the world’s most iconic dining destinations.</desc>
+    <title lang="pt">Cooking at Maxim's</title>
+    <desc lang="pt">Uma visão interna da lendária cozinha parisiense Maxim's, onde a clássica gastronomia francesa, a técnica meticulosa e a elegância atemporal se unem em um dos destinos gastronômicos mais emblemáticos do mundo.</desc>
+  </programme>
+  <programme start="20260510005514 +0000" stop="20260510012743 +0000" channel="145126">
+    <title lang="pt">Traveling Gourmet</title>
+    <desc lang="pt">Uma viagem culinária a Cannes explorando seus sabores, mercados e gastronomia à beira-mar através de uma lente gourmet refinada.</desc>
   </programme>
   <channel id="145128">
     <display-name>Wai Lana</display-name>
   </channel>
-  <programme start="20260509223552 +0000" stop="20260509230919 +0000" channel="145128">
-    <title lang="en">Wai Lana Yoga</title>
-    <desc lang="en">Stretch the back side of your body from head to heels with a right-side-up and an upside-down forward bend. But first, Wai Lana shows you how to stretch and tone your arms, shoulders, and neck.</desc>
-  </programme>
   <programme start="20260509230919 +0000" stop="20260509234246 +0000" channel="145128">
-    <title lang="en">Wai Lana Yoga</title>
-    <desc lang="en">Leg-lifting exercises like the Scissors work the abs without straining the back. Torso Twist Toes Touch stretches the legs and groin while giving the spine a vitalizing twist.</desc>
+    <title lang="pt">Wai Lana Yoga</title>
+    <desc lang="pt">Exercícios de levantamento de pernas, como a tesoura, trabalham os abdominais sem forçar as costas. Torso Twist Toes Touch alonga as pernas e a virilha enquanto dá à coluna uma torção vitalizante.</desc>
   </programme>
   <programme start="20260509234246 +0000" stop="20260510001613 +0000" channel="145128">
-    <title lang="en">Wai Lana Yoga</title>
-    <desc lang="en">Salute the Sun slowly or quickly, easy version or regular. Wai Lana shows you how to breathe for maximum benefit.</desc>
+    <title lang="pt">Wai Lana Yoga</title>
+    <desc lang="pt">Saudar o Sol lenta ou rapidamente, versão fácil ou regular. Wai Lana mostra como respirar para obter o máximo benefício.</desc>
   </programme>
   <programme start="20260510001613 +0000" stop="20260510004940 +0000" channel="145128">
-    <title lang="en">Wai Lana Yoga</title>
-    <desc lang="en">In an Imaginary Chair, that is! You’ll feel your thighs strengthening by the second. Camel Pose will stretch your body inside and out from knees to chin.</desc>
+    <title lang="pt">Wai Lana Yoga</title>
+    <desc lang="pt">Em uma cadeira imaginária, claro! Você sentirá suas coxas fortalecendo a cada segundo. Camel Pose alongará seu corpo por dentro e por fora, dos joelhos ao queixo.</desc>
+  </programme>
+  <programme start="20260510004940 +0000" stop="20260510012307 +0000" channel="145128">
+    <title lang="pt">Wai Lana Yoga</title>
+    <desc lang="pt">Acorde com um exercício respiratório e fortaleça os abdominais e as coxas. Dê um alongamento completo à sua coluna enquanto você rola como uma bola.</desc>
   </programme>
   <channel id="144990">
     <display-name>CarbonTV</display-name>
   </channel>
-  <programme start="20260509222800 +0000" stop="20260509225600 +0000" channel="144990">
-    <title lang="en">netting-flathead-with-the-dnr</title>
-    <desc lang="en">CarbonTV is the largest and longest-running digital network for outdoor television. We offer hundreds of shows including original programming and exclusive content for the outdoor enthusiast.</desc>
-  </programme>
   <programme start="20260509225600 +0000" stop="20260509232400 +0000" channel="144990">
-    <title lang="en">AIM Walleye Championship 2025</title>
-    <desc lang="en">On this action-packed episode of Larry Smith Outdoors, we head to Superior, Wisconsin for the 2025 AIM Warrior National Shootout Championship! Forty elite teams compete on Lake Superior for the ultimate prize, bringing nonstop walleye action and fierce competition. Tune in for insane fishing and pro tips you won't want to miss!</desc>
+    <title lang="pt">AIM Walleye Championship 2025</title>
+    <desc lang="pt">Neste episódio cheio de ação de Larry Smith Outdoors, vamos para Superior, Wisconsin, para o 2025 AIM Warrior National Shootout Championship! Quarenta equipes de elite competem no Lago Superior pelo prêmio máximo, trazendo ação ininterrupta e competição acirrada. Sintonize para pescarias insanas e dicas profissionais que você não vai querer perder!</desc>
   </programme>
   <programme start="20260509232400 +0000" stop="20260509235200 +0000" channel="144990">
-    <title lang="en">battle-of-the-bulls---colorado-archery-elk-hunt</title>
-    <desc lang="en">CarbonTV is the largest and longest-running digital network for outdoor television. We offer hundreds of shows including original programming and exclusive content for the outdoor enthusiast.</desc>
+    <title lang="pt">battle-of-the-bulls---colorado-archery-elk-hunt</title>
+    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
   </programme>
   <programme start="20260509235200 +0000" stop="20260510001800 +0000" channel="144990">
-    <title lang="en">trolling-lake-superior-lake-trout</title>
-    <desc lang="en">CarbonTV is the largest and longest-running digital network for outdoor television. We offer hundreds of shows including original programming and exclusive content for the outdoor enthusiast.</desc>
+    <title lang="pt">trolling-lake-superior-lake-trout</title>
+    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
   </programme>
   <programme start="20260510001800 +0000" stop="20260510003200 +0000" channel="144990">
-    <title lang="en">spain-experience-beceite-and-gredos-ibex-with-shikar-safaris</title>
-    <desc lang="en">CarbonTV is the largest and longest-running digital network for outdoor television. We offer hundreds of shows including original programming and exclusive content for the outdoor enthusiast.</desc>
+    <title lang="pt">spain-experience-beceite-and-gredos-ibex-with-shikar-safaris</title>
+    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
   </programme>
   <programme start="20260510003200 +0000" stop="20260510010000 +0000" channel="144990">
-    <title lang="en">walleye-tactics-for-rough-conditions</title>
-    <desc lang="en">CarbonTV is the largest and longest-running digital network for outdoor television. We offer hundreds of shows including original programming and exclusive content for the outdoor enthusiast.</desc>
+    <title lang="pt">walleye-tactics-for-rough-conditions</title>
+    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
+  </programme>
+  <programme start="20260510010000 +0000" stop="20260510011700 +0000" channel="144990">
+    <title lang="pt">Overcome Train To Hunt with Kristy Titus</title>
+    <desc lang="pt">Nunca se poderá compreender o poder de uma comunidade até que ela faça parte de uma comunidade que se dedica a um estilo de vida e que nos dá propósito e significado. Train to Hunt nos une por um objetivo comum: nos preparar para o interior. 
+
+No último episódio de Pursue the Wild, Kristy Titus leva você através de sua jornada pessoal no Train To Hunt, desde a reconstrução do joelho até a superação de todos os obstáculos, chegando à linha de chegada com sua parceira Krista Magnussen, que também superou seus próprios desafios físicos para competir. 
+
+Train To Hunt - simplesmente o propósito que nos inspira a superar tudo o que está nos impedindo na vida. Este episódio é dedicado a sempre dar o melhor de si, dando 110% porque você não cruza a linha de chegada com desculpas. 
+
+Agradecimentos especiais a Michael Connors pelo uso de sua música original, Overcome e Open The Cage do álbum Overcome. Disponível no iTunes.</desc>
   </programme>
   <channel id="144993">
     <display-name>Golf Network</display-name>
   </channel>
-  <programme start="20260509222714 +0000" stop="20260509224329 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Kotaro Seki 1</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
-  </programme>
-  <programme start="20260509224329 +0000" stop="20260509225931 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Kotaro Seki 2</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
-  </programme>
   <programme start="20260509225931 +0000" stop="20260509231534 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Kotaro Seki 3</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
+    <title lang="pt">Premium Teaching Pro Lesson Kotaro Seki 3</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
   </programme>
   <programme start="20260509231534 +0000" stop="20260509233101 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Kotaro Seki 4</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
+    <title lang="pt">Premium Teaching Pro Lesson Kotaro Seki 4</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
   </programme>
   <programme start="20260509233101 +0000" stop="20260509234705 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Rina Ichikawa 1</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
+    <title lang="pt">Premium Teaching Pro Lesson Rina Ichikawa 1</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
   </programme>
   <programme start="20260509234705 +0000" stop="20260510000303 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Rina Ichikawa 2</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
+    <title lang="pt">Premium Teaching Pro Lesson Rina Ichikawa 2</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
   </programme>
   <programme start="20260510000303 +0000" stop="20260510001903 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Rina Ichikawa 3</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
+    <title lang="pt">Premium Teaching Pro Lesson Rina Ichikawa 3</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
   </programme>
   <programme start="20260510001903 +0000" stop="20260510003516 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Rina Ichikawa 4</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
+    <title lang="pt">Premium Teaching Pro Lesson Rina Ichikawa 4</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
   </programme>
   <programme start="20260510003516 +0000" stop="20260510005059 +0000" channel="144993">
-    <title lang="en">Premium Teaching Pro Lesson Shota Ohnishi 1</title>
-    <desc lang="en">A lesson program aimed at golfers who are struggling or wish to improve further, offering more practical lessons that directly benefit them on the course.</desc>
+    <title lang="pt">Premium Teaching Pro Lesson Shota Ohnishi 1</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
+  <programme start="20260510005059 +0000" stop="20260510010658 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Shota Ohnishi 2</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
+  <programme start="20260510010658 +0000" stop="20260510012255 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Shota Ohnishi 3</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
   </programme>
   <channel id="144994">
     <display-name>Foosball TV</display-name>
   </channel>
   <programme start="20260509211306 +0000" stop="20260509233101 +0000" channel="144994">
-    <title lang="en">World Cup 2013 Quart Final USA versus Netherland </title>
-    <desc lang="en">The ITSF retrospectives continues with the Nations Men opposing USA and Netherland during the ITSF World Cup 2013 in Nantes, France</desc>
+    <title lang="pt">World Cup 2013 Quart Final USA versus Netherland </title>
+    <desc lang="pt">As retrospectivas da ITSF continuam com os Homens das Nações enfrentando EUA e Holanda durante a Copa do Mundo ITSF 2013 em Nantes, França</desc>
   </programme>
   <programme start="20260509233101 +0000" stop="20260510010010 +0000" channel="144994">
-    <title lang="en">ITSF World Cup 2013 Opening ceremony </title>
-    <desc lang="en">Welcome to the opening ceremony of the ITSF World Cup 2013 in Nantes France.</desc>
+    <title lang="pt">ITSF World Cup 2013 Opening ceremony </title>
+    <desc lang="pt">Bem-vindos à cerimônia de abertura da Copa do Mundo ITSF 2013 em Nantes, França.</desc>
+  </programme>
+  <programme start="20260510010010 +0000" stop="20260510022822 +0000" channel="144994">
+    <title lang="pt">World Cup 2013 Quart Final IRAN versus France  </title>
+    <desc lang="pt">As retrospectivas da ITSF continuam com os Homens das Nações se opondo ao Irã e à França durante a Copa do Mundo da ITSF 2013 em Nantes, França</desc>
   </programme>
 </tv>
