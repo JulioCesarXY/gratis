@@ -1,0 +1,35 @@
+name: Atualizar EPG Diariamente
+
+on:
+  schedule:
+    # Executa todos os dias à meia-noite (UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Permite rodar manualmente se quiser
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Instalar dependências
+        run: |
+          pip install -r requirements.txt
+
+      - name: Gerar o XML do EPG
+        run: python gerar_epg.py
+
+      - name: Commit e Push das alterações
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add epg_kpoptvbr_7dias.xml
+          git commit -m "EPG Atualizado: $(date)" || echo "Sem mudanças para commitar"
+          git push
+          
