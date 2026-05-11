@@ -98,11 +98,11 @@ https://s11host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:-1 tvg-id="Cinepride.distro" tvg-logo="https://i.imgur.com/D9TPZPk.png" group-title="Cinema | Inglês", Cinepride | EUA | Galxy TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2579
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cinema | Inglês",ENT Channel | UK
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Cinema | Inglês",ENT Channel | UK
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cinema | Inglês",ENT Family | UK
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Cinema | Inglês",ENT Family | UK
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Discover.Film.uk" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Cinema | Inglês", Discover Film | Plex
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Cinema | Inglês", Discover Film | Plex
 https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.Electric.Now.plex" tvg-logo="https://i.imgur.com/ejyvmON.png" group-title="Cinema | Inglês", Electric Now | USA
 https://amg01705-amg01705c1-amgplt0274.playout.now3.amagi.tv/playlist/amg01705-amg01705c1-amgplt0274/playlist.m3u8?app_name=&did=&is_lat=1&app_store_url=&coppa=0&ifa_type=&dnt=0&app_bundle=&lastUpdatedAt=1763999131
@@ -120,23 +120,23 @@ https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Horror.Machine.distro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbKuik9jjrZ5lnmOvyv_19tWB4a63AwcvXA&s" group-title="Cinema | Inglês", Horror Machine | Local Now
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema | Inglês", KMovies
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema | Inglês", KMovies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema | Inglês", KMovies 2
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema | Inglês", KMovies 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema | Inglês", KMovies 3
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://i.imgur.com/wncVwti.png" group-title="Cinema | Inglês", KMovies 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Cinema | Inglês", Maverick Black Cinema
 https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTime.Movie.Network.be" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema | Inglês", MyTime Movie Network | EUA
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="externallinearfeed-12-15-2021-12-15-2021" tvg-logo="https://i.imgur.com/jRHBzOm.png" group-title="Cinema | Inglês", The Archive | EUA 6
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://i.imgur.com/jRHBzOm.png" group-title="Cinema | Inglês", The Archive | EUA 6
 https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" tvg-logo="https://i.imgur.com/Sxf26dk.png" group-title="Cinema | Inglês", The Lone Star Channel | Rakuten
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema | Inglês", Watch It Scream! | Galxy TV 2
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema | Inglês", Watch It Scream! | Galxy TV 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2587
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema | Inglês", Watch It Scream! | Galxy TV 3
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="https://i.imgur.com/G7IOBNf.png" group-title="Cinema | Inglês", Watch It Scream! | Galxy TV 3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2598
 #EXTINF:-1 tvg-id="Old.West.TV.distro" tvg-logo="https://electricnowdspmedia.cachefly.net/images/698476cb9656354b5d078bd3" group-title="Cinema | Inglês", Old West TV
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/XJVYPFQ/22176F765F52/m.m3u8
