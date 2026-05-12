@@ -1,6 +1,5 @@
 import requests
 import gzip
-import shutil
 from lxml import etree
 import os
 
@@ -15,7 +14,7 @@ EPG_SOURCES = [
 
 OUTPUT_DIR = "epg"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "epg_final.xml")
-OUTPUT_FILE_GZ = os.path.join(OUTPUT_DIR, "epg_final.xml.gz") # Novo caminho do arquivo .gz
+OUTPUT_FILE_GZ = os.path.join(OUTPUT_DIR, "epg_final.xml.gz")
 
 def fetch_content(url):
     print(f"Baixando: {url}")
@@ -60,27 +59,34 @@ def merge_epgs():
             except Exception as e:
                 print(f"Erro ao processar XML de {url}: {e}")
 
-    # 1. Salva o arquivo XML normal
-    final_tree = etree.ElementTree(combined_root)
-    final_tree.write(
-        OUTPUT_FILE, 
+    # --- SALVAMENTO DOS ARQUIVOS ---
+
+    # 1. Converte a árvore para string XML em memória (formato bytes)
+    print("\nGerando dados finais...")
+    xml_data = etree.tostring(
+        combined_root, 
         encoding="utf-8", 
         xml_declaration=True, 
         pretty_print=True
     )
 
-    # 2. Salva o arquivo em formato .gz (Comprimido)
+    # 2. Salva o XML normal
     try:
-        with open(OUTPUT_FILE, 'rb') as f_in:
-            with gzip.open(OUTPUT_FILE_GZ, 'wb') as f_out:
-                shutil.copyfileobj(f_in, f_out)
-        print(f"Arquivo comprimido salvo em: {OUTPUT_FILE_GZ}")
+        with open(OUTPUT_FILE, "wb") as f:
+            f.write(xml_data)
+        print(f"Arquivo XML salvo em: {OUTPUT_FILE}")
+    except Exception as e:
+        print(f"Erro ao salvar XML: {e}")
+
+    # 3. Salva o XML Comprimido (.gz)
+    try:
+        with gzip.open(OUTPUT_FILE_GZ, "wb") as f_gz:
+            f_gz.write(xml_data)
+        print(f"Arquivo GZ salvo em: {OUTPUT_FILE_GZ}")
     except Exception as e:
         print(f"Erro ao criar arquivo GZ: {e}")
 
     print(f"\nConcluído! Total de canais únicos: {len(added_channels)}")
-    print(f"Arquivo XML salvo em: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     merge_epgs()
-    
