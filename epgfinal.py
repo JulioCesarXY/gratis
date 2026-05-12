@@ -8,7 +8,7 @@ import os
 EPG_SOURCES = [
     "https://x1co.com.br/epg/epg.xml",
     "https://raw.githubusercontent.com/JulioCesarXY/gratis/refs/heads/main/epg/epg_kpoptvbr.xml",
-    "https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml"
+    "https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml","https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz","https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"
 ]
 
 OUTPUT_DIR = "epg"
