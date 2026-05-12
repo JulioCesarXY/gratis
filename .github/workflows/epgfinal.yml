@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg/epg_final.xml
+          git add epg/epg_final.xml epg/epg_final.xml.gz
           git commit -m "Auto update EPG: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
           git pull --rebase origin main
           git push origin main
