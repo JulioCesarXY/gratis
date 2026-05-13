@@ -685,8 +685,12 @@ https://d5d8af44e2824000ad28245f2de6dd04.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Humor | Inglês", Your Pretty Face is Going to Hell | Adult Swim
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
 
+====== VARIEDADES ======
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-name="PlayTV HD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Variedades | Brasil",PlayTV HD
 https://isaocorp.cloudecast.com/playtvweb/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-title="Variedades | Brasil",Loading (Não oficial)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVwkACK.png" group-title="Variedades | Coreano", Arirang World TV | inglês e coreano
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JVBxUaB.png" group-title="Variedades | Coreano", Documentários | Coreia do Sul
