@@ -9,7 +9,8 @@ EPG_SOURCES = [
     "https://raw.githubusercontent.com/JulioCesarXY/gratis/refs/heads/main/epg/epg_kpoptvbr.xml",
     "https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
-    "https://raw.githubusercontent.com/JulioCesarXY/gratis/refs/heads/main/epg/epg_distrotv.xml"
+    "https://raw.githubusercontent.com/JulioCesarXY/gratis/refs/heads/main/epg/epg_distrotv.xml",
+    "https://raw.githubusercontent.com/JulioCesarXY/gratis/refs/heads/main/epg/playtv_epg.xml"
 ]
 
 OUTPUT_DIR = "epg"
