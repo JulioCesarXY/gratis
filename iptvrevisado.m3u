@@ -81,6 +81,7 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c54
 #EXTINF:-1 tvg-name="MEDO TV" tvg-logo="https://imgur.com/1i2M7i5.png" group-title="Cinema | Brasil",MEDO TV
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
 
+=============CINEMA INGLÊS===========
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3SuqJaK.png" group-title="Cinema | Inglês", 24 Hour Free Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
 #EXTINF:-1 tvg-id="CineLife.distro" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Cinema | Inglês", CineLife | USA
@@ -159,10 +160,13 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991131/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-id="99951356" tvg-name="Wild West TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951356/168x168.png?type=color_onBlack" group-title="Cinema | Inglês",Wild West TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99951356/hls/playlist.m3u8?ads.xumo_channelId=99951356&ads._fw_ifa_type=&ads._fw_did=b4672318-f198-484d-a0b7-8abf42357825&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ShoutFactoryWildWestTV&ads.csid=xumo_web_ShoutFactoryWildWestTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=Western,EW,Entertainment,GV,Drama,GD,Movie,Movies,FF&ads._fw_content_rating=&ads.xumo_contentId=4118&ads.xumo_contentName=ShoutFactoryWildWestTV&ads.xumo_providerId=4118&ads.xumo_providerName=ShoutFactoryWildWestTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951356&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
+===========CINEMA ESPANHOL=========
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="Cinema | Espanhol", RunTime em Espanhol
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
 #EXTINF:-1 tvg-id="plex.tv.Electric.Now.plex" tvg-logo="https://electricnowdspmedia.cachefly.net/images/698e5dd0bb906981490c5cd5" group-title="Cinema | Espanhol", Electric Now | Espanhol
+https://amg01705-amg01705c2-amgplt0274.playout.now3.amagi.tv/playlist/amg01705-amg01705c2-amgplt0274/playlist.m3u8?app_name=&did=&is_lat=1&app_store_url=&coppa=0&ifa_type=&dnt=0&app_bundle=&lastUpdatedAt=1763999154
 
+===========CINEMA FRANCÊS==========
 #EXTINF:-1 tvg-id="MyTime.Movie.Network.be" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema | Francês", MyTime Movie Network | França
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FRBB50000016B" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/FRBB50000016B_20220323T080520.png" group-title="Cinema | Francês", RunTime em Francês
@@ -170,6 +174,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
 #EXTINF:-1 tvg-id="Cine.Western" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Cinema | Francês",Ciné Western | França
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 
+===========CINEMA OUTROS==========
 #EXTINF:-1 tvg-id="Astro.AOD.311.my" tvg-logo="https://freetv.fun/media/images/channel/2022/08/26/large/20220826114608609036_92.png" tvg-name="ASTRO AOD 31" group-title="Cinema | Outros",ASTRO AOD | 50FPS
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="139216" tvg-name="CINDIE TV" tvg-logo="https://i.imgur.com/3GCV0Fz_d.png?maxwidth=520&shape=thumb&fidelity=high" group-title="Cinema | Outros",CINDIE TV | Mexico
@@ -184,6 +189,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/U3CS4YI/263AF9392E3E/m.m3u8
 #EXTINF:-1 tvg-id="145584" tvg-name="HORROR TV" tvg-logo="https://a.jsrdn.com/hls/23064/horror-tv/logo_20260324_013632_68.png" group-title="Cinema | Outros",HORROR TV | VPN
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horror-tv/master.m3u8?ads.vf=zbRRevxF1ay
+
+
+==========RELIGIOSO CRISTIANISMO===========
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="Religiosos | Cristianismo", Evangelizar TV
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5uTSYY6.png" group-title="Religiosos | Cristianismo", Novo Tempo | Brasil
@@ -213,6 +221,7 @@ https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="Religiosos | Cristianismo", TV Verdade | Brasil e Filipinas
 https://acesso.ecast.site:3104/hybrid/play.m3u8
 
+===========RELIGIOSO ISLAMISMO===========
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA1 World
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA2 Europe
@@ -228,6 +237,8 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA8 America
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 
+
+===========NOTÍCIAS BRASIL===========
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias | Brasil", Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-id="RTP 3 HD" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="Notícias | Brasil", RTP 3 | Portugal
@@ -241,7 +252,7 @@ https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Notícias | Brasil", TV Câmara | Brasil
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-=======NOTÍCIAS INGLÊS=======
+==========NOTÍCIAS INGLÊS=============
 #EXTINF:-1 tvg-id="99991158" tvg-name="CBS News 24/7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/168x168.png?type=color_onBlack" group-title="Notícias | Inglês",CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
 #EXTINF:-1 tvg-id="99951386" tvg-name="CNN Headlines" tvg-logo="https://image.xumo.com/v1/channels/channel/99951386/168x168.png?type=color_onBlack" group-title="Notícias | Inglês",CNN Headlines
@@ -279,7 +290,7 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="5151" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias | Inglês", Sky News | Austrália
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8
 
-=======NOTÍCIAS FRANCÊS=======
+===========NOTÍCIAS FRANCÊS=========
 #EXTINF:-1 tvg-id="France.24.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias | Francês", France 24 HD 1
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="France.24.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias | Francês", France 24 HD 2
@@ -313,6 +324,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1253
 #EXTINF:-1 tvg-id="Deutsche.Welle.es" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Documentários | Espanhol", Deutsche Welle | DW em espanhol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
+=========DOCUMENTARIOS INGLES==========
 #EXTINF:-1 tvg-id="5161" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Documentários | Inglês", Deutsche Welle | DW em inglês
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPA2yTM.png" group-title="Documentários | Inglês", Guinness World Records
