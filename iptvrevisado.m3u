@@ -246,8 +246,10 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
 #EXTINF:-1 tvg-id="99951386" tvg-name="CNN Headlines" tvg-logo="https://image.xumo.com/v1/channels/channel/99951386/168x168.png?type=color_onBlack" group-title="Notícias | Inglês",CNN Headlines
 https://dbrb49pjoymg4.cloudfront.net/10001/99951386/hls/playlist.m3u8?ads.xumo_channelId=99951386&ads._fw_ifa_type=&ads._fw_did=27814032-3f4e-4280-84e4-6285eb48c1e5&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=WBDCNNHeadlines&ads.csid=xumo_web_WBDCNNHeadlines_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4193&ads.xumo_contentName=WBDCNNHeadlines&ads.xumo_providerId=4193&ads.xumo_providerName=WBDCNNHeadlines&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951386&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
-#EXTINF:-1 tvg-id="99951223" tvg-name="Sky News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack" group-title="News",Sky News
+#EXTINF:-1 tvg-id="99951223" tvg-name="Sky News" tvg-logo="https://image.xumo.com/v1/channels/channel/99951223/168x168.png?type=color_onBlack" group-title="Notícias | Inglês",Sky News
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223&ads._fw_ifa_type=&ads._fw_did=befda4a6-39c3-4ee9-8c29-e24e504274a4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SkyNews&ads.csid=xumo_web_SkyNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_rating=&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951223&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="LN_88CE1401-5EBC-4163-983F-534C8916321A" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/082f535b-acad-4ec1-977e-da205f4d901b-1741634783.243562.256x256.png" group-title="Notícias | Inglês", Yahoo Finance | FreeCast
+https://yahoofina-yahoofinance-plex-kgckp.amagi.tv/playlist/yahoofina-yahoofinance-plex/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Notícias | Inglês", Black News Channel | Vizio
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Notícias | Inglês", Black News Channel | Xumo
@@ -277,6 +279,7 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 #EXTINF:-1 tvg-id="5151" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias | Inglês", Sky News | Austrália
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8
 
+=======NOTÍCIAS FRANCÊS=======
 #EXTINF:-1 tvg-id="France.24.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias | Francês", France 24 HD 1
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="France.24.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias | Francês", France 24 HD 2
@@ -284,14 +287,13 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Notícias | Francês", France 24 SD
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
+=======NOTÍCIAS OUTROS IDIOMAS=======
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-logo="https://i.imgur.com/JtZ5nXn.png" group-title="Notícias | Outros Idiomas", Antena 3 CNN | Romênia
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dy9Dkh2.png" group-title="Notícias | Outros Idiomas", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/u9vsQRi.png" group-title="Notícias | Outros Idiomas", CNN Indonésia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LN_88CE1401-5EBC-4163-983F-534C8916321A" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/082f535b-acad-4ec1-977e-da205f4d901b-1741634783.243562.256x256.png" group-title="Notícias | Outros Idiomas", Yahoo Finance | FreeCast
-https://yahoofina-yahoofinance-plex-kgckp.amagi.tv/playlist/yahoofina-yahoofinance-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="nhk.world.Japan.id" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/8236410d-6a7d-4ea1-95fb-623d00c0b660-1767805642.257788.256x256.png" group-title="Notícias | Outros Idiomas", NHK WORLD JAPAN
 https://r673942-nhk-sec-6.cdn.nextologies.com/3f822a7e06e7b660/2afd86b37276ce6c.m3u8
 #EXTINF:-1 tvg-id="SÃ£o.Paulo/SP..NHK.World.Premium.br" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="Notícias | Outros Idiomas", NHK WORLD PREMIUM
