@@ -327,6 +327,7 @@ https://lds-wonder-plex.amagi.tv/amRdirect/us_privacy=1---&X-Plex-Token=y_HMAMzw
 #EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Documentários | Inglês", Xplore | Chipre
 https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
 
+=======INFANTIL PORTUGUÊS=======
 #EXTINF:-1 tvg-id="nickonline.br" tvg-logo="https://i.imgur.com/2hYAFxG.png" group-title="Infantil | Português",NickOnline
 https://x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Infantil | Português", Toon Googles TG Brasil
@@ -338,6 +339,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Infantil | Português", Toon Googles TG Brasil | RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 
+======INFANTIL ESPANHOL======
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTff37d.png" group-title="Infantil | Espanhol", Big Buck Bunny
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1268
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="Infantil | Espanhol", Toon Googles em Español 1
@@ -349,6 +351,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="Infantil | Espanhol", Toon Googles em Español 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
 
+======INFANTIL INGLÊS======
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsYajEP.png" group-title="Infantil | Inglês", Adventures of Sonic The Hedgehog
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuNWELM.png" group-title="Infantil | Inglês", Angry Birds | TG
@@ -365,7 +368,32 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=563
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/VH54P16XUU6Z455WCIOK/hls3/now,-1m/m.m3u8
 #EXTINF:-1 tvg-logo="https://electricnowdspmedia.cachefly.net/images/698477f656751c13ea07a5d3" group-title="Infantil | Inglês",Toon Vation | Free Cast
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/30YQ39WOOCPLBNW7KU3U/hls3/now,-1m/m.m3u8
+#EXTINF:-1 tvg-id="99991107" tvg-name="Xumo Free Kids TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991107/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Xumo Free Kids TV
+https://live-content.xumo.com/4120/content/XM0H0D4CQV5LUS/27208645/master.m3u8
+#EXTINF:-1 tvg-id="99951209" tvg-name="Baby Shark TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951209/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Baby Shark TV
+https://live-content.xumo.com/3871/content/XM0SZGFW1BE4RO/24656908/master.m3u8
+#EXTINF:-1 tvg-id="99951229" tvg-name="Ninja Kidz TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99951229/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Ninja Kidz TV
+https://dbrb49pjoymg4.cloudfront.net/10001/99951229/hls/playlist.m3u8?ads.xumo_channelId=99951229&ads._fw_ifa_type=&ads._fw_did=2525f9ae-ba0d-4979-81bb-23ebc0482e04&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=PlayWorksNinjaKidsTV&ads.csid=xumo_web_PlayWorksNinjaKidsTV_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3915&ads.xumo_contentName=PlayWorksNinjaKidsTV&ads.xumo_providerId=3915&ads.xumo_providerName=PlayWorksNinjaKidsTV&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951229&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="99991253" tvg-name="All Babies Channel" tvg-logo="https://image.xumo.com/v1/channels/channel/99991253/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",All Babies Channel
+https://live-content.xumo.com/186/content/XM02PGP9L27170/26210515/master.m3u8
+#EXTINF:-1 tvg-id="99991268" tvg-name="Toon Goggles" tvg-logo="https://image.xumo.com/v1/channels/channel/99991268/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Toon Goggles
+https://dbrb49pjoymg4.cloudfront.net/10001/99991268/hls/tg.m3u8?ads.xumo_channelId=99991268&ads._fw_ifa_type=&ads._fw_did=cd7acc9c-97eb-406c-af86-912b4d378611&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ToonGoggles&ads.csid=xumo_web_ToonGoggles_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=198&ads.xumo_contentName=ToonGoggles&ads.xumo_providerId=198&ads.xumo_providerName=ToonGoggles&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991268&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="99991283" tvg-name="Rainbow Rangers" tvg-logo="https://image.xumo.com/v1/channels/channel/99991283/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Rainbow Rangers
+https://live-content.xumo.com/213/content/XM097I51HLRDHH/26145994/master.m3u8
+#EXTINF:-1 tvg-id="99991761" tvg-name="Teletubbies" tvg-logo="https://image.xumo.com/v1/channels/channel/99991761/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Teletubbies
+https://live-content.xumo.com/1854/content/XM0IL08FVCH1IY/25616577/master.m3u8
+#EXTINF:-1 tvg-id="99951280" tvg-name="Sensical Jr." tvg-logo="https://image.xumo.com/v1/channels/channel/99951280/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Sensical Jr.
+https://dbrb49pjoymg4.cloudfront.net/10001/99951280/hls/playlist.m3u8?ads.xumo_channelId=99951280&ads._fw_ifa_type=&ads._fw_did=2e8aeb64-1bfd-4a20-978e-a2dd6b0788c2&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=CommonSenseNetworksSensicalJr&ads.csid=xumo_web_CommonSenseNetworksSensicalJr_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3979&ads.xumo_contentName=CommonSenseNetworksSensicalJr&ads.xumo_providerId=3979&ads.xumo_providerName=CommonSenseNetworksSensicalJr&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951280&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="99951366" tvg-name="OK Gamer" tvg-logo="https://image.xumo.com/v1/channels/channel/99951366/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",OK Gamer
+https://live-content.xumo.com/4137/content/XM093TMX22OE6G/27288052/master.m3u8
+#EXTINF:-1 tvg-id="99951441" tvg-name="Power Rangers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951441/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Power Rangers
+https://dbrb49pjoymg4.cloudfront.net/10001/99951441/hls/8-9-6768.m3u8?ads.xumo_channelId=99951441&ads._fw_ifa_type=&ads._fw_did=6e17bd23-8cd0-4792-8866-05887d050097&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroPowerRangers&ads.csid=xumo_web_HasbroPowerRangers_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4258&ads.xumo_contentName=HasbroPowerRangers&ads.xumo_providerId=4258&ads.xumo_providerName=HasbroPowerRangers&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951441&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="99951442" tvg-name="My Little Pony" tvg-logo="https://image.xumo.com/v1/channels/channel/99951442/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",My Little Pony
+https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=1d721b69-93d2-43ac-af01-93ef599e374d&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-id="99951443" tvg-name="Transformers" tvg-logo="https://image.xumo.com/v1/channels/channel/99951443/168x168.png?type=color_onBlack" group-title="Infantil | Inglês",Transformers
+https://dbrb49pjoymg4.cloudfront.net/10001/99951443/hls/8-9-6767.m3u8?ads.xumo_channelId=99951443&ads._fw_ifa_type=&ads._fw_did=a734cb42-4b1c-4539-810e-7a96a8481599&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroTransformers&ads.csid=xumo_web_HasbroTransformers_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4261&ads.xumo_contentName=HasbroTransformers&ads.xumo_providerId=4261&ads.xumo_providerName=HasbroTransformers&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951443&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
+=======ESPORTES GERAL=======
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esportes | Geral", Motorvision | Pluto TV Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esportes | Geral", Motorvision | Pluto TV Brasil 2
@@ -396,6 +424,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.dpname=distrotv&ads.rnd=mznn&ads.env_i=c0f577fe-4147-45aa-a4fc-29242dda0daa&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=203&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=45.174.160.84&ads.geo=BR&ads.lat=-2.04980&ads.long=-44.77080&ads.dma=&ads.geoType=2&ads.contentid=23064&ads.content_duration=18000&ads.episode_id=83822&ads.show_id=3197&ads.showCategories=IAB17&ads.episodeCategories=IAB1&ads.genre=Sports%2CEntertainment%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=KOZOOM%20TV&ads.episodetitle=KOZOOM%20TV&ads.keywords=Billiards%2CBilliard%2CPool%2CKozoom&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=G0O3fb5A9iC#EXTINF:-1 tvg-id="Sports.First.TV.distro" tvg-logo="https://a.jsrdn.com/hls/23208/sports-first-tv/logo_20250211_205731_70.png" group-title="Esportes | Geral",Sports First TV
 https://d2396zb8liu8hs.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/0c54d1ee-9f5c-47fa-a5d5-364253342ef0/1.m3u8
 
+======ESPORTES AUTOMOBILISMO======
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="Esportes | Automobilismo", NHRA Championship Drag Racing 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
 #EXTINF:-1 tvg-id="NASCAR.Channel.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iyxsyMDVBSKVz6ZEFvbyF6vf-VQFMRQwqVStcN5EjlIXtAV9bO-FI3U&s=10" group-title="Esportes | Automobilismo", NASCAR Channel | USA
