@@ -10,7 +10,9 @@ EPG_SOURCES = [
     "https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml",
     "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
     "https://raw.githubusercontent.com/JulioCesarXY/gratis/refs/heads/main/epg/epg_distrotv.xml",
-    "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz"
+    "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz",
+
+"https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz"
 ]
 
 OUTPUT_DIR = "epg"
