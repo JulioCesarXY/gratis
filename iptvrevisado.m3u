@@ -672,6 +672,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1296
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Infantil | Português", Toon Googles TG Brasil | RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 
+
+
 ==================INFANTIL ESPANHOL===============
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTff37d.png" group-title="Infantil | Espanhol", Big Buck Bunny
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1268
@@ -684,9 +686,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="Infantil | Espanhol", Toon Googles em Español 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
 
+
+
 =================INFANTIL INGLÊS=================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OsYajEP.png" group-title="Infantil | Inglês", Adventures of Sonic The Hedgehog
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
+#EXTINF:-1 channel-id="a3c405bfca9b525983054aa761b10dfb" tvg-id="a3c405bfca9b525983054aa761b10dfb" tvg-chno="433" tvg-name="Super Mario Brothers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a3c405bfca9b525983054aa761b10dfb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694472710975_SuperMarioBrothers_HUDlogo_260x147.png" group-title="Infantil | Inglês",Super Mario Brothers
+https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8
+#EXTINF:-1 channel-id="77946e082d8958f599087890aebf1623" tvg-id="77946e082d8958f599087890aebf1623" tvg-chno="365" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/77946e082d8958f599087890aebf1623/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1712857102121_YuGiOh_LGLogo_HUD-Centered.png" group-title="Infantil | Inglês",Yu-Gi-Oh!
+https://jmp2.uk/rok-77946e082d8958f599087890aebf1623.m3u8
+#EXTINF:-1 channel-id="65f83bbbf7a2eb952b798c96300bb329" tvg-id="65f83bbbf7a2eb952b798c96300bb329" tvg-chno="368" tvg-name="Pink Panther" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/65f83bbbf7a2eb952b798c96300bb329/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747839527856_PinkPanther_HUDLogo_Centered_260x147.png" group-title="Infantil | Inglês",Pink Panther
+https://jmp2.uk/rok-65f83bbbf7a2eb952b798c96300bb329.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuNWELM.png" group-title="Infantil | Inglês", Angry Birds | TG
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuNWELM.png" group-title="Infantil | Inglês", Angry Birds | TG 3
@@ -1752,6 +1762,14 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/ts-us-w2-n2/
 https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/cb54381b6573628a84cb3966cef042a0f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7255db80148b61299bce8c37683f03409a5e5afba358b1ebb25d11d868a8e41455967c13e39f43c8821da689dd09995ed070f21298c1f68d86158bd79b5c936fe3301a16257989920bf0a33ce680e203579d753b081d6af6b19cfa5b3f8355313a929be89851d149a0e342806424f504965bf653e00afa53d78b27a1a9a891414e29b4c529024dc1b5faf2915b32b975b5b1fdcf767d94e20d6842bb0bb246273186f8916eeeaf1492a56d84a4792236c19c40e9f7d8ebcbb99e5e8e2afef1aee6572e4f67174c8f5ba3a579c239d80ac6a47f2d534e45a1a941cb94d85935383eecea5fd00055aad88382d60049a90a7a0bb218b3310468df7a686ceb2cf49f4e06e34e0e8c2629e9572196188bd24af4a3c8ab103dc7b3ad29d560f59a1bf5c1299d4b29034ed9842d5b560274def8591d316bd74be1c1f5e5780401e5f9bf8caa2330132d070843c4e6ee638f9ccf6709009b2e4c16751404d807d967cb05471411c517c5a91a609703202094c4553c0b36e5a2db8083c5844db16bcadff84b4a513a54b8315f5704b9b7894ab3315872734b857d0729dc56003280fcc8e18ace7edc9360bb4a017e0295aa662b6f5377704492931ab03487ba3c9bc99a6e2b8ee7632d0f8110606afcf2ee2e9ecf93c655069cd82f7305a4f2570bf7b0a56db91887c764d0f0740b192e494bc3f42597c21b3ef9b541bb3ca44c1673aa59b889a1c0bef5a848f038511e282f7f5253642d02b0dbda2e671189ea72b40ab3b912c110253f56de1e85d3c95991a32509ecc48a830081fa8cc70602c36df53aef6f11b256012bfbcd0227e2d8fcd788755d0cd5b7e419f5f1c8c9fbdfc422711c7f70b5f51f04279676abcc30e8a34b28b4c993b38e27d754f225b781812be617a9dff35bfdc7d3adad375f757263d1edbbba18d2b70f059c7ed8462251dca9ece66af6dff3562cbd13b0cb5720fe7e4d5ccfaae90d877eebb17779b1f51c33bf433bcfe4f0310f8875f7525553c58dd03e759fb94cf92bbc9af8084089726ec74f4c6ea179bacaff5e66efb81c1742af6c2389648fdcd64c5311ffc337c54bb9e3efa6b718732b4364e7f891d204fd4aeb04003c/111/1920x1080_4681598/index.m3u8
 #EXTINF:-1 tvg-id="Box.Gamers.distro" tvg-logo="https://a.jsrdn.com/hls/23195/box-gamers/logo_20250102_230327_70.png" group-title="Outros | Ambient", Box Gamers
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/GP6E3QA/1C5BBCF7A69F/m.m3u8
+#EXTINF:-1 channel-id="417de64d5d2255119088209d40ebfee6" tvg-id="417de64d5d2255119088209d40ebfee6" tvg-chno="970" tvg-name="Estrella Games" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/417de64d5d2255119088209d40ebfee6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652302122079_260x147-center.png" group-title="Outros | Ambient",Estrella Games
+https://jmp2.uk/rok-417de64d5d2255119088209d40ebfee6.m3u8
+#EXTINF:-1 channel-id="e88ce0afc4f05acc1c35e625128c43e5" tvg-id="e88ce0afc4f05acc1c35e625128c43e5" tvg-chno="573" tvg-name="Preston & Brianna" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e88ce0afc4f05acc1c35e625128c43e5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775671198477_RadialPrestonAndBrianna_HUDlogo_260x147.png" group-title="Outros | Ambient",Preston & Brianna
+https://jmp2.uk/rok-e88ce0afc4f05acc1c35e625128c43e5.m3u8
+#EXTINF:-1 channel-id="ac7629367b3f5fae93753623469c440d" tvg-id="ac7629367b3f5fae93753623469c440d" tvg-chno="421" tvg-name="Sensical Gaming" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ac7629367b3f5fae93753623469c440d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1667323738009_Sensical_Gaming_Logo_EFEFEF-CENTER.png" group-title="Outros | Ambient",Sensical Gaming
+https://jmp2.uk/rok-ac7629367b3f5fae93753623469c440d.m3u8
+#EXTINF:-1 channel-id="f17c82792f7cab26596e1a84ebc82a8b" tvg-id="f17c82792f7cab26596e1a84ebc82a8b" tvg-chno="205" tvg-name="Team Liquid" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f17c82792f7cab26596e1a84ebc82a8b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1750722575713_TL_HUD_Logo_-_260x147-1.png" group-title="Outros | Ambient",Team Liquid
+https://jmp2.uk/rok-f17c82792f7cab26596e1a84ebc82a8b.m3u8
 #EXTINF:-1 tvg-id="145579" tvg-logo="https://a.jsrdn.com/hls/23064/absinthe-tv/logo_20260324_011120_68.png" group-title="Outros | Ambient", Absinthe TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/absinthe-tv/manifest.m3u8?ads.vf=C_yCv7bL3z4
 #EXTINF:-1 tvg-name="PBS Nature" tvg-id="LN_B7688A14-B68F-4A9B-8857-28A584CCB016" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/B7688A14-B68F-4A9B-8857-28A584CCB016/3-1x1.png" group-title="Outros | Ambient",PBS Nature
