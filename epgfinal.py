@@ -14,8 +14,8 @@ EPG_SOURCES = [
 "https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
     "https://raw.githubusercontent.com/BuddyChewChew/lg-playlist-generator/main/lg_channels_us.xml",
-    "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz"
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+
 ]
 
 OUTPUT_DIR = "epg"
