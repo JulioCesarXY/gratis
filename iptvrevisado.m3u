@@ -742,10 +742,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951443/hls/8-9-6767.m3u8?ads.xumo_c
 
 
 =================ESPORTES GERAL===============
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esportes | Geral", Motorvision | Pluto TV Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esportes | Geral", Motorvision | Pluto TV Brasil 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes | Geral", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes | Geral", Red Bull TV | Reino Unido
@@ -900,6 +896,10 @@ https://dtqutq7lmcchv.cloudfront.net/10001/99951438/hls/playlist.m3u8?ads.xumo_c
 https://live-content.xumo.com/224/content/XM08K1F0NHHDRD/22141421/master.m3u8
 #EXTINF:-1 tvg-id="99991325" tvg-name="Motorvision" tvg-logo="https://image.xumo.com/v1/channels/channel/99991325/168x168.png?type=color_onBlack" group-title="Esportes | Automobilismo",Motorvision
 https://dbrb49pjoymg4.cloudfront.net/10001/99991325/hls/mv.m3u8?includeAssetTags=true&ads.xumo_channelId=99991325&ads._fw_ifa_type=&ads._fw_did=d98c5585-ece1-4a4c-95fc-faf86f807910&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Motorvision&ads.csid=xumo_web_Motorvision_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991325&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esportes | Geral", Motorvision | Pluto TV Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDWDdVY.png" group-title="Esportes | Geral", Motorvision | Pluto TV Brasil 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1676
 #EXTINF:-1 tvg-id="99951207" tvg-name="Fifth Gear" tvg-logo="https://image.xumo.com/v1/channels/channel/99951207/168x168.png?type=color_onBlack" group-title="Esportes | Automobilismo",Fifth Gear
 https://live-content.xumo.com/3867/content/XM0FKLDR46VV4E/24445445/master.m3u8
 #EXTINF:-1 tvg-id="99951249" tvg-name="Top Gear" tvg-logo="https://image.xumo.com/v1/channels/channel/99951249/168x168.png?type=color_onBlack" group-title="Esportes | Automobilismo",Top Gear
