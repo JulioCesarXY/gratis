@@ -8,7 +8,7 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/2bfc9f3f-1c7c-43fa-b710-9b56875592f1/4.m3u8
 #EXTINF:-1 group-title="Cinema | Brasil", NOSSO PLAY TV
 https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
-#EXTINF:-1 group-title="Cinema | Brasil", Sessão Trash
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6864668119cc2e163e38d167" tvg-logo="" group-title="Cinema | Brasil", Sessão Trash
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/cqtv/imagem/logo_classiqueTV_site.png" group-title="Cinema | Brasil", CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
@@ -62,9 +62,9 @@ https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
 #EXTINF:-1 tvg-name="CINDIE LITE" tvg-logo="https://imgur.com/HBNYdop.png" group-title="Cinema | Brasil",CINDIE LITE
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-name="SPARK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Cinema | Brasil",SPARK TV | Plex
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6623c114ed4918437ed56ebc" tvg-name="SPARK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Cinema | Brasil",SPARK TV | Plex
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-name="SPARK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Cinema | Brasil",SPARK TV | Link 2
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6623c114ed4918437ed56ebc" tvg-name="SPARK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Cinema | Brasil",SPARK TV | Link 2
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
 #EXTINF:-1 tvg-name="HALLO MOVIE" tvg-logo="https://imgur.com/93W36dG.png" group-title="Cinema | Brasil",HALLO MOVIE
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
@@ -384,12 +384,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
 #EXTINF:-1 tvg-id="Cine.Western" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Cinema | Francês",Ciné Western | França
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 
+
+
+
 ===========CINEMA OUTROS==========
 #EXTINF:-1 tvg-id="Astro.AOD.311.my" tvg-logo="https://freetv.fun/media/images/channel/2022/08/26/large/20220826114608609036_92.png" tvg-name="ASTRO AOD 31" group-title="Cinema | Outros",ASTRO AOD | 50FPS
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="139216" tvg-name="CINDIE TV" tvg-logo="https://i.imgur.com/3GCV0Fz_d.png?maxwidth=520&shape=thumb&fidelity=high" group-title="Cinema | Outros",CINDIE TV | Mexico
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi
-#EXTINF:-1 tvg-name="CINDIE TV" tvg-logo="https://i.imgur.com/3GCV0Fz_d.png?maxwidth=520&shape=thumb&fidelity=high" group-title="Cinema | Outros",CINDIE TV | Brasil
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6685ad945ffde3f71a3977d5" tvg-name="CINDIE TV" tvg-logo="https://i.imgur.com/3GCV0Fz_d.png?maxwidth=520&shape=thumb&fidelity=high" group-title="Cinema | Outros",CINDIE TV | Brasil
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6685ad945ffde3f71a3977d5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-9mxza4tUUAbyBZHPtiF
 #EXTINF:-1 tvg-name="Box Cinema" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" tvg-id="Box.Cinema.distro" group-title="Cinema | Outros",Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/4VXGRDY/605C64996517/m.m3u8
