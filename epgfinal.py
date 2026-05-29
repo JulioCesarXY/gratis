@@ -15,7 +15,9 @@ EPG_SOURCES = [
     "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
     "https://raw.githubusercontent.com/BuddyChewChew/lg-playlist-generator/main/lg_channels_us.xml",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz",
-    "https://raw.githubusercontent.com/JulioCesarXY/EPG-Plex-Brazil/refs/heads/main/plex_epg_brasil.xml"
+    "https://raw.githubusercontent.com/JulioCesarXY/EPG-Plex-Brazil/refs/heads/main/plex_epg_brasil.xml",
+    "https://pastebin.com/raw/ZTn9jzw9",
+    "https://pastebin.com/raw/PkLp1BhD"
 
 ]
 
