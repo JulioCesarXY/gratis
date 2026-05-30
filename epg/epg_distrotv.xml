@@ -6,14 +6,6 @@
   <channel id="15976">
     <display-name>Outside</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="15976">
-    <title lang="pt">Backcountry Rescue</title>
-    <desc lang="pt">Um ciclista de montanha bate em uma trilha remota. SAR realiza um resgate de helicóptero em longa distância contra o relógio.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="15976">
-    <title lang="pt">Backcountry Rescue</title>
-    <desc lang="pt">A Busca e Resgate do Condado de Teton corre para salvar um adolescente que caiu de um penhasco com um snowmobile.</desc>
-  </programme>
   <programme start="20260530160000 +0000" stop="20260530170000 +0000" channel="15976">
     <title lang="pt">Ski A&amp;E</title>
     <desc lang="pt">Descer uma montanha é fácil. Use esquis ou prancha de snowboard. Levantar-se e circular pela área é uma questão diferente.</desc>
@@ -154,13 +146,17 @@
     <title lang="pt">Backcountry Rescue</title>
     <desc lang="pt">Os voluntários altamente treinados da SAR do condado de Teton largam tudo para resgatar os feridos em sua comunidade.</desc>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="15976">
+    <title lang="pt">Backcountry Rescue</title>
+    <desc lang="pt">Um snowboarder é pego em uma zona de avalanche de alto risco. SAR enfrenta terreno escorregadio para uma extração arriscada.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531170000 +0000" channel="15976">
+    <title lang="pt">Ski A&amp;E</title>
+    <desc lang="pt">Vemos como as unidades caninas especializadas dos Alpes resgatam aqueles que estão enterrados sob a neve quando ocorrem avalanches.</desc>
+  </programme>
   <channel id="83408">
     <display-name>Gusto TV</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530160000 +0000" channel="83408">
-    <title lang="pt">Surf and Turf</title>
-    <desc lang="pt">Cozinhe junto com a chef Kimberly Lallouz em sua cozinha de teste, preparando seu jantar de vários pratos ‘Surf and Turf’.</desc>
-  </programme>
   <programme start="20260530160000 +0000" stop="20260530170000 +0000" channel="83408">
     <title lang="pt">Sweet Kisses</title>
     <desc lang="pt">Cozinhe junto com a chef Kimberly Lallouz em sua cozinha de teste, preparando seu jantar de vários pratos ‘Sweet Kisses’.</desc>
@@ -301,6 +297,18 @@
     <title lang="pt">Beef-a-palooza</title>
     <desc lang="pt">O especialista em grelhados Spencer Watts oferece um saboroso beef-a-palooza com quatro cortes incríveis de carne bovina.</desc>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="83408">
+    <title lang="pt">Barbeque isn’t Just for Meat</title>
+    <desc lang="pt">Churrasco não é só carne! O chef Spencer Watts nos mostra como grelhar frutas e vegetais como um profissional.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="83408">
+    <title lang="pt">Grilled, Roasted &amp; Charred Chicken</title>
+    <desc lang="pt">O carismático apresentador Spencer Watts nos mostra por que o frango fica melhor na grelha com quatro receitas irresistíveis.</desc>
+  </programme>
+  <programme start="20260531163000 +0000" stop="20260531170000 +0000" channel="83408">
+    <title lang="pt">Lamb Four Ways</title>
+    <desc lang="pt">O apresentador Spencer Watts oferece algumas dicas e truques sobre como preparar quatro cortes diferentes de cordeiro.</desc>
+  </programme>
   <channel id="78918">
     <display-name>TNA Wrestling Channel</display-name>
   </channel>
@@ -346,21 +354,12 @@
   <programme start="20260531150002 +0000" stop="20260531155840 +0000" channel="78918">
     <title lang="pt">Best of Six Sides of Steel</title>
   </programme>
+  <programme start="20260531155840 +0000" stop="20260531180036 +0000" channel="78918">
+    <title lang="pt">iMPACT!</title>
+  </programme>
   <channel id="66893">
     <display-name>True History</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="66893">
-    <title lang="pt">Around Nafplio - Greek History at a Glance</title>
-    <desc lang="pt">Na região de Argólida, na Grécia, caminhe pela fortaleza de Tirinto e aprenda sobre a cultura guerreira micênica.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="66893">
-    <title lang="pt">Ancient Olympia - Gods, Games, and Temples</title>
-    <desc lang="pt">Investigue as práticas e a cultura dos Jogos Olímpicos originais.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="66893">
-    <title lang="pt">Westward the Course of Empire</title>
-    <desc lang="pt">Como surgiu o oeste americano e como foi moldado pelo mito?</desc>
-  </programme>
   <programme start="20260530163000 +0000" stop="20260530170000 +0000" channel="66893">
     <title lang="pt">The West in the Colonial Era</title>
     <desc lang="pt">Para compreender o oeste americano, é preciso compreender a marca deixada por seus primeiros colonos.</desc>
@@ -545,6 +544,18 @@
     <title lang="pt">Wicked Fun at the Vauxhall Pleasure Gardens</title>
     <desc lang="pt">Experimente algumas das histórias escandalosas de sexo e perigo que abundavam nos locais públicos do século XVIII.</desc>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="66893">
+    <title lang="pt">Taking the Dead Man's Path to Tyburn Tree</title>
+    <desc lang="pt">Relembre o julgamento e execução de Jack Sheppard em 1724.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="66893">
+    <title lang="pt">Why Dracula Frightens and Seduces Us</title>
+    <desc lang="pt">Explore as raízes do vampiro no folclore europeu que precedeu a criação do Drácula.</desc>
+  </programme>
+  <programme start="20260531163000 +0000" stop="20260531170000 +0000" channel="66893">
+    <title lang="pt">Surprises from Bram Stoker's Dracula</title>
+    <desc lang="pt">Examine como o romance Drácula se tornou parte integrante da cultura ocidental.</desc>
+  </programme>
   <channel id="39081">
     <display-name>Law &amp; Crime</display-name>
   </channel>
@@ -559,72 +570,6 @@
   <channel id="138920">
     <display-name>OurVinyl</display-name>
   </channel>
-  <programme start="20260530150212 +0000" stop="20260530150721 +0000" channel="138920">
-    <title lang="pt">Jon Latham - Yearbook Signatures</title>
-  </programme>
-  <programme start="20260530150721 +0000" stop="20260530151413 +0000" channel="138920">
-    <title lang="pt">Jon Latham - Anesthesia</title>
-  </programme>
-  <programme start="20260530151413 +0000" stop="20260530152013 +0000" channel="138920">
-    <title lang="pt">JJ Grey and Mofro - How Junior Got His Head Put Out</title>
-  </programme>
-  <programme start="20260530152013 +0000" stop="20260530152713 +0000" channel="138920">
-    <title lang="pt">JJ Grey and Mofro - Brave Lil' Fighter</title>
-  </programme>
-  <programme start="20260530152713 +0000" stop="20260530153822 +0000" channel="138920">
-    <title lang="pt">JJ Grey and Mofro - The Sun Is Shining</title>
-  </programme>
-  <programme start="20260530153822 +0000" stop="20260530154222 +0000" channel="138920">
-    <title lang="pt">Birdtalker - Just This</title>
-  </programme>
-  <programme start="20260530154222 +0000" stop="20260530154616 +0000" channel="138920">
-    <title lang="pt">Birdtalker - Graveclothes</title>
-  </programme>
-  <programme start="20260530154616 +0000" stop="20260530155220 +0000" channel="138920">
-    <title lang="pt">Birdtalker - Heavy</title>
-  </programme>
-  <programme start="20260530155220 +0000" stop="20260530155801 +0000" channel="138920">
-    <title lang="pt">JD McPherson - Precious</title>
-  </programme>
-  <programme start="20260530155801 +0000" stop="20260530160244 +0000" channel="138920">
-    <title lang="pt">JD McPherson - Bridgebuilder</title>
-  </programme>
-  <programme start="20260530160244 +0000" stop="20260530160818 +0000" channel="138920">
-    <title lang="pt">JD McPherson - Bossy</title>
-  </programme>
-  <programme start="20260530160818 +0000" stop="20260530161117 +0000" channel="138920">
-    <title lang="pt">Water Liars - Let It Breathe Final</title>
-  </programme>
-  <programme start="20260530161117 +0000" stop="20260530161438 +0000" channel="138920">
-    <title lang="pt">Water Liars - Call The Tune Final</title>
-  </programme>
-  <programme start="20260530161438 +0000" stop="20260530162055 +0000" channel="138920">
-    <title lang="pt">Water Liars - Swannanoa Final</title>
-  </programme>
-  <programme start="20260530162055 +0000" stop="20260530162434 +0000" channel="138920">
-    <title lang="pt">The Weeks - Talk Like That</title>
-  </programme>
-  <programme start="20260530162434 +0000" stop="20260530162855 +0000" channel="138920">
-    <title lang="pt">The Weeks - Bottle Rocket</title>
-  </programme>
-  <programme start="20260530162855 +0000" stop="20260530163318 +0000" channel="138920">
-    <title lang="pt">The Weeks - Gold Rush</title>
-  </programme>
-  <programme start="20260530163318 +0000" stop="20260530163902 +0000" channel="138920">
-    <title lang="pt">The Weeks - Blame</title>
-  </programme>
-  <programme start="20260530163902 +0000" stop="20260530164337 +0000" channel="138920">
-    <title lang="pt">The Wild Feathers - My Truth</title>
-  </programme>
-  <programme start="20260530164337 +0000" stop="20260530164734 +0000" channel="138920">
-    <title lang="pt">The Wild Feathers - Goodnight</title>
-  </programme>
-  <programme start="20260530164734 +0000" stop="20260530165144 +0000" channel="138920">
-    <title lang="pt">The Wild Feathers - On My Way</title>
-  </programme>
-  <programme start="20260530165144 +0000" stop="20260530165714 +0000" channel="138920">
-    <title lang="pt">The Wild Feathers - Quittin' Time</title>
-  </programme>
   <programme start="20260530165714 +0000" stop="20260530170115 +0000" channel="138920">
     <title lang="pt">New Kingston - Protect Me</title>
   </programme>
@@ -958,18 +903,6 @@
   <channel id="79275">
     <display-name>beIN SPORTS Xtra</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="79275">
-    <title lang="pt">Episode 3</title>
-    <desc lang="pt">Uma viagem emocionante por arenas, estádios, quadras, ginásios e locais em todo o mundo - descubra a pulsação dos esportes.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="79275">
-    <title lang="pt">Episode 3</title>
-    <desc lang="pt">Uma corrida de mountain bike com vários estágios, física e mentalmente cansativa, ambientada na região do Cabo Ocidental, na África do Sul.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="79275">
-    <title lang="pt">Episode 10</title>
-    <desc lang="pt">Velocidades que desafiam a gravidade e reflexos aguçados definem a corrida definitiva para coroar o campeão do skate downhill.</desc>
-  </programme>
   <programme start="20260530163000 +0000" stop="20260530200000 +0000" channel="79275">
     <title lang="pt">Finals</title>
     <desc lang="pt">Premier Padel é um novo tour global de Padel dinâmico e emocionante que apresenta os melhores jogadores do mundo.</desc>
@@ -1066,6 +999,10 @@
     <title lang="pt">Women's Final</title>
     <desc lang="pt">Premier Padel é um novo tour global de Padel dinâmico e emocionante que apresenta os melhores jogadores do mundo.</desc>
   </programme>
+  <programme start="20260531160000 +0000" stop="20260531170000 +0000" channel="79275">
+    <title lang="pt">The Bend Race 1</title>
+    <desc lang="pt">A série de elite de marca única da Ferrari coloca 296 pilotos Challenge nas classes Trofeo Pirelli e Coppa Shell.</desc>
+  </programme>
   <channel id="79276">
     <display-name>beIN SPORTS Xtra en Español</display-name>
   </channel>
@@ -1109,6 +1046,10 @@
     <title lang="pt">Bermuda - Day 2</title>
     <desc lang="pt">A Fórmula 1 da F50 frustrando as corridas de catamarã. Um torneio de corrida de prestígio que viaja ao redor do mundo.</desc>
   </programme>
+  <programme start="20260531163000 +0000" stop="20260531170000 +0000" channel="79276">
+    <title lang="pt">Los Mejores Goles de la Historia Ep. 1</title>
+    <desc lang="pt">Nada se compara a assistir aos melhores gols e aos momentos inesquecíveis do esporte - o topo, a emoção, a ação!</desc>
+  </programme>
   <channel id="139666">
     <display-name>Wild Nature</display-name>
   </channel>
@@ -1135,32 +1076,6 @@
   <channel id="100517">
     <display-name>CraftsyTV</display-name>
   </channel>
-  <programme start="20260530145922 +0000" stop="20260530152922 +0000" channel="100517">
-    <title lang="pt">Details</title>
-    <desc lang="pt">Adicionar novos detalhes mantém as coisas atualizadas. Christine Drumheller adiciona textura enquanto desenha com linha usando a máquina de costura. Amy Tan borrifa e respinga tinta para efeitos especiais. Julie Fei-Fan Balzer encerra tudo com uma revisão das novas técnicas apresentadas ao longo da série.</desc>
-  </programme>
-  <programme start="20260530152922 +0000" stop="20260530155922 +0000" channel="100517">
-    <title lang="pt">Episode 11: Your Studio</title>
-    <desc lang="pt">-</desc>
-  </programme>
-  <programme start="20260530155922 +0000" stop="20260530160922 +0000" channel="100517">
-    <title lang="pt">Snail’s Trail Quilt</title>
-    <desc lang="pt">Você já trabalhou em uma colcha que parecia intimidante, mas que não ficou tão ruim assim que você a vestiu? Veja como Angela verifica esta elegante colcha Snail's Trail em sua lista de quilting.</desc>
-  </programme>
-  <programme start="20260530160922 +0000" stop="20260530161922 +0000" channel="100517">
-    <title lang="pt">Cathedral Window Pillow</title>
-    <desc lang="pt">As férias estão chegando, mas não se estresse! Fizemos uma parceria com Angela Walters, apresentadora do Midnight Quilt Show, para criar três projetos de colchas DIY que podem ser super presenteados. Neste episódio, você aprenderá a fazer uma almofada para janela de catedral, um presente adorável para alguém em sua vida que você considerou “digno de uma colcha”.
-
-P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (e o que NÃO fazer!) ao receber um presente de um quilter...</desc>
-  </programme>
-  <programme start="20260530161922 +0000" stop="20260530162922 +0000" channel="100517">
-    <title lang="pt">Rail Fence</title>
-    <desc lang="pt">O que acontece quando uma cerca encontra uma cabana de madeira? A moderna e exuberante colcha de batik de Angela Walters, demonstrada aqui!</desc>
-  </programme>
-  <programme start="20260530162922 +0000" stop="20260530164422 +0000" channel="100517">
-    <title lang="pt">Quilted Tote Bag Challenge</title>
-    <desc lang="pt">Angela foi desafiada por The Crafty Gemini a fazer uma sacola destruidora de esconderijos. Então ela está saindo de sua zona de conforto e indo para o #MidnightStashChallenge!</desc>
-  </programme>
   <programme start="20260530164422 +0000" stop="20260530165922 +0000" channel="100517">
     <title lang="pt">Color Block Drunkard's Path Quilt</title>
     <desc lang="pt">Estamos tendo problemas para ver direito. Então, novamente, provavelmente é o bloco Caminho do Bêbado! Angela está aqui para garantir que os passos vão "direto à sua cabeça".</desc>
@@ -1297,6 +1212,26 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">Cards for Everyday Occasions</title>
     <desc lang="pt">Cada ocasião, não importa quão grande ou pequena, merece um cartão – e hoje temos designs para ocasiões do dia a dia. A sopa de hoje inclui cartões pop-up rendados com design gráfico, alguns cartões saborosos com uma barraca de limonada com Sara Naumann e a tradução de um layout em um cartão com Nancy Nally. Muitos cartões e ingredientes em uma sopa de scrapbook.</desc>
   </programme>
+  <programme start="20260531152922 +0000" stop="20260531155922 +0000" channel="100517">
+    <title lang="pt">Mavericks</title>
+    <desc lang="pt">Certos artistas são conhecidos por ir além – eles são os inovadores ou dissidentes do mundo da arte. Começamos hoje com Jackson Pollock, um impressionista abstrato conhecido por sua pintura por gotejamento, que tentaremos. Então Joe Rotella, nosso próprio dissidente, cria coral a partir de filme - uma técnica bastante interessante. Em seguida, Cheryl Sleboda é a próxima com arte como wearables e paldrons criados para cosplay. Terminamos com Candie Cooper enquanto ela corta latas de biscoitos para fazer brincos.</desc>
+  </programme>
+  <programme start="20260531155922 +0000" stop="20260531161422 +0000" channel="100517">
+    <title lang="pt">Split Square</title>
+    <desc lang="pt">Esta semana o Midnight Quilter está ocupado montando cestas de Páscoa e uma colcha, claro. Veja Ângela demonstrar como fazer uma borda em esquadria, além de como acolchoar usando réguas!</desc>
+  </programme>
+  <programme start="20260531161422 +0000" stop="20260531162922 +0000" channel="100517">
+    <title lang="pt">Z Is for Zoo</title>
+    <desc lang="pt">CUIDADO: Colchas para bebês são uma droga de entrada total! Basta perguntar a Angela: ela está trabalhando neste número fofo para seu sobrinho recém-nascido. (Acha que pode parar em um? Não diga que não avisamos!)</desc>
+  </programme>
+  <programme start="20260531162922 +0000" stop="20260531164922 +0000" channel="100517">
+    <title lang="pt">Surfer's Point</title>
+    <desc lang="pt">O que você faz quando sua filha escolhe uma colcha bem mais dura do que você está acostumada? Bom, se você é como a Angela, você faz um episódio sobre isso! O objetivo é aumentar a confiança para experimentar algo novo. (Você também pode fazer isso!)</desc>
+  </programme>
+  <programme start="20260531164922 +0000" stop="20260531165922 +0000" channel="100517">
+    <title lang="pt">Solar Flare</title>
+    <desc lang="pt">Os arco-íris aparecem depois de escurecer quando Angela prepara uma colcha de estrela solitária de arco-íris!</desc>
+  </programme>
   <channel id="129395">
     <display-name>Canal 129395</display-name>
   </channel>
@@ -1390,13 +1325,17 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">LIVE: Champions of the Future Academy Program</title>
     <desc lang="pt">Jovens talentos do kart enfrentam-se no Circuito 27, Thessaloniki, na segunda rodada do COTFA 2026.</desc>
   </programme>
+  <programme start="20260531161500 +0000" stop="20260531164959 +0000" channel="99076">
+    <title lang="pt">Xiaomi China GT Championship</title>
+    <desc lang="pt">Carros GT de alto desempenho batalham na Corrida 1 da abertura da temporada do Xiaomi China GT Championship em Xangai.</desc>
+  </programme>
+  <programme start="20260531164959 +0000" stop="20260531180215 +0000" channel="99076">
+    <title lang="pt">International Classic GT</title>
+    <desc lang="pt">Grandes motores e belas carrocerias – de Cobras a E-Types, a grade GT de Silverstone oferece o drama V8 estrondoso e o espírito de resistência clássico em um espetáculo de virar a cabeça.</desc>
+  </programme>
   <channel id="71932">
     <display-name>Swerve Combat</display-name>
   </channel>
-  <programme start="20260530123020 +0000" stop="20260530153832 +0000" channel="71932">
-    <title lang="pt">Legacy Fighting Alliance 222: Pires vs. Belakh</title>
-    <desc lang="pt">LFA 222 apresenta lutadores de MMA de classe mundial competindo no mais alto nível.</desc>
-  </programme>
   <programme start="20260530153832 +0000" stop="20260530170337 +0000" channel="71932">
     <title lang="pt">BKFC 19: VanZant vs Ostovich</title>
     <desc lang="pt">Apresenta Rachael Ostovich vs. Paige VanZant em ação de boxe sem luvas em Tampa Bay.</desc>
@@ -1469,13 +1408,13 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">Oscar De La Hoya vs. Julio Cesar Chavez 2</title>
     <desc lang="pt">Apresenta Oscar De La Hoya x Julio Cesar Chavez em uma luta de Las Vegas, NV. 18 de setembro de 1998.</desc>
   </programme>
+  <programme start="20260531151227 +0000" stop="20260531174155 +0000" channel="71932">
+    <title lang="pt">Ring of Combat 85</title>
+    <desc lang="pt">Candidatos de elite e futuras estrelas vão para a guerra em uma exibição implacável de lutas de MMA de alto nível.</desc>
+  </programme>
   <channel id="36454">
     <display-name>Schwab Network</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530160000 +0000" channel="36454">
-    <title lang="pt">Trading 360</title>
-    <desc lang="pt">Depois que a poeira baixar desde o sino de abertura, Trading 360 com Marley Kayden apresenta os melhores traders, analistas e técnicos de Wall Street para detalhar setores e mercados em movimento de ações. A Trading 360 concentra-se em empresas disruptivas e novas tecnologias que impulsionam as manchetes do mercado, ao mesmo tempo que fornece aos investidores uma abordagem de negociação de 360 ​​graus.</desc>
-  </programme>
   <programme start="20260530160000 +0000" stop="20260530170000 +0000" channel="36454">
     <title lang="pt">Fast Market</title>
     <desc lang="pt">A apresentadora Diane King Hall se une aos traders veteranos Tom White e Kevin Hincks para analisar os movimentos do mercado ao vivo e fornecer ideias comerciais viáveis ​​em tempo real. Desde estratégias de opções e jogadas de volatilidade até reações aos lucros, eles trazem especialistas de mercado, analistas e convidados para fornecer aos traders ativos as configurações e estratégias que eles podem usar agora.</desc>
@@ -1572,17 +1511,13 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">Trading 360</title>
     <desc lang="pt">Depois que a poeira baixar desde o sino de abertura, Trading 360 com Marley Kayden apresenta os melhores traders, analistas e técnicos de Wall Street para detalhar setores e mercados em movimento de ações. A Trading 360 concentra-se em empresas disruptivas e novas tecnologias que impulsionam as manchetes do mercado, ao mesmo tempo que fornece aos investidores uma abordagem de negociação de 360 ​​graus.</desc>
   </programme>
+  <programme start="20260531160000 +0000" stop="20260531170000 +0000" channel="36454">
+    <title lang="pt">Fast Market</title>
+    <desc lang="pt">A apresentadora Diane King Hall se une aos traders veteranos Tom White e Kevin Hincks para analisar os movimentos do mercado ao vivo e fornecer ideias comerciais viáveis ​​em tempo real. Desde estratégias de opções e jogadas de volatilidade até reações aos lucros, eles trazem especialistas de mercado, analistas e convidados para fornecer aos traders ativos as configurações e estratégias que eles podem usar agora.</desc>
+  </programme>
   <channel id="37684">
     <display-name>World Poker Tour</display-name>
   </channel>
-  <programme start="20260530143327 +0000" stop="20260530152906 +0000" channel="37684">
-    <title lang="pt">World Poker Tour</title>
-    <desc lang="pt">A terceira e última parte da cobertura do WPT no LAPC está terminando com emoção e expectativa explodindo.</desc>
-  </programme>
-  <programme start="20260530152906 +0000" stop="20260530162446 +0000" channel="37684">
-    <title lang="pt">World Poker Tour</title>
-    <desc lang="pt">O exclusivo Bay 101 Shooting Star voltou a receber um número recorde de competidores e outro campo repleto de estrelas.</desc>
-  </programme>
   <programme start="20260530162446 +0000" stop="20260530172031 +0000" channel="37684">
     <title lang="pt">World Poker Tour</title>
     <desc lang="pt">Todos os seis permanecem na mesa para o início da segunda hora de cobertura do WPT no Bay 101 Casino.</desc>
@@ -1683,6 +1618,14 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">World Poker Tour</title>
     <desc lang="pt">Seis das melhores jogadoras de pôquer lutam entre si pela chance de ganhar milhares de dólares para suas instituições de caridade favoritas.</desc>
   </programme>
+  <programme start="20260531155302 +0000" stop="20260531165101 +0000" channel="37684">
+    <title lang="pt">World Poker Tour</title>
+    <desc lang="pt">US$ 145.000 estão em disputa no belo Christopher Harbour no WPT Caribbean.</desc>
+  </programme>
+  <programme start="20260531165101 +0000" stop="20260531174730 +0000" channel="37684">
+    <title lang="pt">World Poker Tour</title>
+    <desc lang="pt">US$ 145.000 estão em disputa no belo Christopher Harbour no WPT Caribbean.</desc>
+  </programme>
   <channel id="130981">
     <display-name>Cowboy+ Sports</display-name>
   </channel>
@@ -1762,21 +1705,13 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">Rodeo Austin</title>
     <desc lang="pt">Cobertura ProRodeo do Playoff Performance 2 do Rodeo Austin 2026 em Austin, Texas.</desc>
   </programme>
+  <programme start="20260531153005 +0000" stop="20260531180004 +0000" channel="130981">
+    <title lang="pt">Rodeo Austin</title>
+    <desc lang="pt">Cobertura ProRodeo do Playoff Performance 3 do Rodeo Austin 2026 em Austin, Texas.</desc>
+  </programme>
   <channel id="55457">
     <display-name>Journy</display-name>
   </channel>
-  <programme start="20260530145500 +0000" stop="20260530152500 +0000" channel="55457">
-    <title lang="pt">Euromaxx À La Carte E104 -  Switzerland Chocolate, Haggis, Glowing Algae</title>
-    <desc lang="pt">Chocolate ao Leite da Suíça. Chef cego Antonio Ciotola. Em busca de trufas em algas brilhantes da Provença. Tarts Haggis: prato nacional da Escócia, o robô para assar pizza.</desc>
-  </programme>
-  <programme start="20260530152500 +0000" stop="20260530155500 +0000" channel="55457">
-    <title lang="pt">Art &amp; The City S01 E05 - London</title>
-    <desc lang="pt">David Keeps explora a vibrante cena artística de Londres, desde os ousados ​​hotéis Camberwell e pontes Tate Modern até relíquias reais e galerias Hoxton, revelando contrastes criativos em uma cidade onde a tradição antiga e a expressão moderna colidem com a inteligência.</desc>
-  </programme>
-  <programme start="20260530155500 +0000" stop="20260530162500 +0000" channel="55457">
-    <title lang="pt">Andiamo! UPTOWN S01 E14 - Montreal, Canada</title>
-    <desc lang="pt">Donna visita Montreal e irá explorar algumas das grandes maravilhas culturais e epicuristas quebequenses desta incrível cidade metropolitana. Além disso, ela experimentará passeios de barco a jato e aprenderá mais sobre por que Montreal é a "sede mundial" não oficial das artes circenses.</desc>
-  </programme>
   <programme start="20260530162500 +0000" stop="20260530172500 +0000" channel="55457">
     <title lang="pt">American Canvas S01 E03 - Miami</title>
     <desc lang="pt">Dave Holmes explora a dinâmica cena cultural de Miami, desde o espetáculo de arte internacional da Art Basel até as ricas tradições culinárias de Little Havana, a arte de rua de Wynwood, a moda de alta costura rápida, a dança flamenca e a deslumbrante arquitetura Art Déco.</desc>
@@ -1917,19 +1852,21 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">Travel Man S10 E04 - 48 Hours In Antwerp</title>
     <desc lang="pt">Joe Lycett apresenta o guia definitivo para uma viagem rápida e divertida de 48 horas.  Esta semana, a atriz Katherine Parkinson se junta a Joe para explorar a cidade belga de Antuérpia.</desc>
   </programme>
+  <programme start="20260531151000 +0000" stop="20260531154000 +0000" channel="55457">
+    <title lang="pt">Travel with Didiayer S03 E13 - Memorable Moments</title>
+    <desc lang="pt">Neste episódio revisitamos os melhores momentos desta temporada em arte, culinária, cultura e aventura. Estas são memórias queridas que esperamos que inspirem você a sair e encontrar seu desejo de viajar.</desc>
+  </programme>
+  <programme start="20260531154000 +0000" stop="20260531161000 +0000" channel="55457">
+    <title lang="pt">Travel with Didiayer S03 E01 - Heart of New Zealand</title>
+    <desc lang="pt">Neste episódio, vamos direto ao coração da Nova Zelândia! Começamos de volta no tempo, em uma era de guerreiros orgulhosos e tradições antigas, com a vila Tamaki Maori, a atração cultural mais premiada da Nova Zelândia. Em seguida, atravessamos Hell's Gate e vivenciamos a ocorrência geotérmica mais singular do país. Ansiosos por recuperar o fôlego, perdemos o fôlego caminhando entre os gigantes majestosos que respiram em Redwood Tree Walk. E finalmente, chegue em Hobbiton. Sim, aquela Hobbiton da tradição!</desc>
+  </programme>
+  <programme start="20260531161000 +0000" stop="20260531171000 +0000" channel="55457">
+    <title lang="pt">Travel Man S04 E05 - Christmas Special Florence</title>
+    <desc lang="pt">O ator de Hollywood Rebel Wilson se junta a Richard para um passeio divertido por Florença em um mini-intervalo misturando arte, ação, sorvete, um passeio em um clássico Alfa Romeo e algumas tripas.</desc>
+  </programme>
   <channel id="87420">
     <display-name>IndieBox</display-name>
   </channel>
-  <programme start="20260530135900 +0000" stop="20260530160200 +0000" channel="87420">
-    <title lang="pt">Forever</title>
-    <desc lang="pt">Alice é uma jovem repórter investigativa. Ela sofre uma perda dolorosa, mas encontra uma comunidade enigmática onde começa a encontrar sua vontade de viver e amar novamente.</desc>
-  </programme>
-  <programme start="20260530160200 +0000" stop="20260530160400 +0000" channel="87420">
-    <title lang="pt">canopy_trl_2398_lr_bb_avc_10mbps</title>
-  </programme>
-  <programme start="20260530160400 +0000" stop="20260530160500 +0000" channel="87420">
-    <title lang="pt">pigeonfeathers_youtube_trl_30_lr_bb_avc_10mbps</title>
-  </programme>
   <programme start="20260530160500 +0000" stop="20260530183200 +0000" channel="87420">
     <title lang="pt">Juggernaut</title>
     <desc lang="pt">Após uma longa ausência, um fora-da-lei de uma pequena cidade regressa à sua cidade natal, violentamente obcecado com a ideia de que a morte da sua mãe não foi um suicídio.</desc>
@@ -1990,16 +1927,16 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">Flashburn</title>
     <desc lang="pt">Wes Nolan acorda em um armazém abandonado com amnésia. Ele foi sequestrado por alguém chamado "Lazarus", que o manteve em cativeiro para obter a cura para um surto de Ebola. Wes era um virologista e microbiologista que trabalhava na engenharia de uma bactéria transportadora de proteínas para atacar o vírus Ebola antes que ele pudesse destruir as células humanas. Em vez de destruir o Ebola, porém, a proteína de Wes transformou o vírus em algo muito mais potente. Agora Wes deve tentar recuperar a memória e tentar encontrar a cura.</desc>
   </programme>
+  <programme start="20260531155900 +0000" stop="20260531181600 +0000" channel="87420">
+    <title lang="pt">Bulletproof Jesus</title>
+    <desc lang="pt">Jesus deve liderar a filha do diabo através de 3 desafios para impedir um apocalipse zumbi.</desc>
+  </programme>
   <channel id="49342">
     <display-name>Canal 49342</display-name>
   </channel>
   <channel id="83823">
     <display-name>Estrella TV</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530160000 +0000" channel="83823">
-    <title lang="pt">Minuto Para Ganar</title>
-    <desc lang="pt">Concurso onde os participantes têm 1 minuto para mostrar suas habilidades em desafios emocionantes</desc>
-  </programme>
   <programme start="20260530160000 +0000" stop="20260530170000 +0000" channel="83823">
     <title lang="pt">Lagrimita Y Costel</title>
     <desc lang="pt">Lagrimita e Costel trazem sua espirituosa comédia física para o programa de variedades mais maluco da televisão.</desc>
@@ -2092,13 +2029,13 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">100 Latinos Dijeron</title>
     <desc lang="pt">Reúna a família de segunda a sexta e divirta-se no 100 Latinos Dijeron</desc>
   </programme>
+  <programme start="20260531160000 +0000" stop="20260531170000 +0000" channel="83823">
+    <title lang="pt">Lagrimita Y Costel</title>
+    <desc lang="pt">Lagrimita e Costel trazem sua espirituosa comédia física para o programa de variedades mais maluco da televisão.</desc>
+  </programme>
   <channel id="40434">
     <display-name>Cooking Panda</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530160000 +0000" channel="40434">
-    <title lang="pt">Cooking Panda</title>
-    <desc lang="pt">Bem-vindo ao Culinária Panda</desc>
-  </programme>
   <programme start="20260530160000 +0000" stop="20260530170000 +0000" channel="40434">
     <title lang="pt">Cooking Panda</title>
     <desc lang="pt">Bem-vindo ao Culinária Panda</desc>
@@ -2134,18 +2071,6 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
   <channel id="81581">
     <display-name>FUEL TV</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="81581">
-    <title lang="pt">Spain</title>
-    <desc lang="pt">Pat tem que partir para o Brasil, e o resto da tripulação segue para a Espanha e para um novo swell.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530162000 +0000" channel="81581">
-    <title lang="pt">Episode 3</title>
-    <desc lang="pt">Chipre cai no Mini Mega com Gavo e Myles. A redenção ferroviária de Kader falha.</desc>
-  </programme>
-  <programme start="20260530162000 +0000" stop="20260530165000 +0000" channel="81581">
-    <title lang="pt">Grenade Games Dubai</title>
-    <desc lang="pt">Os meninos estão em Dubai para os Grenade Games, na maior estação de esqui indoor do mundo.</desc>
-  </programme>
   <programme start="20260530165000 +0000" stop="20260530172000 +0000" channel="81581">
     <title lang="pt">Backyard Babylon</title>
     <desc lang="pt">A equipe do Built to Shred aproveita uma sessão no quintal de Tony Hawk e Rune Glifberg.</desc>
@@ -2302,6 +2227,22 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">Under an Arctic Sky</title>
     <desc lang="pt">Um grupo de surfistas viaja para a Islândia durante a maior tempestade em 25 anos.</desc>
   </programme>
+  <programme start="20260531150500 +0000" stop="20260531153000 +0000" channel="81581">
+    <title lang="pt">Taj Burrow: Life After The Tour</title>
+    <desc lang="pt">Taj Burrow faz uma pausa no surf e viaja para Portugal e fala de quase duas décadas de digressão...</desc>
+  </programme>
+  <programme start="20260531153000 +0000" stop="20260531162500 +0000" channel="81581">
+    <title lang="pt">Episode 4</title>
+    <desc lang="pt">A equipe se aquece no Mini Mega e fica mais quente à medida que o dia avança e as jams acontecem por toda parte.</desc>
+  </programme>
+  <programme start="20260531162500 +0000" stop="20260531165500 +0000" channel="81581">
+    <title lang="pt">Making Connections</title>
+    <desc lang="pt">Ainda espalhando a agitação em Dubai, é hora de conferir corridas de camelos e praticar dança do ventre.</desc>
+  </programme>
+  <programme start="20260531165500 +0000" stop="20260531172500 +0000" channel="81581">
+    <title lang="pt">Bark Beetle Juice</title>
+    <desc lang="pt">Jeff King leva sua equipe para Utah para uma experiência tripla de skate e neve.</desc>
+  </programme>
   <channel id="73234">
     <display-name>Canal 73234</display-name>
   </channel>
@@ -2311,34 +2252,6 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
   <channel id="45143">
     <display-name>Euronews</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530150505 +0000" channel="45143">
-    <title lang="pt">5 minutes</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530150505 +0000" stop="20260530153000 +0000" channel="45143">
-    <title lang="pt">News</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530153835 +0000" channel="45143">
-    <title lang="pt">5 minutes</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530153835 +0000" stop="20260530160000 +0000" channel="45143">
-    <title lang="pt">News</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530160500 +0000" channel="45143">
-    <title lang="pt">5 minutes</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530160500 +0000" stop="20260530162955 +0000" channel="45143">
-    <title lang="pt">News</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530162955 +0000" stop="20260530163455 +0000" channel="45143">
-    <title lang="pt">5 minutes</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
   <programme start="20260530163455 +0000" stop="20260530170000 +0000" channel="45143">
     <title lang="pt">News</title>
     <desc lang="pt">As principais notícias do momento.</desc>
@@ -2699,13 +2612,37 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">5 minutes</title>
     <desc lang="pt">As principais notícias do momento.</desc>
   </programme>
+  <programme start="20260531150500 +0000" stop="20260531152955 +0000" channel="45143">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531152955 +0000" stop="20260531153455 +0000" channel="45143">
+    <title lang="pt">5 minutes</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531153455 +0000" stop="20260531160000 +0000" channel="45143">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531160505 +0000" channel="45143">
+    <title lang="pt">5 minutes</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531160505 +0000" stop="20260531163000 +0000" channel="45143">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531163000 +0000" stop="20260531163835 +0000" channel="45143">
+    <title lang="pt">5 minutes</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531163835 +0000" stop="20260531170000 +0000" channel="45143">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
   <channel id="34008">
     <display-name>OAN Plus</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530160000 +0000" channel="34008">
-    <title lang="pt">Real America</title>
-    <desc lang="pt">Real America with Dan Ball traz para você as últimas manchetes políticas, entrevistando os jornalistas da época, incluindo políticos, legisladores, especialistas, celebridades e influenciadores de mídia social.</desc>
-  </programme>
   <programme start="20260530160000 +0000" stop="20260530170000 +0000" channel="34008">
     <title lang="pt">One America News</title>
     <desc lang="pt">One America News traz para você as principais notícias de todo o mundo - incluindo as principais manchetes de negócios e entretenimento.</desc>
@@ -2802,6 +2739,10 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">David Pollack</title>
     <desc lang="pt">David Pollack Primetime oferece uma análise baseada em fatos das maiores histórias do dia, indo além das manchetes para explicar o que realmente está acontecendo e por que isso é importante.</desc>
   </programme>
+  <programme start="20260531160000 +0000" stop="20260531170000 +0000" channel="34008">
+    <title lang="pt">One America News</title>
+    <desc lang="pt">One America News traz para você as principais notícias de todo o mundo - incluindo as principais manchetes de negócios e entretenimento.</desc>
+  </programme>
   <channel id="27440">
     <display-name>Canal 27440</display-name>
   </channel>
@@ -2811,17 +2752,6 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
   <channel id="119339">
     <display-name>NTD News</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="119339">
-    <title lang="pt">China in Focus by NTD</title>
-    <desc lang="pt">Notícias rápidas, convincentes e em primeira mão da China; hospedado por Tiffany Meier.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="119339">
-    <title lang="pt">Crossroads</title>
-    <desc lang="pt">O repórter investigativo Joshua Philipp examina o significado mais profundo por trás das notícias do dia.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="119339">
-    <title lang="pt">Capitol Report</title>
-  </programme>
   <programme start="20260530163000 +0000" stop="20260530170000 +0000" channel="119339">
     <title lang="pt">Capitol Report</title>
   </programme>
@@ -2974,13 +2904,20 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
   <programme start="20260531150000 +0000" stop="20260531153000 +0000" channel="119339">
     <title lang="pt">Now and for the Future</title>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="119339">
+    <title lang="pt">Now and for the Future</title>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="119339">
+    <title lang="pt">NTD News Today</title>
+    <desc lang="pt">Notícias dos EUA e de todo o mundo.</desc>
+  </programme>
+  <programme start="20260531163000 +0000" stop="20260531170000 +0000" channel="119339">
+    <title lang="pt">NTD News Today</title>
+    <desc lang="pt">Notícias dos EUA e de todo o mundo.</desc>
+  </programme>
   <channel id="136206">
     <display-name>CNA Originals</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530160000 +0000" channel="136206">
-    <title lang="pt">Aerial Singapore</title>
-    <desc lang="pt">Aérea Singapura</desc>
-  </programme>
   <programme start="20260530160000 +0000" stop="20260530170000 +0000" channel="136206">
     <title lang="pt">East Asia Tonight 2026/2027 - Fri 29/05/2026 - -01</title>
     <desc lang="pt">Leste Asiático hoje à noite 2026/2027 - Sex 29/05/2026 - -01</desc>
@@ -3069,21 +3006,13 @@ P.S. Não perca as dicas da Angela para quem não é quilter sobre o que fazer (
     <title lang="pt">Wild City: Forest Life</title>
     <desc lang="pt">Cidade Selvagem: Vida na Floresta</desc>
   </programme>
+  <programme start="20260531160000 +0000" stop="20260531170000 +0000" channel="136206">
+    <title lang="pt">Wild City</title>
+    <desc lang="pt">Cidade Selvagem</desc>
+  </programme>
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="95227">
-    <title lang="pt">Inheritors</title>
-    <desc lang="pt">Herdeiros é um produto multimídia da CGTN que ilumina o rico Patrimônio Cultural Imaterial da China. Cada edição de TV de 30 minutos é apresentada por um expatriado de longa data na China que possui uma compreensão única da cultura do país. Ele ou ela apresentará aos espectadores pessoas que estão dedicando suas vidas à sua proteção, herança, inovação, desenvolvimento e promoção.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
   <programme start="20260530163000 +0000" stop="20260530170000 +0000" channel="95227">
     <title lang="pt">The Agenda</title>
     <desc lang="pt">Um talk-show semanal que olha além das manchetes e da “sabedoria aceita” para encontrar a verdadeira história. Apresentado pelo premiado jornalista e apresentador Stephen Cole, The Agenda simplesmente define The Agenda. Você não encontrará os mesmos velhos falantes reciclando banalidades; em vez disso, convidados instigantes para debater e explorar questões-chave do mundo de hoje. Usando gráficos de realidade virtual para dar vida aos assuntos, Stephen navegará por assuntos que vão desde “Prove que a mudança climática existe” até “Quem vencerá a corrida para o espaço”. Pontos de vista opostos terão a oportunidade de florescer e evoluir para uma conversa significativa. 
@@ -3252,21 +3181,22 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
     <title lang="pt">The World Today</title>
     <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="95227">
+    <title lang="pt">Travelogue</title>
+    <desc lang="pt">Travelogue é um programa de viagem de 30 minutos. Através das viagens dos nossos intrépidos anfitriões, vivenciamos a beleza, a cultura e o mistério da China, descobrindo como as pessoas vivem neste vasto país e mostrando ao mundo a transformação da China.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260531163000 +0000" stop="20260531170000 +0000" channel="95227">
+    <title lang="pt">Razor</title>
+    <desc lang="pt">A nova feira de ciência e tecnologia da CGTN, cobrindo desenvolvimentos de ponta de todo o mundo. RAZOR mostrará o laser mais poderoso do mundo e o menor tratamento anticâncer do mundo. Ele o levará do estranho mundo da computação quântica até os limites do cosmos. 
+Uma equipe internacional de repórteres seguirá a orientação da Navalha de Occam – o princípio de que a explicação mais simples é a melhor. RAZOR vai mostrar que já estamos “vivendo no futuro”!</desc>
+  </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260530144500 +0000" stop="20260530153000 +0000" channel="95226">
-    <title lang="pt">Catoon City</title>
-    <desc lang="pt">Desenho clássico de Chiness para crianças</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="95226">
-    <title lang="pt">Memory of China</title>
-    <desc lang="pt">Memória da China é o primeiro programa de história da China, o programa de TV revela segredos de eventos históricos importantes, megaprojetos e as histórias não contadas por trás dessas decisões cruciais deste país.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="95226">
-    <title lang="pt">Across the Strait</title>
-    <desc lang="pt">Do outro lado do Estreito traça as questões muito discutidas através do Estreito, reflecte a vontade dos cidadãos dos dois lados do Estreito e detalha a política do governo chinês de “um país, dois sistemas” numa tentativa de melhorar a compreensão dos concidadãos de Taiwan sobre a China Continental.</desc>
-  </programme>
   <programme start="20260530163000 +0000" stop="20260530171500 +0000" channel="95226">
     <title lang="pt">On the Way</title>
     <desc lang="pt">Do ângulo visual de um viajante para mostrar a beleza da China e do mundo</desc>
@@ -3387,21 +3317,25 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
     <title lang="pt">Catoon City</title>
     <desc lang="pt">Desenho clássico de Chiness para crianças</desc>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531154500 +0000" channel="95226">
+    <title lang="pt">Dreamchaser</title>
+    <desc lang="pt">Documentário sobre a carreira de pessoas comuns</desc>
+  </programme>
+  <programme start="20260531154500 +0000" stop="20260531160000 +0000" channel="95226">
+    <title lang="pt">Nostalgia</title>
+    <desc lang="pt">A Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="95226">
+    <title lang="pt">Across the Strait</title>
+    <desc lang="pt">Do outro lado do Estreito traça as questões muito discutidas através do Estreito, reflecte a vontade dos cidadãos dos dois lados do Estreito e detalha a política do governo chinês de “um país, dois sistemas” numa tentativa de melhorar a compreensão dos concidadãos de Taiwan sobre a China Continental.</desc>
+  </programme>
+  <programme start="20260531163000 +0000" stop="20260531174700 +0000" channel="95226">
+    <title lang="pt">A Way to be a Super Star</title>
+    <desc lang="pt">Um show de talentos musicais públicos</desc>
+  </programme>
   <channel id="83824">
     <display-name>Estrella News</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="83824">
-    <title lang="pt">24 Horas</title>
-    <desc lang="pt">24 horas, acesso constante às notícias mais importantes para a comunidade latina nos EUA e no mundo.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="83824">
-    <title lang="pt">24 Horas</title>
-    <desc lang="pt">24 horas, acesso constante às notícias mais importantes para a comunidade latina nos EUA e no mundo.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="83824">
-    <title lang="pt">24 Horas</title>
-    <desc lang="pt">24 horas, acesso constante às notícias mais importantes para a comunidade latina nos EUA e no mundo.</desc>
-  </programme>
   <programme start="20260530163000 +0000" stop="20260530170000 +0000" channel="83824">
     <title lang="pt">24 Horas</title>
     <desc lang="pt">24 horas, acesso constante às notícias mais importantes para a comunidade latina nos EUA e no mundo.</desc>
@@ -3574,17 +3508,21 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
     <title lang="pt">24 Horas</title>
     <desc lang="pt">24 horas, acesso constante às notícias mais importantes para a comunidade latina nos EUA e no mundo.</desc>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="83824">
+    <title lang="pt">24 Horas</title>
+    <desc lang="pt">24 horas, acesso constante às notícias mais importantes para a comunidade latina nos EUA e no mundo.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531163000 +0000" channel="83824">
+    <title lang="pt">24 Horas</title>
+    <desc lang="pt">24 horas, acesso constante às notícias mais importantes para a comunidade latina nos EUA e no mundo.</desc>
+  </programme>
+  <programme start="20260531163000 +0000" stop="20260531170000 +0000" channel="83824">
+    <title lang="pt">24 Horas</title>
+    <desc lang="pt">24 horas, acesso constante às notícias mais importantes para a comunidade latina nos EUA e no mundo.</desc>
+  </programme>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="95229">
-    <title lang="pt">MIRADA ECONÓMICA</title>
-    <desc lang="pt">Convida especialistas chineses nos assuntos dos países de língua espanhola e analistas desses países a darem a conhecer as suas opiniões e visões sobre questões de contingência.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="95229">
-    <title lang="pt">DOCUMENTAL</title>
-    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
-  </programme>
   <programme start="20260530160000 +0000" stop="20260530173000 +0000" channel="95229">
     <title lang="pt">EL PROYECTOR</title>
     <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
@@ -3769,37 +3707,17 @@ questões sociais e culturais atuais na China.</desc>
 Trocam opiniões e debatem casualmente questões económicas,
 questões sociais e culturais atuais na China.</desc>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="95229">
+    <title lang="pt">DOCUMENTAL</title>
+    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531173000 +0000" channel="95229">
+    <title lang="pt">EL PROYECTOR</title>
+    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
+  </programme>
   <channel id="45144">
     <display-name>Euronews Español</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530150505 +0000" channel="45144">
-    <title lang="pt">5 minutes</title>
-    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
-  </programme>
-  <programme start="20260530150505 +0000" stop="20260530153000 +0000" channel="45144">
-    <title lang="pt">News</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530153835 +0000" channel="45144">
-    <title lang="pt">5 minutes</title>
-    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
-  </programme>
-  <programme start="20260530153835 +0000" stop="20260530160000 +0000" channel="45144">
-    <title lang="pt">News</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530160500 +0000" channel="45144">
-    <title lang="pt">5 minutes</title>
-    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
-  </programme>
-  <programme start="20260530160500 +0000" stop="20260530162955 +0000" channel="45144">
-    <title lang="pt">News</title>
-    <desc lang="pt">As principais notícias do momento.</desc>
-  </programme>
-  <programme start="20260530162955 +0000" stop="20260530163455 +0000" channel="45144">
-    <title lang="pt">5 minutes</title>
-    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
-  </programme>
   <programme start="20260530163455 +0000" stop="20260530170000 +0000" channel="45144">
     <title lang="pt">News</title>
     <desc lang="pt">As principais notícias do momento.</desc>
@@ -4160,50 +4078,37 @@ questões sociais e culturais atuais na China.</desc>
     <title lang="pt">5 minutes</title>
     <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
   </programme>
+  <programme start="20260531150500 +0000" stop="20260531152955 +0000" channel="45144">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531152955 +0000" stop="20260531153455 +0000" channel="45144">
+    <title lang="pt">5 minutes</title>
+    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
+  </programme>
+  <programme start="20260531153455 +0000" stop="20260531160000 +0000" channel="45144">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531160505 +0000" channel="45144">
+    <title lang="pt">5 minutes</title>
+    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
+  </programme>
+  <programme start="20260531160505 +0000" stop="20260531163000 +0000" channel="45144">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
+  <programme start="20260531163000 +0000" stop="20260531163835 +0000" channel="45144">
+    <title lang="pt">5 minutes</title>
+    <desc lang="pt">Últimas notícias, análises e entrevistas internacionais e regionais.</desc>
+  </programme>
+  <programme start="20260531163835 +0000" stop="20260531170000 +0000" channel="45144">
+    <title lang="pt">News</title>
+    <desc lang="pt">As principais notícias do momento.</desc>
+  </programme>
   <channel id="145579">
     <display-name>Absinthe TV</display-name>
   </channel>
-  <programme start="20260530144126 +0000" stop="20260530151721 +0000" channel="145579">
-    <title lang="pt">After The Sky Falls</title>
-    <desc lang="pt">"After The Sky Falls" captura o esqui de Eric Pollard, Chris Benchetler e Pep Fujas. Após dois anos de produção, este filme documenta lindamente a abordagem da equipe da Nimbus em relação ao esqui, seu foco na diversão e na criatividade e seu desejo de inspirar os esquiadores do dia a dia.</desc>
-  </programme>
-  <programme start="20260530151721 +0000" stop="20260530152354 +0000" channel="145579">
-    <title lang="pt">Unraveling - Chris Benchetler</title>
-    <desc lang="pt">Progressão significa algo diferente para cada pessoa. Para Chris Benchetler, progredir significa evoluir como esquiador profissional, como artista e como pai. Significa crescimento, desvendar expectativas e mudanças ao longo do tempo. Significa simplicidade, clareza e liberdade. Filmado pelo diretor Tyler Hamlet.</desc>
-  </programme>
-  <programme start="20260530152354 +0000" stop="20260530153021 +0000" channel="145579">
-    <title lang="pt">The Black Crows - Episode 9: Kristoffer Turdell</title>
-    <desc lang="pt">No episódio 9, encontramos o esquiador Kristoffer Turdell, bicampeão mundial de freeride. Junte-se a nós neste documentário especial Black Crows sobre o animal de Gallivare, Suécia. Dirigido por Nikolai Schirmer.</desc>
-  </programme>
-  <programme start="20260530153021 +0000" stop="20260530153851 +0000" channel="145579">
-    <title lang="pt">The Black Crows - Episode 10: Beau Fredlund</title>
-    <desc lang="pt">Uma yurt, 140 habitantes na cidade, uma porta que se abre para o nordeste do Parque Nacional de Yellowstone, em Montana, uma lareira, um par de esquis, bem-vindo ao jardim selvagem de Beau.
-um filme de Nikolai Schirmer</desc>
-  </programme>
-  <programme start="20260530153851 +0000" stop="20260530154905 +0000" channel="145579">
-    <title lang="pt">The Black Crows - Episode 11: The Jackson 9</title>
-    <desc lang="pt">Jackson Hole, Wyoming, é o lar de alguns dos locais de esqui mais épicos da América do Norte. É também o lar de um grupo de esquiadores boêmios apelidados de Jackson 9. No episódio 11, iniciamos a primeira parte de nossa série de documentários dedicada a esses vagabundos destruidores e belas almas. Dirigido por Nicolai Schirmer.</desc>
-  </programme>
-  <programme start="20260530154905 +0000" stop="20260530160525 +0000" channel="145579">
-    <title lang="pt">The Black Crows - Episode 12: Nikolai Schirmer</title>
-    <desc lang="pt">Ele é alto, bonito, inteligente, sensível e pega fogo enquanto esquia. Nikolai Schirmer, esquiador, cineasta boêmio, revela-se neste documento negro onde se desenrola seu caminho sinuoso. Um itinerário cheio de ondas e montanhas onde descobrimos um homem cujo coração se sintonizou progressivamente com o ritmo da natureza.</desc>
-  </programme>
-  <programme start="20260530160525 +0000" stop="20260530161445 +0000" channel="145579">
-    <title lang="pt">Snowflake</title>
-    <desc lang="pt">Testemunhe as alegrias e maravilhas da natureza através dos olhos de Snowflake, um excêntrico esquiador suíço com uma filosofia de vida tão bela e perfeitamente única quanto a do seu homônimo.</desc>
-  </programme>
-  <programme start="20260530161445 +0000" stop="20260530163229 +0000" channel="145579">
-    <title lang="pt">Arc’teryx Presents: Motherload</title>
-    <desc lang="pt">A parte mais difícil de qualquer aventura é sair pela porta. Planejar é tedioso. A embalagem é demorada. Uma vez na colina, tudo se encaixa. Acompanhe os esquiadores profissionais Izzy Lynch e Tessa Treadway enquanto eles carregam o fardo dos acontecimentos que mudam suas vidas e o amor de seus filhos para as montanhas.</desc>
-  </programme>
-  <programme start="20260530163229 +0000" stop="20260530164429 +0000" channel="145579">
-    <title lang="pt">The Ghost Ski Resorts - Fortress</title>
-    <desc lang="pt">Nas profundezas das Montanhas Rochosas fica a Fortress Mountain. Do final da década de 1960 até a década de 1980, esta área de esqui histórica fervilhava de atividades. Hoje, é uma coisa tranquila de beleza abandonada. Os esquiadores Mark Abma e Callum Pettit exploram o passado e ponderam sobre o futuro deste destino que já foi icônico em Alberta.</desc>
-  </programme>
-  <programme start="20260530164429 +0000" stop="20260530165444 +0000" channel="145579">
-    <title lang="pt">The Ghost Ski Resorts - Ski Rio</title>
-    <desc lang="pt">Em janeiro de 2000, o Ski Rio fechou uma noite. O resort permaneceu inativo desde então. Não é exagero comparar os alojamentos cobertos de neve do Ski Rio ao Overlook Hotel no thriller clássico cult O Iluminado. Assim como no filme, o estalajadeiro Joe Musich admite que seu trabalho pode ficar um pouco assustador.</desc>
-  </programme>
   <programme start="20260530165444 +0000" stop="20260530170421 +0000" channel="145579">
     <title lang="pt">The Black Crows - Episode 13: The Groomer Crow - Bernie Rosow</title>
     <desc lang="pt">Você despreza seu trabalho de escritório? Nesse caso, o Episódio 13 oferece a verdade, o caminho e a luz. Bernie Rosow não poderia considerar uma vida sem esquiar, nem esquiar sem a liberdade de esquiar. Agora um operador de snowcat, seu turno noturno lhe permite resolver a equação e praticar freeski todos os dias, livremente.</desc>
@@ -4549,31 +4454,29 @@ Apresentando: Gerry Lopez, Travis Yamada, Kevin Jones, Trevor Graves, Rob Morrow
     <title lang="pt">Volcom Presents: Down For This</title>
     <desc lang="pt">Down For This é uma montanha-russa de adrenalina e emoções sinceras em um slide de 1 hora e 25 minutos dos 30 anos anteriores ao presente. Apresentando alguns dos mais memoráveis ​​skates, surf e snowboard da Volcom.</desc>
   </programme>
+  <programme start="20260531154914 +0000" stop="20260531155541 +0000" channel="145579">
+    <title lang="pt">SHE (Side Hits Euphoria) Chapter 1</title>
+    <desc lang="pt">No capítulo um de Side Hits Euphoria, os snowboarders Oli Gittler e Arthur Longo mostram seus recursos favoritos para pedalar; saltos aleatórios e golpes nas laterais da pista. Eles passaram a temporada capturando esses pequenos tesouros escondidos à vista de todos.</desc>
+  </programme>
+  <programme start="20260531155541 +0000" stop="20260531160101 +0000" channel="145579">
+    <title lang="pt">SHE (Side Hits Euphoria) Chapter 2</title>
+    <desc lang="pt">O capítulo 2 de Side Hits Euphoria apresenta passeios em resorts, ataques laterais e coisas aleatórias nas pistas. Em dezembro de 2018, os snowboarders Oli Gittler e Arthur Longo filmaram tudo o que encontraram durante suas viagens ao Monte Seymour, no Canadá, e a Laax e Arêches-Beaufort, na Suíça.</desc>
+  </programme>
+  <programme start="20260531160101 +0000" stop="20260531160714 +0000" channel="145579">
+    <title lang="pt">SHE (Side Hits Euphoria) Chapter 3	</title>
+    <desc lang="pt">Side Hits Euphoria está de volta! O Capítulo 3 apresenta passeios em resort, batidas laterais, deslizamento do aparador e pura destruição. Filmado pelos snowboarders Olivier Gittler e Arthur Longo em dezembro de 2019, em Tignes, Val d’Isère, Avoriaz e Chamonix, França. Obrigado por assistir!</desc>
+  </programme>
+  <programme start="20260531160714 +0000" stop="20260531164314 +0000" channel="145579">
+    <title lang="pt">Creedlecosm</title>
+    <desc lang="pt">A Volcom apresenta CreedleCosm, uma obra-prima cinematográfica do snowboard. Estrelando Mike Rav, Scott Blum, Desiree Melancon, Egan Wint, Seb Picaro, Arthur Longo, Torgeir Bergrem, Pat Moore, Bryan Iguchi, Jadyn Chomlack, Juliette Pelchat, Estelle Pensiero, Jamie Lynn, Alec Majerus e Simon Bannerot.</desc>
+  </programme>
+  <programme start="20260531164314 +0000" stop="20260531170131 +0000" channel="145579">
+    <title lang="pt">Volcom Presents: Crosspollution</title>
+    <desc lang="pt">Filme de alta tensão das equipes Volcom Skateboarding e Snowboarding. Estrelando Benny Milam, Cody Warble, Reid Smith, Lenny Mazzotti, Jack Harold, Scott Blum, Christian Connors, CJ Collins, Axel Cruysberghs, Alec Majerus, Henry Gartland e Mike Ravelson. Editado por Seth Huot.</desc>
+  </programme>
   <channel id="145580">
     <display-name>AMERICA'S BOATING CHANNEL</display-name>
   </channel>
-  <programme start="20260530144417 +0000" stop="20260530150653 +0000" channel="145580">
-    <title lang="pt">WWII US Coast Guard film- Task Force</title>
-    <desc lang="pt">O filme se concentra no dever da "Força-Tarefa" da Guarda Costeira.  Além de vislumbres operacionais, o espectador é presenteado com um instantâneo da vida de um guarda costeiro dentro e fora de serviço.  Embora o filme contenha muitas cenas em estilo documentário, algumas seções do filme são reconstituições e o cenário apresentado (no qual o USCG luta contra um submarino alemão e depois desembarca tropas em uma ilha do Pacífico) parece um tanto fantasioso.</desc>
-  </programme>
-  <programme start="20260530150653 +0000" stop="20260530151905 +0000" channel="145580">
-    <title lang="pt">America's Cup Race- Sailing Ships</title>
-    <desc lang="pt">Este filme do final dos anos 1930 ou início dos anos 1940, AWAY WITH THE WIND apresenta vários navios e atividades aquáticas.  Inclui imagens raras de navios clipper na marca de 10 segundos e riggers quadrados.  A pesca nos Grand Banks é vista à 1h.  A Gertrude L. Thebaud é vista na marca de 1:08.  Esta é uma escuna americana de pesca e corrida construída e lançada em Essex, Massachusetts, em 1930. Um célebre competidor de corrida do Bluenose, foi projetada por Frank Paine e construída por Arthur D. Story para Louis A. Thebaud, e nomeada em homenagem a sua esposa, Gertrude Thebaud. Em seu primeiro encontro em Gloucester, Massachusetts, em outubro de 1930</desc>
-  </programme>
-  <programme start="20260530151905 +0000" stop="20260530155348 +0000" channel="145580">
-    <title lang="pt">Ready on Arrival</title>
-    <desc lang="pt">O USS Independence CV-62 é o porta-aviões apresentado. 
-Aeronaves porta-aviões fazendo ataques sobre o Vietnã são mostradas no início do filme, pousando no convés dos porta-aviões à 1h. Às 2h55, 4.500 homens estão no navio, eles o fazem correr; engenheiros, médicos, pilotos, mecânicos de aeronaves, bombeiros. Todos eles ajudam no funcionamento do navio. Eles trabalham 14 horas por dia. Eles lidam com toneladas de explosivos, obras e trabalhos mecânicos o dia todo, mantendo todas as aeronaves prontas quando necessário.</desc>
-  </programme>
-  <programme start="20260530155348 +0000" stop="20260530162938 +0000" channel="145580">
-    <title lang="pt">Heritage of the Hornet </title>
-    <desc lang="pt">Heritage of the Hornet é um curta-metragem dos anos 1970 de McDonnell Douglas que analisa a herança do McDonnell Douglas F-18 Hornet - uma herança que é uma história de navios de guerra, começando com o primeiro Hornet em 1775 até o oitavo Hornet, que foi desativado em 1970. O filme começa com cenas do oceano, ondas rolando e batendo nas rochas, e navios da Marinha dos EUA no mar.</desc>
-  </programme>
-  <programme start="20260530162938 +0000" stop="20260530165106 +0000" channel="145580">
-    <title lang="pt">A Private Chef Joins the Crew! - Episode 174</title>
-    <desc lang="pt">Continuamos a navegar pelas ilhas do parque nacional de Coiba, mas temos problemas com a guarda costeira por ancorar onde não deveríamos. Em seguida, navegaremos de volta a Santa Catalina para buscar dois novos tripulantes, Callie, da Nova Zelândia, e Sara, que é chef particular!
-SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconstruiu com amigos e começou a navegar ao redor do mundo. Eles encontraram danos na antepara do seu catamarã no Panamá, então consertaram-no e estão quase prontos para cruzar o Oceano Pacífico!!</desc>
-  </programme>
   <programme start="20260530165106 +0000" stop="20260530182613 +0000" channel="145580">
     <title lang="pt">All at Sea</title>
     <desc lang="pt">All at Sea é um filme de televisão australiano de 1977 sobre um grupo de desajustados de férias em um resort em uma ilha. Usou o elenco de The Celebrity Game.</desc>
@@ -4728,10 +4631,6 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
   <channel id="145590">
     <display-name>TyC Sports FAN</display-name>
   </channel>
-  <programme start="20260530145101 +0000" stop="20260530155721 +0000" channel="145590">
-    <title lang="pt">2 Talleres vs. Atletico Tucuman 2026 Copa Argentina </title>
-    <desc lang="pt">Jogo de futebol argentino</desc>
-  </programme>
   <programme start="20260530155721 +0000" stop="20260530170159 +0000" channel="145590">
     <title lang="pt">1 Argentinos Juniors vs. Belgrano 2026 Semifinal </title>
   </programme>
@@ -4769,14 +4668,6 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
   <channel id="145586">
     <display-name>TEST MY RIDE</display-name>
   </channel>
-  <programme start="20260530145550 +0000" stop="20260530155405 +0000" channel="145586">
-    <title lang="pt">Test my Ride</title>
-    <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
-  </programme>
-  <programme start="20260530155405 +0000" stop="20260530165247 +0000" channel="145586">
-    <title lang="pt">Test my Ride</title>
-    <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
-  </programme>
   <programme start="20260530165247 +0000" stop="20260530174727 +0000" channel="145586">
     <title lang="pt">Test my Ride</title>
     <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
@@ -4877,25 +4768,17 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
     <title lang="pt">Test my Ride</title>
     <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
   </programme>
+  <programme start="20260531151936 +0000" stop="20260531161736 +0000" channel="145586">
+    <title lang="pt">Test my Ride</title>
+    <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
+  </programme>
+  <programme start="20260531161736 +0000" stop="20260531171041 +0000" channel="145586">
+    <title lang="pt">Test my Ride</title>
+    <desc lang="pt">Test My Ride dá aos pilotos a oportunidade de enfrentar o ex-piloto de Fórmula 1 Mika Salo.</desc>
+  </programme>
   <channel id="145587">
     <display-name>THALAA TV</display-name>
   </channel>
-  <programme start="20260530144024 +0000" stop="20260530151720 +0000" channel="145587">
-    <title lang="pt">Melmaruvathur Arputhangal</title>
-    <desc lang="pt">O devoto Marimuthu busca a ajuda da Deusa Devi para salvar sua irmã Karpagam da possessão.</desc>
-  </programme>
-  <programme start="20260530151720 +0000" stop="20260530153249 +0000" channel="145587">
-    <title lang="pt">Melmaruvathur Arputhangal</title>
-    <desc lang="pt">O devoto Marimuthu busca a ajuda da Deusa Devi para salvar sua irmã Karpagam da possessão.</desc>
-  </programme>
-  <programme start="20260530153249 +0000" stop="20260530160945 +0000" channel="145587">
-    <title lang="pt">Karimedu Karuvayan</title>
-    <desc lang="pt">Estrelado por Vijayakanth e Nalini, dirigido por Ramanarayanan.</desc>
-  </programme>
-  <programme start="20260530160945 +0000" stop="20260530164642 +0000" channel="145587">
-    <title lang="pt">Karimedu Karuvayan</title>
-    <desc lang="pt">Estrelado por Vijayakanth e Nalini, dirigido por Ramanarayanan.</desc>
-  </programme>
   <programme start="20260530164642 +0000" stop="20260530172338 +0000" channel="145587">
     <title lang="pt">Karimedu Karuvayan</title>
     <desc lang="pt">Estrelado por Vijayakanth e Nalini, dirigido por Ramanarayanan.</desc>
@@ -5052,25 +4935,21 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
     <title lang="pt">Murugan Adimai</title>
     <desc lang="pt">Valliammai, um devoto do Senhor Karthikeya, casa-se com Kandan; o filho deles está fadado a morrer aos oito anos.</desc>
   </programme>
+  <programme start="20260531152405 +0000" stop="20260531160101 +0000" channel="145587">
+    <title lang="pt">Murugan Adimai</title>
+    <desc lang="pt">Valliammai, um devoto do Senhor Karthikeya, casa-se com Kandan; o filho deles está fadado a morrer aos oito anos.</desc>
+  </programme>
+  <programme start="20260531160101 +0000" stop="20260531163757 +0000" channel="145587">
+    <title lang="pt">Murugan Adimai</title>
+    <desc lang="pt">Valliammai, um devoto do Senhor Karthikeya, casa-se com Kandan; o filho deles está fadado a morrer aos oito anos.</desc>
+  </programme>
+  <programme start="20260531163757 +0000" stop="20260531171454 +0000" channel="145587">
+    <title lang="pt">Murugan Adimai</title>
+    <desc lang="pt">Valliammai, um devoto do Senhor Karthikeya, casa-se com Kandan; o filho deles está fadado a morrer aos oito anos.</desc>
+  </programme>
   <channel id="145588">
     <display-name>TOLLY TV</display-name>
   </channel>
-  <programme start="20260530143727 +0000" stop="20260530151422 +0000" channel="145588">
-    <title lang="pt">Mouna Ragam</title>
-    <desc lang="pt">Divya fica de luto por seu amante, mas é forçada a se casar com Chandrakumar; pede o divórcio como presente de casamento.</desc>
-  </programme>
-  <programme start="20260530151422 +0000" stop="20260530155116 +0000" channel="145588">
-    <title lang="pt">Mouna Ragam</title>
-    <desc lang="pt">Divya fica de luto por seu amante, mas é forçada a se casar com Chandrakumar; pede o divórcio como presente de casamento.</desc>
-  </programme>
-  <programme start="20260530155116 +0000" stop="20260530161813 +0000" channel="145588">
-    <title lang="pt">Mouna Ragam</title>
-    <desc lang="pt">Divya fica de luto por seu amante, mas é forçada a se casar com Chandrakumar; pede o divórcio como presente de casamento.</desc>
-  </programme>
-  <programme start="20260530161813 +0000" stop="20260530165508 +0000" channel="145588">
-    <title lang="pt">Bangaru Chilaka</title>
-    <desc lang="pt">O romance de Arjun e Bhanupriya mistura comédia, drama e momentos emocionais.</desc>
-  </programme>
   <programme start="20260530165508 +0000" stop="20260530173202 +0000" channel="145588">
     <title lang="pt">Bangaru Chilaka</title>
     <desc lang="pt">O romance de Arjun e Bhanupriya mistura comédia, drama e momentos emocionais.</desc>
@@ -5223,13 +5102,21 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
     <title lang="pt">Jhansi Rani</title>
     <desc lang="pt">Jhansi Rani caça um vigarista que enganou mulheres, buscando justiça para sua irmã.</desc>
   </programme>
+  <programme start="20260531151221 +0000" stop="20260531154916 +0000" channel="145588">
+    <title lang="pt">Jhansi Rani</title>
+    <desc lang="pt">Jhansi Rani caça um vigarista que enganou mulheres, buscando justiça para sua irmã.</desc>
+  </programme>
+  <programme start="20260531154916 +0000" stop="20260531162611 +0000" channel="145588">
+    <title lang="pt">Jhansi Rani</title>
+    <desc lang="pt">Jhansi Rani caça um vigarista que enganou mulheres, buscando justiça para sua irmã.</desc>
+  </programme>
+  <programme start="20260531162611 +0000" stop="20260531170305 +0000" channel="145588">
+    <title lang="pt">Jhansi Rani</title>
+    <desc lang="pt">Jhansi Rani caça um vigarista que enganou mulheres, buscando justiça para sua irmã.</desc>
+  </programme>
   <channel id="145581">
     <display-name>CHRONO TV</display-name>
   </channel>
-  <programme start="20260530140522 +0000" stop="20260530151145 +0000" channel="145581">
-    <title lang="pt">Formula 1 Renault Eurocup Round 3</title>
-    <desc lang="pt">A Fórmula Renault Eurocup foi um campeonato de automobilismo da Fórmula Renault. A Eurocup correu apenas em circuitos europeus.</desc>
-  </programme>
   <programme start="20260530151145 +0000" stop="20260530173428 +0000" channel="145581">
     <title lang="pt">Monte Carlo Rally 2004</title>
     <desc lang="pt">O Rally de Monte Carlo ou Rallye Monte-Carlo (oficialmente Rallye Automobile de Monte-Carlo) é um evento de rally organizado anualmente pelo Automobile Club de Monaco. O rali agora acontece ao longo da Riviera Francesa, em Mônaco e no sudeste da França.</desc>
@@ -5306,21 +5193,13 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
     <title lang="pt">Formula 1 Renault Eurocup Round 4</title>
     <desc lang="pt">A Fórmula Renault Eurocup foi um campeonato de automobilismo da Fórmula Renault. A Eurocup correu apenas em circuitos europeus.</desc>
   </programme>
+  <programme start="20260531155958 +0000" stop="20260531170622 +0000" channel="145581">
+    <title lang="pt">Formula 1 Renault Eurocup Round 3</title>
+    <desc lang="pt">A Fórmula Renault Eurocup foi um campeonato de automobilismo da Fórmula Renault. A Eurocup correu apenas em circuitos europeus.</desc>
+  </programme>
   <channel id="145582">
     <display-name>DRIVE + SPEED</display-name>
   </channel>
-  <programme start="20260530145207 +0000" stop="20260530152607 +0000" channel="145582">
-    <title lang="pt">Australian Outback 4x4 Extreme</title>
-    <desc lang="pt">O ARB Australian Outback 4X4 Extreme, com sede em Broken Hill, acontecerá em maio de 2011 e é uma iniciativa conjunta do Rotary e do Legacy, projetada para arrecadar fundos para essas instituições de caridade e introduzir uma nova competição 4x4 neste local icônico do outback.</desc>
-  </programme>
-  <programme start="20260530152607 +0000" stop="20260530160021 +0000" channel="145582">
-    <title lang="pt">Shifting Gears</title>
-    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
-  </programme>
-  <programme start="20260530160021 +0000" stop="20260530163445 +0000" channel="145582">
-    <title lang="pt">Shifting Gears</title>
-    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
-  </programme>
   <programme start="20260530163445 +0000" stop="20260530170834 +0000" channel="145582">
     <title lang="pt">Australian Outback 4x4 Extreme</title>
     <desc lang="pt">O ARB Australian Outback 4X4 Extreme, com sede em Broken Hill, acontecerá em maio de 2011 e é uma iniciativa conjunta do Rotary e do Legacy, projetada para arrecadar fundos para essas instituições de caridade e introduzir uma nova competição 4x4 neste local icônico do outback.</desc>
@@ -5481,17 +5360,25 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
     <title lang="pt">Shifting Gears</title>
     <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
   </programme>
+  <programme start="20260531150945 +0000" stop="20260531154359 +0000" channel="145582">
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
+  </programme>
+  <programme start="20260531154359 +0000" stop="20260531161813 +0000" channel="145582">
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
+  </programme>
+  <programme start="20260531161813 +0000" stop="20260531165226 +0000" channel="145582">
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
+  </programme>
+  <programme start="20260531165226 +0000" stop="20260531172410 +0000" channel="145582">
+    <title lang="pt">Shifting Gears</title>
+    <desc lang="pt">Shifting Gears é o novo guia confiável para as últimas tendências e tecnologias da indústria automotiva em constante mudança de hoje. Da pista de corrida às ruas suburbanas, Shifting Gears oferece as notícias mais atualizadas sobre pesquisa, desenvolvimento e design de ponta.</desc>
+  </programme>
   <channel id="145583">
     <display-name>FIGHT TV</display-name>
   </channel>
-  <programme start="20260530141700 +0000" stop="20260530151738 +0000" channel="145583">
-    <title lang="pt">Queensbury Boxing League</title>
-    <desc lang="pt">A Queensbury Boxing League é uma das competições de boxe mais emocionantes do Reino Unido.</desc>
-  </programme>
-  <programme start="20260530151738 +0000" stop="20260530162024 +0000" channel="145583">
-    <title lang="pt">Queensbury Boxing League</title>
-    <desc lang="pt">A Queensbury Boxing League é uma das competições de boxe mais emocionantes do Reino Unido.</desc>
-  </programme>
   <programme start="20260530162024 +0000" stop="20260530172310 +0000" channel="145583">
     <title lang="pt">Queensbury Boxing League</title>
     <desc lang="pt">A Queensbury Boxing League é uma das competições de boxe mais emocionantes do Reino Unido.</desc>
@@ -5552,13 +5439,17 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
     <title lang="pt">Queensbury Boxing League</title>
     <desc lang="pt">A Queensbury Boxing League é uma das competições de boxe mais emocionantes do Reino Unido.</desc>
   </programme>
+  <programme start="20260531151710 +0000" stop="20260531161956 +0000" channel="145583">
+    <title lang="pt">Queensbury Boxing League</title>
+    <desc lang="pt">A Queensbury Boxing League é uma das competições de boxe mais emocionantes do Reino Unido.</desc>
+  </programme>
+  <programme start="20260531161956 +0000" stop="20260531172243 +0000" channel="145583">
+    <title lang="pt">Queensbury Boxing League</title>
+    <desc lang="pt">A Queensbury Boxing League é uma das competições de boxe mais emocionantes do Reino Unido.</desc>
+  </programme>
   <channel id="145584">
     <display-name>HORROR TV</display-name>
   </channel>
-  <programme start="20260530145204 +0000" stop="20260530164422 +0000" channel="145584">
-    <title lang="pt">Alice and the Vampire Queen</title>
-    <desc lang="pt">Alice Oldman é uma ex-presidiária que luta para superar as cicatrizes de seu passado. Então, uma noite, um estranho sombrio lhe faz uma oferta que ela não pode recusar. Faça um prato especial para seu chefe, a Rainha Vampira.</desc>
-  </programme>
   <programme start="20260530164422 +0000" stop="20260530190022 +0000" channel="145584">
     <title lang="pt">Beware the Boogeyman</title>
     <desc lang="pt">Tristian Mackenzie segue para um Hospital Psiquiátrico para criminosos insanos, onde fica sabendo da estranha série de casos do Dr.</desc>
@@ -5602,18 +5493,6 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
   <channel id="145500">
     <display-name>The Homestyle Channel</display-name>
   </channel>
-  <programme start="20260530150000 +0000" stop="20260530153000 +0000" channel="145500">
-    <title lang="pt">Clutterbug</title>
-    <desc lang="pt">Neste episódio de Clutterbug, Cassandra nos dá 5 maneiras de ser mais produtivo em casa e depois nos ensina como parar de procrastinar e realmente ficar motivado.</desc>
-  </programme>
-  <programme start="20260530153000 +0000" stop="20260530160000 +0000" channel="145500">
-    <title lang="pt">Clutterbug</title>
-    <desc lang="pt">Neste episódio de Clutterbug, Cassandra revela um hábito simples de organização e, em seguida, nos mostra passo a passo como organizar qualquer espaço.</desc>
-  </programme>
-  <programme start="20260530160000 +0000" stop="20260530163000 +0000" channel="145500">
-    <title lang="pt">What Love Built</title>
-    <desc lang="pt">Neste episódio Tyra constrói um novo beliche para os filhos e depois na segunda parte vai para a construção das gavetas do beliche.</desc>
-  </programme>
   <programme start="20260530163000 +0000" stop="20260530170000 +0000" channel="145500">
     <title lang="pt">What Love Built</title>
     <desc lang="pt">Neste episódio, Tyra constrói um assento de janela DIY completo com gavetas e, em seguida, mostra como fazer alguns reparos em drywall em um teto danificado.</desc>
@@ -5726,21 +5605,17 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
     <title lang="pt">Vintage Huntress</title>
     <desc lang="pt">A estreia do último programa do Homestyle Channel: Vintage Huntress. Para este show, Kim Wolfe vai a Round Top, TX para encontrar as melhores ofertas e os vendedores mais interessantes.</desc>
   </programme>
+  <programme start="20260531153000 +0000" stop="20260531160000 +0000" channel="145500">
+    <title lang="pt">Matt the Mortgage Guy</title>
+    <desc lang="pt">Neste episódio de Matt the Mortgage Guy: "0 a 10 aluguéis para quem ganha muito" e "5 maneiras de resolver a escassez de moradia"</desc>
+  </programme>
+  <programme start="20260531160000 +0000" stop="20260531170000 +0000" channel="145500">
+    <title lang="pt">Matt the Mortgage Guy</title>
+    <desc lang="pt">Neste episódio de Matt, o cara da hipoteca, Matt nos mostra a previsão da hipoteca para 2025.</desc>
+  </programme>
   <channel id="145504">
     <display-name>HUNT FISH TV</display-name>
   </channel>
-  <programme start="20260530144802 +0000" stop="20260530151606 +0000" channel="145504">
-    <title lang="pt">Doubled Down Outdoors</title>
-    <desc lang="pt">Uma série emocionante que acompanha as aventuras de caça e pesca ao ar livre de três aventureiros canadenses apaixonados pela perseguição: Ryan Tomuschat, Devin Skipton e Mark Thompson. Junte-se a eles enquanto eles dobram e apostam tudo neste passatempo emocionante.</desc>
-  </programme>
-  <programme start="20260530151606 +0000" stop="20260530154331 +0000" channel="145504">
-    <title lang="pt">Backwoods Backstage</title>
-    <desc lang="pt">Junte-se ao astro da música country canadense Brett Kissel e amigos em aventuras ao ar livre.</desc>
-  </programme>
-  <programme start="20260530154331 +0000" stop="20260530163735 +0000" channel="145504">
-    <title lang="pt">Born to Hunt</title>
-    <desc lang="pt">Apaixonados pela caça e pela pesca, Michel Bélisle, Éric Lacelle e os irmãos Éric e Martin Marion nos convidam para o seu mundo.</desc>
-  </programme>
   <programme start="20260530163735 +0000" stop="20260530170538 +0000" channel="145504">
     <title lang="pt">Doubled Down Outdoors</title>
     <desc lang="pt">Uma série emocionante que acompanha as aventuras de caça e pesca ao ar livre de três aventureiros canadenses apaixonados pela perseguição: Ryan Tomuschat, Devin Skipton e Mark Thompson. Junte-se a eles enquanto eles dobram e apostam tudo neste passatempo emocionante.</desc>
@@ -5893,25 +5768,21 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
     <title lang="pt">Backwoods Backstage</title>
     <desc lang="pt">Junte-se ao astro da música country canadense Brett Kissel e amigos em aventuras ao ar livre.</desc>
   </programme>
+  <programme start="20260531152729 +0000" stop="20260531162132 +0000" channel="145504">
+    <title lang="pt">Born to Hunt</title>
+    <desc lang="pt">Apaixonados pela caça e pela pesca, Michel Bélisle, Éric Lacelle e os irmãos Éric e Martin Marion nos convidam para o seu mundo.</desc>
+  </programme>
+  <programme start="20260531162132 +0000" stop="20260531164936 +0000" channel="145504">
+    <title lang="pt">Doubled Down Outdoors</title>
+    <desc lang="pt">Uma série emocionante que acompanha as aventuras de caça e pesca ao ar livre de três aventureiros canadenses apaixonados pela perseguição: Ryan Tomuschat, Devin Skipton e Mark Thompson. Junte-se a eles enquanto eles dobram e apostam tudo neste passatempo emocionante.</desc>
+  </programme>
+  <programme start="20260531164936 +0000" stop="20260531171701 +0000" channel="145504">
+    <title lang="pt">Backwoods Backstage</title>
+    <desc lang="pt">Junte-se ao astro da música country canadense Brett Kissel e amigos em aventuras ao ar livre.</desc>
+  </programme>
   <channel id="145506">
     <display-name>SPORT FISHING TV</display-name>
   </channel>
-  <programme start="20260530143647 +0000" stop="20260530150619 +0000" channel="145506">
-    <title lang="pt">Patriot and Surf Perch </title>
-    <desc lang="pt">Dan está no Outrider em busca de robalo, cauda amarela e robalo branco.</desc>
-  </programme>
-  <programme start="20260530150619 +0000" stop="20260530153552 +0000" channel="145506">
-    <title lang="pt">Ranger 85 San Nicoles </title>
-    <desc lang="pt">Dan em seu Ranger 85 na Ilha de San Nicolas vai pescar.</desc>
-  </programme>
-  <programme start="20260530153552 +0000" stop="20260530160656 +0000" channel="145506">
-    <title lang="pt">Electra </title>
-    <desc lang="pt">Primeiro aviste nada além de tubarões. Esta foi a metade da manhã.</desc>
-  </programme>
-  <programme start="20260530160656 +0000" stop="20260530163629 +0000" channel="145506">
-    <title lang="pt">Gail Force Local Rockfish </title>
-    <desc lang="pt">Dan vai pescar rocha no Gail Force Local.</desc>
-  </programme>
   <programme start="20260530163629 +0000" stop="20260530171550 +0000" channel="145506">
     <title lang="pt">Oceanside 95 split audio</title>
     <desc lang="pt">Dan Hernandez vai pescar rabo-amarelo no Oceanside 95</desc>
@@ -6047,22 +5918,6 @@ SV Parlay é um catamarã Lagoon 450 danificado pelo furacão, que Colin reconst
   <channel id="145416">
     <display-name>BOLLYWOOD TV</display-name>
   </channel>
-  <programme start="20260530143131 +0000" stop="20260530150510 +0000" channel="145416">
-    <title lang="pt">Murders By Masses</title>
-    <desc lang="pt">Em duas histórias paralelas, um homem e uma mulher têm que mostrar seus melhores instintos de sobrevivência para lutar contra a mentalidade das pessoas ao seu redor, caso contrário a morte se aproxima no próximo passo.</desc>
-  </programme>
-  <programme start="20260530150510 +0000" stop="20260530152800 +0000" channel="145416">
-    <title lang="pt">Sultanat</title>
-    <desc lang="pt">A guerra é o que for preciso, para vencer esta guerra pelo poder</desc>
-  </programme>
-  <programme start="20260530152800 +0000" stop="20260530161641 +0000" channel="145416">
-    <title lang="pt">Murders By Masses</title>
-    <desc lang="pt">Renuka fica trancada em um quarto com sede e fome há vários dias e está se comunicando com sua namorada, Sunaina. Pratyush e Nishant estão cada vez mais próximos um do outro. A audiência começa com Nisha revelando a identidade de Pratyush e incriminando-o como culpado de todas as acusações.</desc>
-  </programme>
-  <programme start="20260530161641 +0000" stop="20260530164227 +0000" channel="145416">
-    <title lang="pt">Sultanat</title>
-    <desc lang="pt">A traição às vezes pode ser feita por seu próprio povo. A confiança foi quebrada, os inimigos são conhecidos, como Kabir sobreviverá?</desc>
-  </programme>
   <programme start="20260530164227 +0000" stop="20260530172136 +0000" channel="145416">
     <title lang="pt">Murders By Masses</title>
     <desc lang="pt">O confronto entre Swami Ji e o chefe da ONG LGBTQ, com cada pessoa envolvida em discussões altamente tensas enquanto apresenta suas respectivas opiniões sobre a aceitação social da comunidade LGBTQ. Pratyush publica uma mensagem emocionante nas redes sociais e Renuka procura uma forma de quebrar as algemas das barreiras sociais ortodoxas.</desc>
@@ -6278,10 +6133,6 @@ adulto como seus estudantes universitários do WhatsApp.</desc>
   <channel id="145415">
     <display-name>BOLLYWOOD 4U</display-name>
   </channel>
-  <programme start="20260530140531 +0000" stop="20260530164517 +0000" channel="145415">
-    <title lang="pt">Consilium</title>
-    <desc lang="pt">É sobre dois irmãos técnicos, Dahanajay e Samruddh, e os eventos misteriosos que acontecem ao seu redor, o que afeta sua tomada de decisão analítica, valores, ética, sanidade e como eles superam isso e emergem mais fortes juntos.</desc>
-  </programme>
   <programme start="20260530164517 +0000" stop="20260530183802 +0000" channel="145415">
     <title lang="pt">Control Room</title>
     <desc lang="pt">A sala de controle gira em torno do crime organizado cometido por uma agência subgovernamental.</desc>
@@ -6381,18 +6232,6 @@ adulto como seus estudantes universitários do WhatsApp.</desc>
   <channel id="145126">
     <display-name>CUISINE CULTURE</display-name>
   </channel>
-  <programme start="20260530145705 +0000" stop="20260530152854 +0000" channel="145126">
-    <title lang="pt">Cuisinez avec les Grands Chefs de France</title>
-    <desc lang="pt">Um vídeo do tesouro das últimas três estrelas Michelin Bernard Loiseau (Parte 1)</desc>
-  </programme>
-  <programme start="20260530152854 +0000" stop="20260530160044 +0000" channel="145126">
-    <title lang="pt">Cuisinez avec les Grands Chefs de France</title>
-    <desc lang="pt">Um vídeo do tesouro das últimas três estrelas Michelin Bernard Loiseau (Parte 4)</desc>
-  </programme>
-  <programme start="20260530160044 +0000" stop="20260530163233 +0000" channel="145126">
-    <title lang="pt">Cuisinez avec les Grands Chefs de France</title>
-    <desc lang="pt">Um vídeo do tesouro das últimas três estrelas Michelin Bernard Loiseau (Parte 3)</desc>
-  </programme>
   <programme start="20260530163233 +0000" stop="20260530170423 +0000" channel="145126">
     <title lang="pt">Cuisinez avec les Grands Chefs de France</title>
     <desc lang="pt">Um vídeo do tesouro das últimas três estrelas Michelin Bernard Loiseau (Parte 3)</desc>
@@ -6597,17 +6436,25 @@ adulto como seus estudantes universitários do WhatsApp.</desc>
     <title lang="pt">Traveling Gourmet</title>
     <desc lang="pt">Uma viagem gourmet a Thoiry, descobrindo sabores locais e tradições culinárias refinadas.</desc>
   </programme>
+  <programme start="20260531151035 +0000" stop="20260531154248 +0000" channel="145126">
+    <title lang="pt">Michelin Star</title>
+    <desc lang="pt">Guy Savoy, com três estrelas Michelin, cozinha para você seus três pratos exclusivos Robalo crocante, cores de caviar</desc>
+  </programme>
+  <programme start="20260531154248 +0000" stop="20260531161458 +0000" channel="145126">
+    <title lang="pt">Cuisine Culture Presents</title>
+    <desc lang="pt">Uma análise detalhada da abordagem inovadora do chef Josiah Citrin, duas estrelas Michelin, para refeições requintadas em Los Angeles.</desc>
+  </programme>
+  <programme start="20260531161458 +0000" stop="20260531164700 +0000" channel="145126">
+    <title lang="pt">Cuisine Culture Presents</title>
+    <desc lang="pt">Um retrato envolvente do chef Josiah Citrin, duas estrelas Michelin, combinando técnicas clássicas francesas com o ousado espírito culinário da Califórnia.</desc>
+  </programme>
+  <programme start="20260531164700 +0000" stop="20260531171849 +0000" channel="145126">
+    <title lang="pt">Cuisinez avec les Grands Chefs de France</title>
+    <desc lang="pt">Um vídeo do tesouro das últimas três estrelas Michelin Bernard Loiseau (Parte 1)</desc>
+  </programme>
   <channel id="145127">
     <display-name>Trufa</display-name>
   </channel>
-  <programme start="20260530142617 +0000" stop="20260530152152 +0000" channel="145127">
-    <title lang="pt">Deliciosisimo</title>
-    <desc lang="pt">É um dia especial para Salchi e Martin prepara um bolo</desc>
-  </programme>
-  <programme start="20260530152152 +0000" stop="20260530161726 +0000" channel="145127">
-    <title lang="pt">Deliciosisimo</title>
-    <desc lang="pt">É um dia especial para Salchi e Martin prepara um bolo</desc>
-  </programme>
   <programme start="20260530161726 +0000" stop="20260530171301 +0000" channel="145127">
     <title lang="pt">Deliciosisimo</title>
     <desc lang="pt">É um dia especial para Salchi e Martin prepara um bolo</desc>
@@ -6703,18 +6550,6 @@ adulto como seus estudantes universitários do WhatsApp.</desc>
   <channel id="145128">
     <display-name>Wai Lana</display-name>
   </channel>
-  <programme start="20260530145350 +0000" stop="20260530152717 +0000" channel="145128">
-    <title lang="pt">Wai Lana Yoga</title>
-    <desc lang="pt">Wai Lana mostra diferentes exercícios para fortalecer e construir costas saudáveis, essenciais para um estilo de vida ativo.</desc>
-  </programme>
-  <programme start="20260530152717 +0000" stop="20260530160044 +0000" channel="145128">
-    <title lang="pt">Wai Lana Yoga</title>
-    <desc lang="pt">Senhor da Dança e Garudasana ensinam graciosidade e equilíbrio enquanto você se equilibra em uma perna. Uma postura revigorante de sacudir as pernas libera a tensão nas pernas e alivia as veias varicosas.</desc>
-  </programme>
-  <programme start="20260530160044 +0000" stop="20260530163411 +0000" channel="145128">
-    <title lang="pt">Wai Lana Yoga</title>
-    <desc lang="pt">Estique e gire como um gato para criar uma coluna flexível, quadris soltos e uma cintura fina. Gire as pernas para obter uma barriga lisa.</desc>
-  </programme>
   <programme start="20260530163411 +0000" stop="20260530170738 +0000" channel="145128">
     <title lang="pt">Wai Lana Yoga</title>
     <desc lang="pt">Cobra faz maravilhas por todos os órgãos internos. Estimula a digestão e a eliminação, tonifica os órgãos reprodutivos, alivia distúrbios menstruais e beneficia o fígado e os rins.</desc>
@@ -6879,33 +6714,21 @@ adulto como seus estudantes universitários do WhatsApp.</desc>
     <title lang="pt">Wai Lana Yoga</title>
     <desc lang="pt">Uma revisão das poses individuais que compõem as etapas 4 a 8 e uma demonstração de como vincular as etapas 1 a 8.</desc>
   </programme>
+  <programme start="20260531152337 +0000" stop="20260531155704 +0000" channel="145128">
+    <title lang="pt">Wai Lana Yoga</title>
+    <desc lang="pt">Uma revisão das poses individuais que compõem as etapas 9 a 12 e uma demonstração de como vincular todas as 12 etapas.</desc>
+  </programme>
+  <programme start="20260531155704 +0000" stop="20260531163031 +0000" channel="145128">
+    <title lang="pt">Wai Lana Yoga</title>
+    <desc lang="pt">Use estes exercícios simples para o pescoço a qualquer momento para liberar a tensão acumulada. Arqueie a coluna e abra o peito na postura do peixe. Em seguida, alongue todo o corpo, do topo da cabeça até a ponta dos pés.</desc>
+  </programme>
+  <programme start="20260531163031 +0000" stop="20260531170358 +0000" channel="145128">
+    <title lang="pt">Wai Lana Yoga</title>
+    <desc lang="pt">Depois de poses para alongar a parte interna da virilha e firmar os músculos das pernas, Wai Lana demonstra como solidificar a Saudação ao Sol.</desc>
+  </programme>
   <channel id="144990">
     <display-name>CarbonTV</display-name>
   </channel>
-  <programme start="20260530145700 +0000" stop="20260530151600 +0000" channel="144990">
-    <title lang="pt">Montana Gumbo with Wild Boar &amp; Quail</title>
-    <desc lang="pt">Neste episódio, o Chef Shelly cria um Montana Gumbo usando Salsicha de Javali e Pernas de Codorna. É aplaudido pela tripulação como Atchafalaya Ready. Que aparentemente é o código da Louisiana para gumbo "de verdade". Não perca esse episódio com dicas sobre roux.  Além disso, como saber a diferença entre a culinária cajun e a culinária crioula e muito mais. Chef Shelly está usando carne de caça selvagem e pura do Broken Arrow Ranch do Texas neste episódio.</desc>
-  </programme>
-  <programme start="20260530151600 +0000" stop="20260530154400 +0000" channel="144990">
-    <title lang="pt">texas-triumph-chasing-bucks-and-unforgettable-memories</title>
-    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
-  </programme>
-  <programme start="20260530154400 +0000" stop="20260530155400 +0000" channel="144990">
-    <title lang="pt">kentucky-whitetail-with-dan-catlin</title>
-    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
-  </programme>
-  <programme start="20260530155400 +0000" stop="20260530162200 +0000" channel="144990">
-    <title lang="pt">how-to-catch-big-panfish-in-thick-weed-cover</title>
-    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
-  </programme>
-  <programme start="20260530162200 +0000" stop="20260530163400 +0000" channel="144990">
-    <title lang="pt">Cognac Mushrooms &amp; Leeks with Grilled South Texas Antelope</title>
-    <desc lang="pt">Voltando aos seus dias de restaurante, a Chef Shelly mostra como fazer cogumelos e alho-poró com conhaque para acompanhar seu filé de perna de antílope do sul do Texas grelhado. Ela também compartilha algumas técnicas suculentas de grelhar que mudarão a forma como você hachura. Descubra por que esse episódio fez com que a tripulação perguntasse a localização dos extintores de incêndio.</desc>
-  </programme>
-  <programme start="20260530163400 +0000" stop="20260530165700 +0000" channel="144990">
-    <title lang="pt">prince-of-the-bushveld---archery-sable-hunt</title>
-    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
-  </programme>
   <programme start="20260530165700 +0000" stop="20260530170800 +0000" channel="144990">
     <title lang="pt">giant-b-run-steelhead-of-the-clearwater-river-with-kristy-titus</title>
     <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
@@ -7132,37 +6955,37 @@ Para continuar a luta de Rick para acabar com o câncer, acesse www.teamcarone.c
     <title lang="pt">Bowhunting Deer (BIG BUCK 20 yards)</title>
     <desc lang="pt">QUEDA significa caçar com arco por MUITO DINHEIRO! Fomos até Minnesota para caçar veados e nos surpreendermos! Enquanto estava sentado em uma área de transição, Larry teve um grande dinheirinho chegando a 20 jardas e fez um chute incrível! Rastrear o cervo colina abaixo e encontrá-lo foi uma longa caminhada. Em seguida, nos juntamos a Levi da Rivers Edge Treestands e Barronett Blinds para falar sobre segurança e novos produtos! Então subimos na árvore com Hunter, o cinegrafista, enquanto ele atira em uma GRANDE corça na área de alimentação!</desc>
   </programme>
+  <programme start="20260531151200 +0000" stop="20260531154100 +0000" channel="144990">
+    <title lang="pt">Sturgeon Bay Smallmouth</title>
+    <desc lang="pt">No episódio desta semana fomos até Door County para pescar alguns robalos GIGANTES de verão! Sturgeon Bay é conhecida por sua pesca excepcional e vistas incríveis! Usamos uma variedade de técnicas, como paddletails, tube jigs e ned rigs para atingir esses peixes. Fique ligado para dicas de localização e iscas para colocar mais robalos no seu barco!</desc>
+  </programme>
+  <programme start="20260531154100 +0000" stop="20260531161000 +0000" channel="144990">
+    <title lang="pt">giant-crappie-up-north</title>
+    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
+  </programme>
+  <programme start="20260531161000 +0000" stop="20260531162400 +0000" channel="144990">
+    <title lang="pt">hunting-dagestan-tur-with-shikar-safaris</title>
+    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
+  </programme>
+  <programme start="20260531162400 +0000" stop="20260531164200 +0000" channel="144990">
+    <title lang="pt">Falling Water, Glowing Dismalites, and The Art of Spelunking in South Dakota</title>
+    <desc lang="pt">Visite "Falling Water", resgate extremo para caminhantes perdidos no Arizona, a arte de espeleologia em Dakota do Sul, dismalites brilhantes ocultos no norte do Alabama, resgate extremo para caminhantes perdidos no Arizona, redemoinhos oceânicos e pinguins-robôs e viagens rodoviárias na América</desc>
+  </programme>
+  <programme start="20260531164200 +0000" stop="20260531165400 +0000" channel="144990">
+    <title lang="pt">Train To Survive with Real World Tactical</title>
+    <desc lang="pt">Se o mal bater à sua porta, as decisões que você tomar naquele momento mudarão sua vida para sempre. Vale a pena lutar pela sua vida e quando as pessoas escolhem a violência e querem lhe causar dor, você é sua primeira linha de defesa. 
+
+Junte-se a Kristy Titus em seu último episódio de Pursue The Wild, onde ela treina com o veterano do Corpo de Fuzileiros Navais dos EUA e operador aposentado da SWAT, Tony Sentmanant, do Real World Tactical. 
+
+Assista Kristy quebrar no calor de 100 graus de Miami, Flórida, com uma série de desafios físicos, combate corpo a corpo e exercícios de tiro projetados para simular a defesa de sua vida contra um violento agressor humano.  Este é um treinamento do mundo real. Sem piedade.</desc>
+  </programme>
+  <programme start="20260531165400 +0000" stop="20260531172200 +0000" channel="144990">
+    <title lang="pt">Home Range Strong Women Wild Hunts</title>
+    <desc lang="pt">CarbonTV é a maior e mais antiga rede digital de televisão externa. Oferecemos centenas de shows, incluindo programação original e conteúdo exclusivo para os entusiastas de atividades ao ar livre.</desc>
+  </programme>
   <channel id="144993">
     <display-name>Golf Network</display-name>
   </channel>
-  <programme start="20260530145501 +0000" stop="20260530151124 +0000" channel="144993">
-    <title lang="pt">Premium Teaching Pro Lesson Haruyuki Tsujimura 1</title>
-    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
-  </programme>
-  <programme start="20260530151124 +0000" stop="20260530152747 +0000" channel="144993">
-    <title lang="pt">Premium Teaching Pro Lesson Haruyuki Tsujimura 2</title>
-    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
-  </programme>
-  <programme start="20260530152747 +0000" stop="20260530154409 +0000" channel="144993">
-    <title lang="pt">Premium Teaching Pro Lesson Haruyuki Tsujimura 3</title>
-    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
-  </programme>
-  <programme start="20260530154409 +0000" stop="20260530155920 +0000" channel="144993">
-    <title lang="pt">Premium Teaching Pro Lesson Haruyuki Tsujimura 4</title>
-    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
-  </programme>
-  <programme start="20260530155920 +0000" stop="20260530161525 +0000" channel="144993">
-    <title lang="pt">Premium Teaching Pro Lesson Hidenori Mezawa 1</title>
-    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
-  </programme>
-  <programme start="20260530161525 +0000" stop="20260530163132 +0000" channel="144993">
-    <title lang="pt">Premium Teaching Pro Lesson Hidenori Mezawa 2</title>
-    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
-  </programme>
-  <programme start="20260530163132 +0000" stop="20260530164735 +0000" channel="144993">
-    <title lang="pt">Premium Teaching Pro Lesson Hidenori Mezawa 3</title>
-    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
-  </programme>
   <programme start="20260530164735 +0000" stop="20260530170401 +0000" channel="144993">
     <title lang="pt">Premium Teaching Pro Lesson Hidenori Mezawa 4</title>
     <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
@@ -7443,13 +7266,37 @@ Para continuar a luta de Rick para acabar com o câncer, acesse www.teamcarone.c
     <title lang="pt">Premium Teaching Pro Lesson Eisaku Shigeta 3</title>
     <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
   </programme>
+  <programme start="20260531151252 +0000" stop="20260531152925 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Eisaku Shigeta 4</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
+  <programme start="20260531152925 +0000" stop="20260531154548 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Haruyuki Tsujimura 1</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
+  <programme start="20260531154548 +0000" stop="20260531160211 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Haruyuki Tsujimura 2</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
+  <programme start="20260531160211 +0000" stop="20260531161833 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Haruyuki Tsujimura 3</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
+  <programme start="20260531161833 +0000" stop="20260531163344 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Haruyuki Tsujimura 4</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
+  <programme start="20260531163344 +0000" stop="20260531164948 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Hidenori Mezawa 1</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
+  <programme start="20260531164948 +0000" stop="20260531170556 +0000" channel="144993">
+    <title lang="pt">Premium Teaching Pro Lesson Hidenori Mezawa 2</title>
+    <desc lang="pt">Um programa de aulas voltado para golfistas que estão com dificuldades ou desejam se aprimorar ainda mais, oferecendo aulas mais práticas que os beneficiam diretamente no campo.</desc>
+  </programme>
   <channel id="144994">
     <display-name>Foosball TV</display-name>
   </channel>
-  <programme start="20260530144055 +0000" stop="20260530161003 +0000" channel="144994">
-    <title lang="pt">ITSF World Cup 2013 Opening ceremony </title>
-    <desc lang="pt">Bem-vindos à cerimônia de abertura da Copa do Mundo ITSF 2013 em Nantes, França.</desc>
-  </programme>
   <programme start="20260530161003 +0000" stop="20260530173815 +0000" channel="144994">
     <title lang="pt">World Cup 2013 Quart Final IRAN versus France  </title>
     <desc lang="pt">As retrospectivas da ITSF continuam com os Homens das Nações se opondo ao Irã e à França durante a Copa do Mundo da ITSF 2013 em Nantes, França</desc>
