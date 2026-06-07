@@ -457,6 +457,28 @@ http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="Religiosos | Cristianismo", TV Verdade | Brasil e Filipinas
 https://acesso.ecast.site:3104/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="236" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Adorar_100x100.png" group-title="Religioso",Tv Adorar
+https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_ABBA_Rtv_pequeno.png" group-title="Religioso",ABBA RTV
+https://video01.kshost.com.br/adilson8953/adilson8953/playlist.m3u8
+#EXTINF:-1 tvg-id="255" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100px.png" group-title="Religioso",Tv Verdade
+https://acesso.ecast.site:3104/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="135" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/RAETV.png" group-title="Religioso",RAE TV
+https://cdn-tiva-video01-logicahost-com-br.smartbit.co/raetv/raetv/playlist.m3u8
+#EXTINF:-1 tvg-id="137" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logoclaro_100X100px.png" group-title="Religioso",Astral TV
+https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/astraltv/index.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo_100x100_tv_avivando_na%C3%A7%C3%B5es.png" group-title="Religioso",TV Avivando Nações
+https://cdn-tiva-video04-logicahost-com-br.smartbit.co/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+#EXTINF:-1 tvg-id="189" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/123.png" group-title="Religioso",Tv Evangelizar
+https://cdn-tiva-tvevangelizar-brasilstream-com-br.smartbit.co/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="210" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/100x_100.png" group-title="Religioso",Br Global Station
+https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
+#EXTINF:-1 tvg-id="292" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/TV_Liberdade_100x100.png" group-title="Religioso",TV Liberdade
+https://video01.kshost.com.br/eberson6273/eberson6273/playlist.m3u8
+#EXTINF:-1 tvg-id="256" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100px_TMYs8Kw.png" group-title="Religioso",TV SBN
+https://acesso.ecast.site:3500/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="171" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Globo100x100.png" group-title="Religioso",Tv Aurora
+https://tv.redeaurora.com.br/public/Index.m3u8
 
 ===========RELIGIOSO ISLAMISMO===========
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA1 World
