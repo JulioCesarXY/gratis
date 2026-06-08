@@ -2,19 +2,19 @@
 
 
 ============NOVOS CANAIS===========
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://familia.tv.br/01._Logotipo_Principal_1.png" group-title="Abertos",Familia TV
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://familia.tv.br/01._Logotipo_Principal_1.png" group-title="Abertos",Familia TV
 https://juliocesar-proxy.onrender.com/live.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://www.tvfeliz.com.br/wp-content/uploads/sites/61/2026/04/TV-FELIZ-Logo-NOVA.png" group-title="Abertos",TV Feliz
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://www.tvfeliz.com.br/wp-content/uploads/sites/61/2026/04/TV-FELIZ-Logo-NOVA.png" group-title="Abertos",TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
 #EXTINF:-1 tvg-id="YeeaahTV" tvg-name="YeeaahTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8NLWGFP8gLBPWID7PzR1qsOPPMOmy-TjlA3a4GuMw5Odg_IKmAqIr_d40t5jam_W77hullQfOZ-Q0S8JUnaIIz-s2ZRkXdGR0GtYlF4cSS-KOfNT8vVIQNUdq_Oh3Rex4memPFOAaV6cjoNFDdoFtV9zjl-ZvpZgU0V6brRLTgfM2SMHT5WP0pY6V6sgE=s1600" group-title="Abertos",Yeeaah TV
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-id="polidorotv" tvg-name="Yeeaah TV2" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8NLWGFP8gLBPWID7PzR1qsOPPMOmy-TjlA3a4GuMw5Odg_IKmAqIr_d40t5jam_W77hullQfOZ-Q0S8JUnaIIz-s2ZRkXdGR0GtYlF4cSS-KOfNT8vVIQNUdq_Oh3Rex4memPFOAaV6cjoNFDdoFtV9zjl-ZvpZgU0V6brRLTgfM2SMHT5WP0pY6V6sgE=s1600" group-title="Abertos",Yeeaah TV2
 https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8#polidorofm
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Logo_da_Rede_NGT_-_2021.png/960px-Logo_da_Rede_NGT_-_2021.png" group-title="Abertos",Rede NGT TV
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Logo_da_Rede_NGT_-_2021.png/960px-Logo_da_Rede_NGT_-_2021.png" group-title="Abertos",Rede NGT TV
 https://v2.cloudecast.com/redengt/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/SOULTV-100x100px-_rDMhcWK.png" group-title="Abertos",TV MEIO
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/SOULTV-100x100px-_rDMhcWK.png" group-title="Abertos",TV MEIO
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGOTIPO-TVIN-100X100_copiar_rBlYpfD.png" group-title="Abertos",TV IN
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGOTIPO-TVIN-100X100_copiar_rBlYpfD.png" group-title="Abertos",TV IN
 https://live.tvinterior.com.br/hls/stream.m3u8
 
 
@@ -737,17 +737,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
 
 
 =================INFANTIL INGLÊS=================
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OsYajEP.png" group-title="Infantil | Inglês", Adventures of Sonic The Hedgehog
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/OsYajEP.png" group-title="Infantil | Inglês", Adventures of Sonic The Hedgehog
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" group-title="Infantil | Inglês", Cartoon TV Classics
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" group-title="Infantil | Inglês", Cartoon TV Classics
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?ads.channel=6591&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1780868197~exp=1780889797~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!/payload/yupptvott_5_-1_81d362e73c92447a_US_198.144.178.135_yuppfast_2_channel_48_-1/*~data=yupptvott_5_-1_81d362e73c92447a_US_198.144.178.135_yuppfast_2_channel_48_-1~hmac=915dc6a6d40bddf1af55f927f381ea5180efdf8aafda70ed341c66054631a0ea&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=CartoonTVClassics&ads.language=ENG&ads.user=0
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://electricnowdspmedia.cachefly.net/images/6984784ad1cd569a6b0a50ca" group-title="Infantil | Inglês",Cartoon Classics TV | Free Cast
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://electricnowdspmedia.cachefly.net/images/6984784ad1cd569a6b0a50ca" group-title="Infantil | Inglês",Cartoon Classics TV | Free Cast
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/VH54P16XUU6Z455WCIOK/hls3/now%2C-1m/m.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://electricnowdspmedia.cachefly.net/images/698477f656751c13ea07a5d3" group-title="Infantil | Inglês",Toon Vation | Free Cast
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://electricnowdspmedia.cachefly.net/images/698477f656751c13ea07a5d3" group-title="Infantil | Inglês",Toon Vation | Free Cast
 https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/30YQ39WOOCPLBNW7KU3U/hls3/now%2C-1m/m.m3u8
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" group-title="Infantil | Inglês",KIDDO
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png" group-title="Infantil | Inglês",KIDDO
 https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?ads.channel=6471&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1780958614~exp=1780980214~acl=!*/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/*!/payload/yupptvott_5_-1_81d362e73c92447a_US_198.144.178.135_yuppfast_2_channel_83_-1/*~data=yupptvott_5_-1_81d362e73c92447a_US_198.144.178.135_yuppfast_2_channel_83_-1~hmac=4329bc780694c1e9a7ea561c424ae17786f6290c82c38b389d57da262057e304&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=Kiddo&ads.language=ENG&ads.user=0
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hooray-rhymes.png" group-title="Infantil | Inglês",Hooray Rhymes
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hooray-rhymes.png" group-title="Infantil | Inglês",Hooray Rhymes
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ec031d1f-2217-4dd0-9c8a-ca8f00a8c31f/playlist.m3u8?ads.channel=7110&ads.content_custom_1_param=FAST&ads.user=2&hdnts=st=1780958670~exp=1780980270~acl=!*/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ec031d1f-2217-4dd0-9c8a-ca8f00a8c31f/*!/payload/yupptvott_5_-1_81d362e73c92447a_US_198.144.178.135_yuppfast_2_channel_323_-1/*~data=yupptvott_5_-1_81d362e73c92447a_US_198.144.178.135_yuppfast_2_channel_323_-1~hmac=ae0973c1f307c7e2b8b191a7e84052888f20fbc9989086c2d20e9663c3e169c4&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=KIDS&ads.channel_name=HoorayRhymes&ads.language=ENG&ads.user=0
 #EXTINF:-1 channel-id="a3c405bfca9b525983054aa761b10dfb" tvg-id="a3c405bfca9b525983054aa761b10dfb" tvg-chno="433" tvg-name="Super Mario Brothers" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a3c405bfca9b525983054aa761b10dfb/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694472710975_SuperMarioBrothers_HUDlogo_260x147.png" group-title="Infantil | Inglês",Super Mario Brothers
 https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8
