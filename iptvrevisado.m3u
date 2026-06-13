@@ -36,7 +36,7 @@ https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/cqtv/imagem/logo_classiqueTV_site.png" group-title="Cinema | Brasil", CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://channel1.ipgotv.top/LOGO_CH1.png" group-title="Cinema | Brasil", CHANNEL 1
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://channel1.ipgotv.top/LOGO_CH1.png" group-title="Cinema | Brasil", CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_PNG_DIMENS%C3%A2O_100X100_-_GLN_TV_reduz_zKzqMEP.png" group-title="Cinema | Brasil",GLN TV
 https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/glnfilmes/glnfilmes/playlist.m3u8
@@ -44,7 +44,7 @@ https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/glnfilmes/glnfilmes/playlist.m
 https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/playlist.m3u8
 #EXTINF:-1 tvg-id="149" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_AWTV_SOULTV_AMARELO_reduz.png" group-title="Cinema | Brasil",AWTV
 https://awtv.nuvemplay.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/E4dyVRL.png" group-title="Cinema | Brasil",FILMES ACAO TOTAL TV
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://imgur.com/E4dyVRL.png" group-title="Cinema | Brasil",FILMES ACAO TOTAL TV
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa01e9e90f4e11dd3dee/bunnycontent_main.m3u8
 #EXTINF:-1 tvg-id="plex.tv.MOVIESPHERE.plex" tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Cinema | Brasil", MovieSphere | Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
@@ -68,49 +68,49 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-name="CHARLIE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOEhSlarJv_YWEDwzSIlNkpAfmcQB99lZju9aZjJVvA&s=10" group-title="Cinema | Brasil",CHARLIE TV
 https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TOP MIX TV FILMES" tvg-logo="https://topmixtv.com.br/wp-content/uploads/2025/09/logomarca.png" group-title="Cinema | Brasil",TOP MIX TV FILMES
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="TOP MIX TV FILMES" tvg-logo="https://topmixtv.com.br/wp-content/uploads/2025/09/logomarca.png" group-title="Cinema | Brasil",TOP MIX TV FILMES
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
-#EXTINF:-1 tvg-name="SONY ONE CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOWDBgKPbXAzinH4khKf1UWFmG4VqoCsnO5Q__3_2xr7kcEFjsHvjVJo&s=10" group-title="Cinema | Brasil",SONY ONE CINEMA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="SONY ONE CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOWDBgKPbXAzinH4khKf1UWFmG4VqoCsnO5Q__3_2xr7kcEFjsHvjVJo&s=10" group-title="Cinema | Brasil",SONY ONE CINEMA
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SONY ONE EMOÇÕES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOWDBgKPbXAzinH4khKf1UWFmG4VqoCsnO5Q__3_2xr7kcEFjsHvjVJo&s=10" group-title="Cinema | Brasil",SONY ONE EMOÇÕES
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="SONY ONE EMOÇÕES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOOWDBgKPbXAzinH4khKf1UWFmG4VqoCsnO5Q__3_2xr7kcEFjsHvjVJo&s=10" group-title="Cinema | Brasil",SONY ONE EMOÇÕES
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="1980 CHANNEL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="Cinema | Brasil",1980 CHANNEL
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w363408511.m3u8
 #EXTINF:-1 tvg-name="TV CIDADE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cbcbbc692ed0a16a020df7e0fd6816fa.webp" group-title="Cinema | Brasil",TV CIDADE
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
-#EXTINF:-1 tvg-name="XUMO FILMES GRATIS" tvg-logo="https://mms.businesswire.com/media/20250106125888/en/2343071/22/Xumo_Logo.jpg" group-title="Cinema | Brasil",XUMO FILMES GRATIS
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="XUMO FILMES GRATIS" tvg-logo="https://mms.businesswire.com/media/20250106125888/en/2343071/22/Xumo_Logo.jpg" group-title="Cinema | Brasil",XUMO FILMES GRATIS
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992307
-#EXTINF:-1 tvg-name="CLUBE WEB TV" tvg-logo="https://play-lh.googleusercontent.com/gYYjz_uVDIkOonbomJbPS0yPiTKkSrreBujTuIRMAzTJL8fqBPAEfA4ouohnVsYcCw" group-title="Cinema | Brasil",CLUBE WEB TV
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="CLUBE WEB TV" tvg-logo="https://play-lh.googleusercontent.com/gYYjz_uVDIkOonbomJbPS0yPiTKkSrreBujTuIRMAzTJL8fqBPAEfA4ouohnVsYcCw" group-title="Cinema | Brasil",CLUBE WEB TV
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-name="SO WESTERN" tvg-logo="https://imgur.com/hfUzprH.png" group-title="Cinema | Brasil",SO WESTERN
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="SO WESTERN" tvg-logo="https://imgur.com/hfUzprH.png" group-title="Cinema | Brasil",SO WESTERN
 https://cdn-3.nxplay.com.br/SOPLAY_WESTERN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DARK MATTER" tvg-logo="https://imgur.com/WdSK0Zn.png" group-title="Cinema | Brasil",DARK MATTER
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="DARK MATTER" tvg-logo="https://imgur.com/WdSK0Zn.png" group-title="Cinema | Brasil",DARK MATTER
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99992147
-#EXTINF:-1 tvg-name="CINDIE LITE" tvg-logo="https://imgur.com/HBNYdop.png" group-title="Cinema | Brasil",CINDIE LITE
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="CINDIE LITE" tvg-logo="https://imgur.com/HBNYdop.png" group-title="Cinema | Brasil",CINDIE LITE
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
-#EXTINF:-1 tvg-name="CINDIE LITE" tvg-logo="https://imgur.com/HBNYdop.png" group-title="Cinema | Brasil",CINDIE LITE
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="CINDIE LITE" tvg-logo="https://imgur.com/HBNYdop.png" group-title="Cinema | Brasil",CINDIE LITE
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b1226ff17e924e59803c486e434e96d4/playlist.m3u8
-#EXTINF:-1 tvg-name="CINDIE LITE" tvg-logo="https://imgur.com/HBNYdop.png" group-title="Cinema | Brasil",CINDIE LITE
+#EXTINF:-1 tvg-id="Canal24.7"  tvg-name="CINDIE LITE" tvg-logo="https://imgur.com/HBNYdop.png" group-title="Cinema | Brasil",CINDIE LITE
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt077&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=d3f60e44-cb709537-6a6b3eaf-d9186bf8&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6623c114ed4918437ed56ebc" tvg-name="SPARK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Cinema | Brasil",SPARK TV | Plex
 https://cc-sr15nxkp06uk9.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6623c114ed4918437ed56ebc" tvg-name="SPARK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="Cinema | Brasil",SPARK TV | Link 2
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8
-#EXTINF:-1 tvg-name="HALLO MOVIE" tvg-logo="https://imgur.com/93W36dG.png" group-title="Cinema | Brasil",HALLO MOVIE
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="HALLO MOVIE" tvg-logo="https://imgur.com/93W36dG.png" group-title="Cinema | Brasil",HALLO MOVIE
 https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Cinema | Brasil",Pluto TV Cine Terror
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-name="ADRENALINA PURA TV" tvg-logo="https://imgur.com/0I6DJsj.png" group-title="Cinema | Brasil",ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="ADRENALINA PURA TV HALLOWEEN" tvg-logo="https://imgur.com/ziiM83t.png" group-title="Cinema | Brasil",ADRENALINA PURA TV HALLOWEEN
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="ADRENALINA PURA TV HALLOWEEN" tvg-logo="https://imgur.com/ziiM83t.png" group-title="Cinema | Brasil",ADRENALINA PURA TV HALLOWEEN
 https://amg00740-sofa-amg00740c15-tcl-us-8747.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="633dcebd80386500074a2461" tvg-name="FILMELIER TV" tvg-logo="https://imgur.com/wLzboAU.png" group-title="Cinema | Brasil",FILMELIER TV
 https://amg00740-sofa-amg00740c8-lg-br-7321.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FILMELIER TV PAIXAO" tvg-logo="https://imgur.com/OsGti81.png" group-title="Cinema | Brasil",FILMELIER TV PAIXAO
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="FILMELIER TV PAIXAO" tvg-logo="https://imgur.com/OsGti81.png" group-title="Cinema | Brasil",FILMELIER TV PAIXAO
 https://amg00740-sofa-amg00740c17-tcl-us-8638.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FILMELIER TV VIDA REAL" tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="Cinema | Brasil",FILMELIER TV VIDA REAL
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="FILMELIER TV VIDA REAL" tvg-logo="https://imgur.com/gJb0Nz4.png" group-title="Cinema | Brasil",FILMELIER TV VIDA REAL
 https://amg00740-sofa-amg00740c16-tcl-us-8738.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FILMELIER TV ESPERANCA" tvg-logo="https://imgur.com/JwdK85f.png" group-title="Cinema | Brasil",FILMELIER TV ESPERANCA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="FILMELIER TV ESPERANCA" tvg-logo="https://imgur.com/JwdK85f.png" group-title="Cinema | Brasil",FILMELIER TV ESPERANCA
 https://amg00740-sofa-amg00740c13-tcl-us-8730.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ROMANCE CHANNEL" tvg-logo="https://imgur.com/caqWa3N.png" group-title="Cinema | Brasil",ROMANCE CHANNEL
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
@@ -119,7 +119,7 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e9
 
 
 =============CINEMA INGLÊS===========
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3SuqJaK.png" group-title="Cinema | Inglês", 24 Hour Free Movies
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/3SuqJaK.png" group-title="Cinema | Inglês", 24 Hour Free Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
 #EXTINF:-1 tvg-id="CineLife.distro" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Cinema | Inglês", CineLife | USA
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
@@ -133,7 +133,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/FS63B7JS4WE77IAF6J1J/hls3/now
 https://s11host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config14/channel-hls/v2/0707ea171a7f4137/88890052/master.m3u8?ads.cdnhost=s11host4.localnow.api.cms.amdvids.com&ads.playbackid=70E6008B-8E98-4B80-8CE2-D721592DF1C1&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=70E6008B-8E98-4B80-8CE2-D721592DF1C1&ads.n4=content_name&ads.v4=World%27s%20Most%20Evil%20Killers&ads.n21=cust_devicename&ads.v21=desktop_web&ads.n22=channel_ext_id&ads.v22=&ads.n23=channel_corp&ads.v23=FilmRise&ads.n24=dnt&ads.v24=&ads.n25=app_version&ads.v25=0.0.0&ads.n26=did&ads.v26=&ads.n27=gpp_sid&ads.v27=&ads.n28=content_custom_2_param&ads.v28=AMDB013722&ads.n29=channel_company_id&ads.v29=AMDP500105&ads.n30=w&ads.v30=1920&ads.n31=channel_language&ads.v31=en&ads.n32=channel_genre&ads.v32=True%20Crime&ads.n33=content_producer_name&ads.v33=FilmRise&ads.n34=content_type&ads.v34=channel&ads.n35=gpp&ads.v35=&ads.n36=content_custom_1_param&ads.v36=70E6008B-8E98-4B80-8CE2-D721592DF1C1&ads.n37=channel_title&ads.v37=World%27s%20Most%20Evil%20Killers&ads.n38=network_name&ads.v38=worlds-most-evil-killers&ads.n39=channel_name&ads.v39=World%27s%20Most%20Evil%20Killers&ads.n40=channel_brand_id&ads.v40=AMDB013722&ads.n41=ua&ads.v41=Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F137.0.0.0%20Safari%2F537.36&ads.n42=content_custom_3_param&ads.v42=channel&ads.n43=content_provider&ads.v43=worlds-most-evil-killers&ads.n44=channel_rating&ads.v44=TV-PG&ads.n45=ifa_type&ads.v45=&ads.n46=device_make&ads.v46=&ads.n47=url&ads.v47=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fworlds-most-evil-killers&ads.n48=app_name&ads.v48=&ads.n49=device_model&ads.v49=&ads.n50=us_privacy&ads.v50=1YYY&ads.n51=content_livestream&ads.v51=1&ads.n52=pos&ads.v52=midroll&ads.n53=app_store_url&ads.v53=&ads.n54=device_type&ads.v54=&ads.n55=channel_id&ads.v55=70E6008B-8E98-4B80-8CE2-D721592DF1C1&ads.n56=h&ads.v56=1080&ads.n57=ip&ads.v57=198.144.178.135&ads.n58=app_bundle&ads.v58=web.localnow
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991745/160x160.webp?type=color_onBlack" group-title="Cinema | Inglês",Wu Tang Collection TV
 https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
-#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png" group-title="Cinema | Inglês", Cinepride | EUA | Kung Fu+
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png" group-title="Cinema | Inglês",Kung Fu+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8?ads.channel=6614&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1781284526~exp=1781306126~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/*!/payload/yupptvott_5_-1_5b63a782-0aa9-de76-953c-124cd9c137f9_BR_45.174.160.215_yuppfast_2_channel_85_-1/*~data=yupptvott_5_-1_5b63a782-0aa9-de76-953c-124cd9c137f9_BR_45.174.160.215_yuppfast_2_channel_85_-1~hmac=807e97f7c2d2b749ae23dfd5c39c717460811fecb0cbd244b7048f16aa7f7f4b&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=KungFu&ads.language=ENG&ads.user=0
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tensions-tv.png" group-title="Cinema | Inglês",Tensions TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8?ads.channel=6612&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastINT&hdnts=st=1781284906~exp=1781306506~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/*!/payload/yupptvott_5_-1_8a2f865c-f9a1-3bfb-68ae-f63a3aa646ac_BR_45.174.160.215_yuppfast_2_channel_72_-1/*~data=yupptvott_5_-1_8a2f865c-f9a1-3bfb-68ae-f63a3aa646ac_BR_45.174.160.215_yuppfast_2_channel_72_-1~hmac=f80ec30fcc81c4de6a6d752a6b73f38c25bb93a5ee653bf2500fd84e17ffec33&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MOVIES&ads.channel_name=TensionsTV&ads.language=ENG&ads.user=0
@@ -418,7 +418,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951120/hls/playlist.m3u8?ads.xumo_c
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FRBB50000016B" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/FRBB50000016B_20220323T080520.png" group-title="Cinema | Francês", RunTime em Francês
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
-#EXTINF:-1 tvg-id="Cine.Western" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Cinema | Francês",Ciné Western | França
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/tteOFkL.png" group-title="Cinema | Francês",Ciné Western | França
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 
 
@@ -431,11 +431,11 @@ https://o11.163189.xyz/stream/live/aod/
 https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-CINDIE/387.m3u8?ads.vf=grWTpG3NQNi
 #EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6685ad945ffde3f71a3977d5" tvg-name="CINDIE TV" tvg-logo="https://i.imgur.com/3GCV0Fz_d.png?maxwidth=520&shape=thumb&fidelity=high" group-title="Cinema | Outros",CINDIE TV | Brasil
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6685ad945ffde3f71a3977d5.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-9mxza4tUUAbyBZHPtiF
-#EXTINF:-1 tvg-name="Box Cinema" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" tvg-id="Box.Cinema.distro" group-title="Cinema | Outros",Box Cinema
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="Box Cinema" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/logo_20250102_225527_70.png" tvg-id="Box.Cinema.distro" group-title="Cinema | Outros",Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/4VXGRDY/605C64996517/m.m3u8
-#EXTINF:-1 tvg-name="ENCORE+" tvg-logo="https://a.jsrdn.com/hls/23064/encore/logo_20231219_201123_50.png" tvg-id="ENCORE+.distro" group-title="Cinema | Outros",ENCORE+
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="ENCORE+" tvg-logo="https://a.jsrdn.com/hls/23064/encore/logo_20231219_201123_50.png" tvg-id="ENCORE+.distro" group-title="Cinema | Outros",ENCORE+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8?ads.dpname=distrotv&ads.rnd=edtt&ads.env_i=1efa1b90-7e84-4bd4-a831-deb325115220&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=360&ads.height=203&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=198.144.178.135&ads.geo=US&ads.lat=39.94580&ads.long=-74.90420&ads.dma=504&ads.geoType=2&ads.contentid=23064&ads.content_duration=18000&ads.episode_id=83820&ads.show_id=3196&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=ENCORE%2B&ads.episodetitle=ENCORE%2B&ads.keywords=Movies&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=SABx6GoKiaW
-#EXTINF:-1 tvg-id="87420"tvg-name="IndieBox" tvg-logo="https://a.jsrdn.com/hls/23195/indiebox/logo_20241210_231749_68.png" tvg-id="IndieBox.distro" group-title="Cinema | Outros",IndieBox
+#EXTINF:-1 tvg-id="87420" tvg-name="IndieBox" tvg-logo="https://a.jsrdn.com/hls/23195/indiebox/logo_20241210_231749_68.png" tvg-id="IndieBox.distro" group-title="Cinema | Outros",IndieBox
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/U3CS4YI/263AF9392E3E/m.m3u8
 #EXTINF:-1 tvg-id="145584" tvg-name="HORROR TV" tvg-logo="https://a.jsrdn.com/hls/23064/horror-tv/logo_20260324_013632_68.png" group-title="Cinema | Outros",HORROR TV | VPN
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horror-tv/master.m3u8?ads.vf=zbRRevxF1ay
@@ -462,13 +462,13 @@ https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/master.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png" group-title="Religiosos | Cristianismo", TV Aparecida | PUC TV Goiás
 https://stmv5.samcast.com.br/puctvgoias/puctvgoias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png" group-title="Religiosos | Cristianismo", TV Maná | Brasil
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://tvmanabrasil.com/wp-content/uploads/2023/05/LOGO_TV_MANA_BRASIL_V4-396x108-1.png" group-title="Religiosos | Cristianismo", TV Maná | Brasil
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaoAmiga.br" tvg-logo="https://i.imgur.com/OYtftmG.png" group-title="Religiosos | Cristianismo", TV Mão Amiga | Brasil
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="Religiosos | Cristianismo", TV Pai Eterno | GO Brasil
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/H5zWaCa.png" group-title="Religiosos | Cristianismo", TV Pai Eterno | GO Brasil
 https://video09.logicahost.com.br/paieterno/paieterno/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="Religiosos | Cristianismo", TV Verdade | Brasil e Filipinas
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/6UoUybZ.png" group-title="Religiosos | Cristianismo", TV Verdade | Brasil e Filipinas
 https://acesso.ecast.site:3104/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="236" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_Adorar_100x100.png" group-title="Religiosos | Cristianismo",Tv Adorar
 https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8
@@ -494,19 +494,19 @@ https://acesso.ecast.site:3500/hybrid/play.m3u8
 https://tv.redeaurora.com.br/public/Index.m3u8
 
 ===========RELIGIOSO ISLAMISMO===========
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA1 World
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA1 World
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA2 Europe
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA2 Europe
 https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA4 Africa
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA4 Africa
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA5 Africa
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA5 Africa
 https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA6 Asia
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA6 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA7 Asia
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA7 Asia
 https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA8 America
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA8 America
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 
 
@@ -533,9 +533,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951386/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223&ads._fw_ifa_type=&ads._fw_did=befda4a6-39c3-4ee9-8c29-e24e504274a4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=SkyNews&ads.csid=xumo_web_SkyNews_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Local,LocalNews,News-Local&ads._fw_content_rating=&ads.xumo_contentId=3455&ads.xumo_contentName=SkyNews&ads.xumo_providerId=3455&ads.xumo_providerName=SkyNews&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951223&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 #EXTINF:-1 tvg-id="LN_88CE1401-5EBC-4163-983F-534C8916321A" tvg-logo="https://d3e3bui7xn67l.cloudfront.net/cms_media/media/live/channel/082f535b-acad-4ec1-977e-da205f4d901b-1741634783.243562.256x256.png" group-title="Notícias | Inglês", Yahoo Finance | FreeCast
 https://yahoofina-yahoofinance-plex-kgckp.amagi.tv/playlist/yahoofina-yahoofinance-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Notícias | Inglês", Black News Channel | Vizio
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Notícias | Inglês", Black News Channel | Vizio
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Notícias | Inglês", Black News Channel | Xumo
+#EXTINF:-1 tvg-id="Canal24.7"  tvg-logo="http://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Notícias | Inglês", Black News Channel | Xumo
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias | Inglês", Cheddar | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
@@ -1970,83 +1970,83 @@ https://cdn-tiva-video07-logicahost-com-br.smartbit.co/vamborachannel/vamboracha
 
 
 ============ESTUDIO FM=============
-#EXTINF:-1 tvg-name="CLUBE FM 103.1" tvg-logo="https://i.imgur.com/NEW_CLUBEFM.png" group-title="ESTUDIO FM",CLUBE FM 103.1
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="CLUBE FM 103.1" tvg-logo="https://i.imgur.com/NEW_CLUBEFM.png" group-title="ESTUDIO FM",CLUBE FM 103.1
 https://radioeclube.brasilstream.com.br/hls/radioeclube/index.m3u8?token=2767413960551095300
-#EXTINF:-1 tvg-name="LUPA 1 FM" tvg-logo="https://i.imgur.com/NEW_LUPA1FM.png" group-title="ESTUDIO FM",LUPA 1 FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="LUPA 1 FM" tvg-logo="https://i.imgur.com/NEW_LUPA1FM.png" group-title="ESTUDIO FM",LUPA 1 FM
 https://a.cdni.live/lupa1fm/lupa1fm/playlist.m3u8
-#EXTINF:-1 tvg-name="BLINK 102 FM" tvg-logo="https://i.imgur.com/NEW_BLINK102.png" group-title="ESTUDIO FM",BLINK 102 FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="BLINK 102 FM" tvg-logo="https://i.imgur.com/NEW_BLINK102.png" group-title="ESTUDIO FM",BLINK 102 FM
 https://5ad482a77183d.streamlock.net/blinkblink.com.br/blinkblink.com.br/playlist.m3u8
-#EXTINF:-1 tvg-name="MIX FM BELEM" tvg-logo="https://i.imgur.com/NEW_MIXFM.png" group-title="ESTUDIO FM",MIX FM BELEM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="MIX FM BELEM" tvg-logo="https://i.imgur.com/NEW_MIXFM.png" group-title="ESTUDIO FM",MIX FM BELEM
 https://tv02.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
-#EXTINF:-1 tvg-name="METROPOLES FM" tvg-logo="https://i.imgur.com/NEW_METROPOLES.png" group-title="ESTUDIO FM",METROPOLES FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="METROPOLES FM" tvg-logo="https://i.imgur.com/NEW_METROPOLES.png" group-title="ESTUDIO FM",METROPOLES FM
 https://stmv2.srvif.com/metro5/metro5/playlist.m3u8
-#EXTINF:-1 tvg-name="REDE CLUBE" tvg-logo="https://i.imgur.com/NEW_REDECLUBE.png" group-title="ESTUDIO FM",REDE CLUBE
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="REDE CLUBE" tvg-logo="https://i.imgur.com/NEW_REDECLUBE.png" group-title="ESTUDIO FM",REDE CLUBE
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
-#EXTINF:-1 tvg-name="JK FM" tvg-logo="https://i.imgur.com/NEW_JKFM.png" group-title="ESTUDIO FM",JK FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="JK FM" tvg-logo="https://i.imgur.com/NEW_JKFM.png" group-title="ESTUDIO FM",JK FM
 https://srv1.zcast.com.br/jkfm/jkfm/playlist.m3u8
-#EXTINF:-1 tvg-name="ATIVIDADE FM" tvg-logo="https://i.imgur.com/NEW_ATIVIDADE.png" group-title="ESTUDIO FM",ATIVIDADE FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="ATIVIDADE FM" tvg-logo="https://i.imgur.com/NEW_ATIVIDADE.png" group-title="ESTUDIO FM",ATIVIDADE FM
 https://a.cdni.live/radioatividade/radioatividade/playlist.m3u8
-#EXTINF:-1 tvg-name="SUPRA FM" tvg-logo="https://i.imgur.com/NEW_SUPRAFM.png" group-title="ESTUDIO FM",SUPRA FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="SUPRA FM" tvg-logo="https://i.imgur.com/NEW_SUPRAFM.png" group-title="ESTUDIO FM",SUPRA FM
 https://live.cdn.upx.com/00079/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-name="POSITIVA FM" tvg-logo="https://i.imgur.com/NEW_POSITIVA.png" group-title="ESTUDIO FM",POSITIVA FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="POSITIVA FM" tvg-logo="https://i.imgur.com/NEW_POSITIVA.png" group-title="ESTUDIO FM",POSITIVA FM
 https://video04.logicahost.com.br/radiopositivafm/radiopositivafm/playlist.m3u8
-#EXTINF:-1 tvg-name="FM O DIA" tvg-logo="https://i.imgur.com/NEW_FMODIA.png" group-title="ESTUDIO FM",FM O DIA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="FM O DIA" tvg-logo="https://i.imgur.com/NEW_FMODIA.png" group-title="ESTUDIO FM",FM O DIA
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8
-#EXTINF:-1 tvg-name="95 MAIS FM" tvg-logo="https://i.imgur.com/NEW_95MAIS.png" group-title="ESTUDIO FM",95 MAIS FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="95 MAIS FM" tvg-logo="https://i.imgur.com/NEW_95MAIS.png" group-title="ESTUDIO FM",95 MAIS FM
 https://video01.logicahost.com.br/radio95fm/radio95fm/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO SUPER MARAJOARA" tvg-logo="https://imgur.com/ieKLdwM.png" group-title="ESTUDIO FM",RADIO SUPER MARAJOARA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO SUPER MARAJOARA" tvg-logo="https://imgur.com/ieKLdwM.png" group-title="ESTUDIO FM",RADIO SUPER MARAJOARA
 https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO DIARIO MACAPA" tvg-logo="https://imgur.com/i25DYst.png" group-title="ESTUDIO FM",RADIO DIARIO MACAPA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO DIARIO MACAPA" tvg-logo="https://imgur.com/i25DYst.png" group-title="ESTUDIO FM",RADIO DIARIO MACAPA
 https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO REDENTOR" tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM",RADIO REDENTOR
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO REDENTOR" tvg-logo="https://imgur.com/RDTA02g.png" group-title="ESTUDIO FM",RADIO REDENTOR
 https://virtues.live:1936/redentor2/redentor2/playlist.m3u8
-#EXTINF:-1 tvg-name="CATVE FM" tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM",CATVE FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="CATVE FM" tvg-logo="https://imgur.com/9oTO4m1.png" group-title="ESTUDIO FM",CATVE FM
 http://wowza4.catve.com.br:1935/radiocamera/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="CATVE FM" tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="ESTUDIO FM",CATVE FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="CATVE FM" tvg-logo="https://imgur.com/JQU7Ysw.png" group-title="ESTUDIO FM",CATVE FM
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO MONTE FM" tvg-logo="https://imgur.com/bDd4XH6.png" group-title="ESTUDIO FM",RADIO MONTE FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO MONTE FM" tvg-logo="https://imgur.com/bDd4XH6.png" group-title="ESTUDIO FM",RADIO MONTE FM
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
-#EXTINF:-1 tvg-name="106 SERTANEJA" tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM",106 SERTANEJA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="106 SERTANEJA" tvg-logo="https://imgur.com/3wUBW9Z.png" group-title="ESTUDIO FM",106 SERTANEJA
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="CLUBE FM RP" tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM RP
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="CLUBE FM RP" tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM RP
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-name="CLUBE FM SC" tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM SC
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="CLUBE FM SC" tvg-logo="https://imgur.com/su2e7IY.png" group-title="ESTUDIO FM",CLUBE FM SC
 https://live.cdn.upx.com/5e5c_4/myStream.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-name="MENINA PLAY" tvg-logo="https://imgur.com/raySUEv.png" group-title="ESTUDIO FM",MENINA PLAY
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="MENINA PLAY" tvg-logo="https://imgur.com/raySUEv.png" group-title="ESTUDIO FM",MENINA PLAY
 https://play.radio.br:8089/meninablulive/meninablulive/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO DIFUSORA FM" tvg-logo="https://imgur.com/V0RbUvh.png" group-title="ESTUDIO FM",RADIO DIFUSORA FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO DIFUSORA FM" tvg-logo="https://imgur.com/V0RbUvh.png" group-title="ESTUDIO FM",RADIO DIFUSORA FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
-#EXTINF:-1 tvg-name="RADIO DIFUSORA FM 98" tvg-logo="https://imgur.com/83RTSdx.png" group-title="ESTUDIO FM",RADIO DIFUSORA FM 98
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO DIFUSORA FM 98" tvg-logo="https://imgur.com/83RTSdx.png" group-title="ESTUDIO FM",RADIO DIFUSORA FM 98
 https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
-#EXTINF:-1 tvg-name="RADIO TRANSJOVEM" tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM",RADIO TRANSJOVEM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO TRANSJOVEM" tvg-logo="https://imgur.com/jKMc3yI.png" group-title="ESTUDIO FM",RADIO TRANSJOVEM
 https://srv6.zcast.com.br/raimundofrancisco4701/raimundofrancisco4701/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO 102 AP FM" tvg-logo="https://imgur.com/qzajvDo.png" group-title="ESTUDIO FM",RADIO 102 AP FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO 102 AP FM" tvg-logo="https://imgur.com/qzajvDo.png" group-title="ESTUDIO FM",RADIO 102 AP FM
 https://stmv1.srvstm.com/rogerio2689/rogerio2689/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO PLANALTO NEWS" tvg-logo="https://imgur.com/y1LwEho.png" group-title="ESTUDIO FM",RADIO PLANALTO NEWS
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO PLANALTO NEWS" tvg-logo="https://imgur.com/y1LwEho.png" group-title="ESTUDIO FM",RADIO PLANALTO NEWS
 https://cdn-rdplanalto.ciclano.io:1443/rdplanalto/rdplanalto/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO LITORAL FM" tvg-logo="https://imgur.com/kBz6Znn.png" group-title="ESTUDIO FM",RADIO LITORAL FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO LITORAL FM" tvg-logo="https://imgur.com/kBz6Znn.png" group-title="ESTUDIO FM",RADIO LITORAL FM
 https://5ad482a77183d.streamlock.net/jdubonetgmail.com/jdubonetgmail.com/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO CIDADE VERDE" tvg-logo="https://imgur.com/mC5vOEl.png" group-title="ESTUDIO FM",RADIO CIDADE VERDE
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO CIDADE VERDE" tvg-logo="https://imgur.com/mC5vOEl.png" group-title="ESTUDIO FM",RADIO CIDADE VERDE
 https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO ENCONTRO DAS AGUAS" tvg-logo="https://imgur.com/AYYFpY3.png" group-title="ESTUDIO FM",RADIO ENCONTRO DAS AGUAS
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO ENCONTRO DAS AGUAS" tvg-logo="https://imgur.com/AYYFpY3.png" group-title="ESTUDIO FM",RADIO ENCONTRO DAS AGUAS
 https://cs1.xcast.com.br/9236/9236/playlist.m3u8
-#EXTINF:-1 tvg-name="DIAMANTINA FM" tvg-logo="https://imgur.com/Q6W74HE.png" group-title="ESTUDIO FM",DIAMANTINA FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="DIAMANTINA FM" tvg-logo="https://imgur.com/Q6W74HE.png" group-title="ESTUDIO FM",DIAMANTINA FM
 https://chapada.brasilstream.com.br/hls/chapada/index.m3u8
-#EXTINF:-1 tvg-name="RADIO UIRAPURU" tvg-logo="https://imgur.com/A2ebA0p.png" group-title="ESTUDIO FM",RADIO UIRAPURU
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO UIRAPURU" tvg-logo="https://imgur.com/A2ebA0p.png" group-title="ESTUDIO FM",RADIO UIRAPURU
 https://video09.logicahost.com.br/rduirapuru/rduirapuru/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO NOVA ERA" tvg-logo="https://i.imgur.com/3yIjIKf.jpeg" group-title="ESTUDIO FM",RADIO NOVA ERA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO NOVA ERA" tvg-logo="https://i.imgur.com/3yIjIKf.jpeg" group-title="ESTUDIO FM",RADIO NOVA ERA
 https://stmv1.conectastreaming.com/novaera/novaera/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO CAFE VIOLA" tvg-logo="https://imgur.com/zRZOCQs.png" group-title="ESTUDIO FM",RADIO CAFE VIOLA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO CAFE VIOLA" tvg-logo="https://imgur.com/zRZOCQs.png" group-title="ESTUDIO FM",RADIO CAFE VIOLA
 https://srv5.zcast.com.br/tvcafe/tvcafe/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO NATUREZA FM" tvg-logo="https://imgur.com/gqHry1a.png" group-title="ESTUDIO FM",RADIO NATUREZA FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO NATUREZA FM" tvg-logo="https://imgur.com/gqHry1a.png" group-title="ESTUDIO FM",RADIO NATUREZA FM
 https://tv02.zas.media:1936/natureza/natureza/playlist.m3u8
-#EXTINF:-1 tvg-name="ESTUDIO A FM" tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM",ESTUDIO A FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="ESTUDIO A FM" tvg-logo="https://imgur.com/Z2cV80L.png" group-title="ESTUDIO FM",ESTUDIO A FM
 https://5a57bda70564a.streamlock.net/estudioatv/estudioatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO E TV LIBERAL" tvg-logo="https://imgur.com/TzOvTYi.png" group-title="ESTUDIO FM",RADIO E TV LIBERAL
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO E TV LIBERAL" tvg-logo="https://imgur.com/TzOvTYi.png" group-title="ESTUDIO FM",RADIO E TV LIBERAL
 https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
-#EXTINF:-1 tvg-name="NOSSA FM" tvg-logo="https://imgur.com/B6gLAvT.png" group-title="ESTUDIO FM",NOSSA FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="NOSSA FM" tvg-logo="https://imgur.com/B6gLAvT.png" group-title="ESTUDIO FM",NOSSA FM
 https://6mngseslsw.zoeweb.tv/z609-live/stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="RADIO D2 FM" tvg-logo="https://imgur.com/NSNZN6f.png" group-title="ESTUDIO FM",RADIO D2 FM
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO D2 FM" tvg-logo="https://imgur.com/NSNZN6f.png" group-title="ESTUDIO FM",RADIO D2 FM
 https://s1.tvr.ovh/ibraim3622/ibraim3622/playlist.m3u8
-#EXTINF:-1 tvg-name="RADIO BIRIKINA" tvg-logo="https://imgur.com/IkR42pA.png" group-title="ESTUDIO FM",RADIO BIRIKINA
+#EXTINF:-1 tvg-id="Canal24.7" tvg-name="RADIO BIRIKINA" tvg-logo="https://imgur.com/IkR42pA.png" group-title="ESTUDIO FM",RADIO BIRIKINA
 https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
