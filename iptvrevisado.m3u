@@ -32,12 +32,14 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/2bfc9f3f-1c7c-43fa-b710-9b56875592f1/4.m3u8
 #EXTINF:-1 group-title="Cinema | Brasil", NOSSO PLAY TV
 https://stmv2.srvif.com/channel2/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6864668119cc2e163e38d167" tvg-logo="" group-title="Cinema | Brasil", Sessão Trash
+#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-6864668119cc2e163e38d167" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/18848a63594b3a990cf008bf2f9dfd6d.webp" group-title="Cinema | Brasil", Sessão Trash
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://ipgotv.net.br/tv/cqtv/imagem/logo_classiqueTV_site.png" group-title="Cinema | Brasil", CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://channel1.ipgotv.top/LOGO_CH1.png" group-title="Cinema | Brasil", CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Cinema | Brasil", Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="163" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_PNG_DIMENS%C3%A2O_100X100_-_GLN_TV_reduz_zKzqMEP.png" group-title="Cinema | Brasil",GLN TV
 https://cdn-tiva-stmv8-samcast-com-br.smartbit.co/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/logo-tvsonata.png" group-title="Cinema | Brasil",TV Sonata
