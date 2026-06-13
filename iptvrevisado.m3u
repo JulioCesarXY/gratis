@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/gratis/refs/heads/main/epg/epg_final.xml,https://raw.githubusercontent.com/JulioCesarXY/gerador-de-epg/refs/heads/main/epg/epg_final2.xml,https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz,https://raw.githubusercontent.com/JulioCesarXY/gratis/refs/heads/main/epg/epg_distrotv.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://epg.pw/xmltv/epg.xml.gz,https://www.open-epg.com/files/brazil1.xml,https://www.open-epg.com/files/portugal1.xml,https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR2.xml.gz,https://raw.githubusercontent.com/rootcoder/epgtv/refs/heads/main/channels.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml,https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/nz/epg.xml,https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz,https://github.com/matthuisman/i.mjh.nz/blob/master/Plex/all.xml.gz"  size="Medium"
 
 
-============NOVOS CANAIS===========
+=======================NOVOS CANAIS=======================
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://yt3.googleusercontent.com/R-NJzpNfFCOxdwRZGFsCzCDK4pLDpfU0MN77CYXf8S9UP4YDbA4YgE_1WIshV2zz54A-Bns=s160-c-k-c0x00ffffff-no-rj" group-title="Abertos",Cazé TV 60FPS
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/GE_TV.png" group-title="Abertos",GETV HD
@@ -25,7 +25,7 @@ https://live.tvinterior.com.br/hls/stream.m3u8
 
 
 
-===========CINEMA BRASIL==========
+=======================CINEMA BRASIL=======================
 #EXTINF:-1 tvg-id="DE:.Top.Filme.-.Rakuten.TV.be" tvg-logo="https://appstv-static-content-prod.wuaki.tv/images/720p/UI30_about_us-logo.70c3538baaaa2c6937b498be48c7e456.png" group-title="Cinema | Brasil", Rakuten TV
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 #EXTINF:-1 tvg-id="Action.Movies.-.Rakuten.TV.be" tvg-logo="https://appstv-static-content-prod.wuaki.tv/images/720p/UI30_about_us-logo.70c3538baaaa2c6937b498be48c7e456.png" group-title="Cinema | Brasil", Rakuten TV | Tivimate
@@ -118,7 +118,7 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c54
 https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8
 
 
-=============CINEMA INGLÊS===========
+=======================CINEMA INGLÊS=======================
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/3SuqJaK.png" group-title="Cinema | Inglês", 24 Hour Free Movies
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
 #EXTINF:-1 tvg-id="CineLife.distro" tvg-logo="https://i.imgur.com/RIUNuMQ.png" group-title="Cinema | Inglês", CineLife | USA
@@ -413,7 +413,7 @@ https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 
 
 
-===========CINEMA FRANCÊS==========
+=======================CINEMA FRANCÊS=======================
 #EXTINF:-1 tvg-id="MyTime.Movie.Network.be" tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Cinema | Francês", MyTime Movie Network | França
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FRBB50000016B" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/70/FRBB50000016B_20220323T080520.png" group-title="Cinema | Francês", RunTime em Francês
@@ -424,7 +424,7 @@ https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/
 
 
 
-===========CINEMA OUTROS==========
+=======================CINEMA OUTROS=======================
 #EXTINF:-1 tvg-id="Astro.AOD.311.my" tvg-logo="https://freetv.fun/media/images/channel/2022/08/26/large/20220826114608609036_92.png" tvg-name="ASTRO AOD 31" group-title="Cinema | Outros",ASTRO AOD | 50FPS
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="139216" tvg-name="CINDIE TV" tvg-logo="https://i.imgur.com/3GCV0Fz_d.png?maxwidth=520&shape=thumb&fidelity=high" group-title="Cinema | Outros",CINDIE TV | Mexico
@@ -441,7 +441,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/hls/U3CS4YI/263AF9392E3E/m.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horror-tv/master.m3u8?ads.vf=zbRRevxF1ay
 
 
-==========RELIGIOSO CRISTIANISMO===========
+=======================RELIGIOSO CRISTIANISMO=======================
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-logo="https://i.imgur.com/wVPZqXa.png" group-title="Religiosos | Cristianismo", Evangelizar TV
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5uTSYY6.png" group-title="Religiosos | Cristianismo", Novo Tempo | Brasil
@@ -493,7 +493,7 @@ https://acesso.ecast.site:3500/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="171" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Globo100x100.png" group-title="Religiosos | Cristianismo",Tv Aurora
 https://tv.redeaurora.com.br/public/Index.m3u8
 
-===========RELIGIOSO ISLAMISMO===========
+=======================RELIGIOSO ISLAMISMO=======================
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA1 World
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA2 Europe
@@ -510,7 +510,7 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
 
 
-===========NOTÍCIAS BRASIL===========
+=======================NOTÍCIAS BRASIL=======================
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://images.pluto.tv/channels/6102e04e9ab1db0007a980a1/colorLogoPNG.png" group-title="Notícias | Brasil", Record News | RunTime Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 #EXTINF:-1 tvg-id="RTP 3 HD" tvg-logo="https://i.imgur.com/MXV6Wl5.png" group-title="Notícias | Brasil", RTP 3 | Portugal
@@ -524,7 +524,7 @@ https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="Notícias | Brasil", TV Câmara | Brasil
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-==========NOTÍCIAS INGLÊS=============
+=======================NOTÍCIAS INGLÊS=======================
 #EXTINF:-1 tvg-id="99991158" tvg-name="CBS News 24/7" tvg-logo="https://image.xumo.com/v1/channels/channel/99991158/168x168.png?type=color_onBlack" group-title="Notícias | Inglês",CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?imafw_csid=vcbs_xumo_ctv_allos_live_cbsnews;imafw__fw_h_referer=com.xumo.app&imafw__fw_did=dpid:&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=web.xumo.com&imafw_is_lat=
 #EXTINF:-1 tvg-id="99951386" tvg-name="CNN Headlines" tvg-logo="https://image.xumo.com/v1/channels/channel/99951386/168x168.png?type=color_onBlack" group-title="Notícias | Inglês",CNN Headlines
@@ -626,7 +626,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951404/hls/playlist.m3u8?ads.xumo_c
 
 
 
-===================NOTÍCIAS FRANCÊS==============
+=======================NOTÍCIAS FRANCÊS=======================
 #EXTINF:-1 tvg-id="France.24.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias | Francês", France 24 HD 1
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:-1 tvg-id="France.24.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias | Francês", France 24 HD 2
@@ -634,7 +634,7 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Notícias | Francês", France 24 SD
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 
-=================NOTÍCIAS OUTROS IDIOMAS===========
+=======================NOTÍCIAS OUTROS IDIOMAS=======================
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-logo="https://i.imgur.com/JtZ5nXn.png" group-title="Notícias | Outros Idiomas", Antena 3 CNN | Romênia
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dy9Dkh2.png" group-title="Notícias | Outros Idiomas", CNBC Indonesia
@@ -662,18 +662,18 @@ https://live.presstv.ir/hls/hispantv.m3u8
 
 
 
-===================DOCUMENTARIOS ALEMÃO=================
+=======================DOCUMENTARIOS ALEMÃO=======================
 #EXTINF:-1 tvg-id="CHBA3300028G3" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/17/CHBA3300028G3_20210714T000948.png" group-title="Documentários | Alemão", Wilder Planet | Alemanha
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
 
 
-===================DOCUMENTÁRIOS ESPANHOL===============
+=======================DOCUMENTÁRIOS ESPANHOL=======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MK9DPEK.png" group-title="Documentários | Espanhol", Andalucía Turismo | Espanha
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1253
 #EXTINF:-1 tvg-id="Deutsche.Welle.es" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Documentários | Espanhol", Deutsche Welle | DW em espanhol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 
-===================DOCUMENTARIOS INGLES================
+=======================DOCUMENTARIOS INGLES=======================
 #EXTINF:-1 tvg-id="5161" tvg-logo="https://i.imgur.com/CsHdYhG.png" group-title="Documentários | Inglês", Deutsche Welle | DW em inglês
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPA2yTM.png" group-title="Documentários | Inglês", Guinness World Records
@@ -722,7 +722,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951473/hls/playlist.m3u8?ads.xumo_c
 
 
 
-===================INFANTIL PORTUGUÊS==============
+=======================INFANTIL PORTUGUÊS=======================
 #EXTINF:-1 tvg-id="nickonline.br" tvg-logo="https://i.imgur.com/2hYAFxG.png" group-title="Infantil | Português",NickOnline
 https://x1co.com.br/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QyAPwBx.png" group-title="Infantil | Português", Toon Googles TG Brasil
@@ -736,7 +736,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5442
 
 
 
-==================INFANTIL ESPANHOL===============
+=======================INFANTIL ESPANHOL=======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTff37d.png" group-title="Infantil | Espanhol", Big Buck Bunny
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1268
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-6041643175c115002dc51259" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Toon-Goggles-en-Espanol_logo_dark.png" group-title="Infantil | Espanhol", Toon Googles em Español 1
@@ -750,7 +750,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=658
 
 
 
-=================INFANTIL INGLÊS=================
+=======================INFANTIL INGLÊS=======================
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/OsYajEP.png" group-title="Infantil | Inglês", Adventures of Sonic The Hedgehog
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2365
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png" group-title="Infantil | Inglês", Cartoon TV Classics
@@ -809,7 +809,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951443/hls/8-9-6767.m3u8?ads.xumo_c
 
 
 
-=================ESPORTES GERAL===============
+=======================ESPORTES GERAL=======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes | Geral", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes | Geral", Red Bull TV | Reino Unido
@@ -939,7 +939,7 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_ch
 
 
 
-=================ESPORTES AUTOMOBILISMO==================
+=======================ESPORTES AUTOMOBILISMO=======================
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323" tvg-logo="https://i.imgur.com/8OgnSVV.png" group-title="Esportes | Automobilismo", NHRA Championship Drag Racing 1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=732
 #EXTINF:-1 tvg-id="NASCAR.Channel.us2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9iyxsyMDVBSKVz6ZEFvbyF6vf-VQFMRQwqVStcN5EjlIXtAV9bO-FI3U&s=10" group-title="Esportes | Automobilismo", NASCAR Channel | USA
@@ -982,7 +982,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951269/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951486/hls/playlist.m3u8?ads.xumo_channelId=99951486&ads.xumo_streamId=99951486&ads.channelId=99951486&ads.channelName=AEClassicCarAuctions_us&ads.caid=AEClassicCarAuctions&ads.csid=xumo_web_AEClassicCarAuctions_ssai&ads._fw_coppa=0&ads.xumo_contentId=4326&ads.xumo_contentName=AEClassicCarAuctions&ads.xumo_providerId=4326&ads.xumo_providerName=AEClassicCarAuctions&ads._fw_ifa_type=&ads._fw_did=fdd2606f-d78b-4f88-8888-15aff55fc890&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=XumoPlay
 
 
-================ESPORTES LUTAS=====================
+=======================ESPORTES LUTAS=======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="Esportes | Lutas", Grappling Network
 https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-logo="https://i.imgur.com/xxRq9Z3.png" group-title="Esportes | Lutas", Hard Knocks
@@ -1029,7 +1029,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951469/hls/playlist.m3u8?ads.xumo_c
 
 
 
-=============== MÚSICA | GERAL ================
+=======================MÚSICA | GERAL=======================
 #EXTINF:-1 tvg-id"Bollywood.HD.distro" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="Música | Geral", Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id"Bollywood.Classic.distro" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-classic/logo_20231219_184825_52.png" group-title="Música | Geral", Bollywood Classic HD
@@ -1266,7 +1266,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-EDGY-URBAN-ENG_yupptv/v1/master/611
 
 
 
-===========MÚSICA | INSTRUMENTAL ==============
+=======================MÚSICA | INSTRUMENTAL=======================
 #EXTINF:-1 tvg-id="DEAH3904006A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/37/DEAH3904006A_20210609T004634.png" group-title="Música | Instrumental", Entspannungsmusik | Alemanha
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8
 #EXTINF:-1 tvg-id="ATAJ0500413A" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/ATAJ0500413A_20210609T004625.png" group-title="Música | Instrumental", Entspannungsmusik | Áustria
@@ -1295,7 +1295,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5301
 
 
 
-================CULINÁRIA INGLÊS=================
+=======================CULINÁRIA INGLÊS=======================
 #EXTINF:-1 tvg-id="83408" tvg-logo="https://i.imgur.com/btOMdTq.png" group-title="Culinária | Inglês", Gusto TV | DistroTV
 https://gusto-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cooking.Panda.distro" tvg-logo="https://i.imgur.com/F09qSdk.png" group-title="Culinária | Inglês", Cooking Panda
@@ -1356,7 +1356,7 @@ https://cdn-tiva-video01-logicahost-com-br.smartbit.co/bemmelhor/bemmelhor/playl
 
 
 
-=================HUMOR INGLES==================
+=======================HUMOR INGLES=======================
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="Humor | Inglês", AFV Family
 https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/mt/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="Humor | Inglês", Last Stream on The Left | Adult Swim
@@ -1429,7 +1429,7 @@ https://s9host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsGags/playlist.m3u8?ads.content_provider=just-for-laughs-gags&ads.device_model=&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.app_name=&ads.channel_corp=ComediHA%2024%20INC&ads.coppa=0&ads.app_store_url=&ads.content_title=EPG%20%20Just%20For%20Laughs%20Gags&ads.device_make=&ads.dnt=&ads.device_type=&ads.cust_devicename=&ads.content_genre=Comedy&ads.content_id=8B382916-6958-4C22-98BF-3F3CD781A4A9&ads.cust_channeltype=channel&ads.ifa_type=&ads.channel_company_id=AMDP500554&ads.channel_ext_id=62aa50060046b653e82db779&ads.us_privacy=1YNY&ads.wurl_name=JustForLaughsGags&ads.channel_brand_id=AMDB013559&ads.wurl_channel=1191&ads.app_bundle=&ads.ip=185.217.168.164&ads.did=&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&width=1920&app_version=0.0.0&device_devicetype=desktop_web&height=1080
 
 
-=================VARIEDADES BRASIL==============
+=======================VARIEDADES BRASIL=======================
 #EXTINF:-1 tvg-id="PlayTV.br" tvg-name="PlayTV HD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Variedades | Brasil",PlayTV HD
 https://isaocorp.cloudecast.com/playtvweb/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Canal_Loading.png" group-title="Variedades | Brasil",Loading (Não oficial)
@@ -1458,7 +1458,7 @@ https://video01.brascast.com/rede8652/rede8652/playlist.m3u8
 https://cdn-tiva-video03-logicahost-com-br.smartbit.co/dmkidstv/dmkidstv/playlist.m3u8
 
 
-=================VARIEDADES COREANO=============
+=======================VARIEDADES COREANO=======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QVwkACK.png" group-title="Variedades | Coreano", Arirang World TV | inglês e coreano
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JVBxUaB.png" group-title="Variedades | Coreano", Documentários | Coreia do Sul
@@ -1474,7 +1474,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=424
 
 
 
-================VARIEDADES ARABE===============
+=======================VARIEDADES ARABE=======================
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/UeGk71E.png" group-title="Variedades | Árabe", Ajyal TV | Palestina
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AlAlam.ir" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="Variedades | Árabe", Al Alam | Irã
@@ -1488,7 +1488,7 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 
 
 
-===============VARIEDADES FARSI================
+=======================VARIEDADES FARSI=======================
 #EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.imgur.com/0xttibX.png" group-title="Variedades | Farsi", Persiana HD
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Variedades | Farsi", Persiana Cinema
@@ -1508,7 +1508,7 @@ https://onehls.persiana.live/hls/stream.m3u8
 
 
 
-===============VARIEDADES FRANCÊS===============
+=======================VARIEDADES FRANCÊS=======================
 #EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Variedades | Francês", BX1 | Bélgica | 1
 https://59959724487e3.streamlock.net/stream/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Variedades | Francês", BX1 | Bélgica | 2
@@ -1521,7 +1521,7 @@ https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist.m3
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 
 
-===============VARIEDADES ESPANHOL===============
+=======================VARIEDADES ESPANHOL=======================
 #EXTINF:-1 tvg-id="247.uy" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Variedades | Espanhol", 247 - Uruguay
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 tvg-id="Aragon.ar" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/ARAGON" group-title="Variedades | Espanhol", Aragon TV Internacional - Espanha
@@ -1545,7 +1545,7 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
 
 
-==============VARIEDADES INGLÊS==============
+=======================VARIEDADES INGLÊS=======================
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-logo="https://i.imgur.com/LKuVKdy.png" group-title="Variedades | Inglês", 30aTV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=587
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-logo="https://i.imgur.com/LKuVKdy.png" group-title="Variedades | Inglês", 30aTV | EUA
@@ -1598,7 +1598,7 @@ https://amg01540-amg01540c2-localnow-us-4017.playouts.now.amagi.tv/playlist/amg0
 
 
 
-===============LIFESTYLE REALITY==============
+=======================LIFESTYLE REALITY=======================
 #EXTINF:-1 tvg-id="INBA49000291X" tvg-logo="https://i.imgur.com/QxLgGDB.png?1" group-title="Lifestyle | Reality", Don't Tell The Bride | Pluto TV Reino Unido
 https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gzVR6uv.png" group-title="Lifestyle | Reality", Fun Roads TV
@@ -1671,7 +1671,7 @@ https://live-content.xumo.com/4375/content/XM0APQI80YR7ML/28688895/master.m3u8
 
 
 
-===============LIFESTYLE GAME SHOW=============
+=======================LIFESTYLE GAME SHOW=======================
 #EXTINF:-1 tvg-id="99991639" tvg-name="Xumo Free Game Show TV" tvg-logo="https://image.xumo.com/v1/channels/channel/99991639/168x168.png?type=color_onBlack" group-title="Lifestyle | Game Shows",Xumo Free Game Show TV
 https://live-content.xumo.com/2487/content/XM0HOY25BK78FX/23316691/master.m3u8
 #EXTINF:-1 tvg-id="99951125" tvg-name="The Price is Right: The Barker Era" tvg-logo="https://image.xumo.com/v1/channels/channel/99951125/168x168.png?type=color_onBlack" group-title="Lifestyle | Game Shows",The Price is Right: The Barker Era
@@ -1702,7 +1702,7 @@ https://s7host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 
 
 
-==============LIFESTYLE GERAL===============
+=======================LIFESTYLE GERAL=======================
 #EXTINF:-1 tvg-name="NBC LX Home" tvg-id="LN_15F7FB08-92A3-4376-9096-28697AC18E2F" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/15F7FB08-92A3-4376-9096-28697AC18E2F/3-1x1.png" group-title="Lifestyle | Geral",NBC LX Home
 https://s8host2.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config10/playlist.m3u8?ads.cdnhost=s8host2.localnow.api.cms.amdvids.com&ads.playbackid=15F7FB08-92A3-4376-9096-28697AC18E2F&ads.n1=rule_id&ads.v1=F0F2D67E-43F6-4794-9B68-414843159DD7-1747755763&ads.n3=qp_content_id&ads.v3=15F7FB08-92A3-4376-9096-28697AC18E2F&ads.n4=content_name&ads.v4=NBC%20LX%20Home&ads.n21=device_type&ads.v21=&ads.n22=pos&ads.v22=midroll&ads.n23=h&ads.v23=1080&ads.n24=content_custom_1_param&ads.v24=15F7FB08-92A3-4376-9096-28697AC18E2F&ads.n25=ua&ads.v25=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n26=ip&ads.v26=185.217.168.164&ads.n27=app_store_url&ads.v27=&ads.n28=network_name&ads.v28=nbc-lx-home&ads.n29=channel_rating&ads.v29=TV-PG&ads.n30=app_version&ads.v30=0.0.0&ads.n31=channel_language&ads.v31=en&ads.n32=channel_company_id&ads.v32=AMDP500448&ads.n33=url&ads.v33=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n34=gpp&ads.v34=&ads.n35=channel_ext_id&ads.v35=&ads.n36=w&ads.v36=1920&ads.n37=content_provider&ads.v37=nbc-lx-home&ads.n38=channel_brand_id&ads.v38=AMDB013260&ads.n39=cust_devicename&ads.v39=desktop_web&ads.n40=content_type&ads.v40=channel&ads.n41=content_producer_name&ads.v41=NBCUniversal&ads.n42=content_custom_3_param&ads.v42=channel&ads.n43=content_livestream&ads.v43=1&ads.n44=dnt&ads.v44=&ads.n45=channel_corp&ads.v45=NBCUniversal&ads.n46=app_bundle&ads.v46=&ads.n47=content_custom_2_param&ads.v47=AMDB013260&ads.n48=device_make&ads.v48=&ads.n49=us_privacy&ads.v49=1YNY&ads.n50=ifa_type&ads.v50=&ads.n51=channel_title&ads.v51=NBC%20LX%20Home&ads.n52=channel_name&ads.v52=NBC%20LX%20Home&ads.n53=did&ads.v53=&ads.n54=channel_genre&ads.v54=Lifestyle&ads.n55=channel_id&ads.v55=15F7FB08-92A3-4376-9096-28697AC18E2F&ads.n56=app_name&ads.v56=&ads.n57=device_model&ads.v57=&ads.n58=gpp_sid&ads.v58=
 #EXTINF:-1 tvg-name="Gusto TV" tvg-id="LN_1C9943C5-A055-4CEB-9ED4-A184056D102F" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/1C9943C5-A055-4CEB-9ED4-A184056D102F/3-1x1.png" group-title="Lifestyle | Geral",Gusto TV
@@ -1753,7 +1753,7 @@ https://live-content.xumo.com/4373/content/XM0PGMTU3EE24G/28523723/master.m3u8
 
 
 
-==============LIFESTYLE CRIME============
+=======================LIFESTYLE CRIME=======================
 #EXTINF:-1 tvg-id="Law.&amp;.Crime.distro" tvg-logo="https://i.imgur.com/3LBntt0.png" group-title="Lifestyle | Crime", Law & Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=970
 #EXTINF:-1 tvg-id="Law.&amp;.Crime.distro" tvg-logo="https://i.imgur.com/3LBntt0.png" group-title="Lifestyle | Crime", Law & Crime 2
@@ -1832,14 +1832,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951518/hls/master.m3u8?ads.xumo_cha
 https://d38d8jwr5u7ckx.cloudfront.net/v1/master/2235ea0b65a152869ea53a8429808cfe476767a6/test-xumo-linear-main-hlsv3-ams/playlist.m3u8?ads.xumo_channelId=99951485&ads._fw_ifa_type=&ads._fw_did=08fb2392-e40e-4b11-9b59-26952de7cc6a&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=AEDogtheBountyHunter&ads.csid=xumo_web_AEDogtheBountyHunter_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4324&ads.xumo_contentName=AEDogtheBountyHunter&ads.xumo_providerId=4324&ads.xumo_providerName=AEDogtheBountyHunter&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951485&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 
-=============TELEVENDAS PORTUGUÊS============
+=======================TELEVENDAS PORTUGUÊS=======================
 #EXTINF:-1 tvg-id="259" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Coletiva_tv_100x100-central.png" group-title="Televendas | Português",Coletiva TV
 https://cdn-tiva-video02-logicahost-com-br.smartbit.co/coletivatv/coletivatv/playlist.m3u8
 #EXTINF:-1 tvg-id="310" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_TV_Gazin_100x100_PNG_ihJObtR.png" group-title="Televendas | Português",TV Gazin
 https://cdn-tiva-video09-logicahost-com-br.smartbit.co/tvgazin/tvgazin/playlist.m3u8
 
 
-=============TELEVENDAS INGLÊS============
+=======================TELEVENDAS INGLÊS=======================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V7Mor8b.png" group-title="Televendas | Inglês", The Beach Show | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1504
 #EXTINF:-1 tvg-id="TJC.uk" tvg-logo="https://i.imgur.com/ekb8ZWb.png" group-title="Televendas | Inglês", TJC | Reino Unido
@@ -1851,7 +1851,7 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master_TVSN.m3u
 
 
 
-=============OUTROS AMBIENT===============
+=======================OUTROS AMBIENT=======================
 #EXTINF:-1 tvg-id="681ba2ad93d3d19bcab47433" tvg-logo="" group-title="Outros | Ambient",Nature Time | Brasil
 https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/0E9A921A-45E2-4A6A-A1A8-42CB3366A9A5/3-1x1.png/200?webp=1" group-title="Outros | Ambient", Local Now Stories
@@ -1969,7 +1969,7 @@ https://cdn-tiva-video07-logicahost-com-br.smartbit.co/vamborachannel/vamboracha
 
 
 
-============ESTUDIO FM=============
+=======================ESTUDIO FM=======================
 #EXTINF:-1 tvg-id="Canal24.7" tvg-name="CLUBE FM 103.1" tvg-logo="https://i.imgur.com/NEW_CLUBEFM.png" group-title="ESTUDIO FM",CLUBE FM 103.1
 https://radioeclube.brasilstream.com.br/hls/radioeclube/index.m3u8?token=2767413960551095300
 #EXTINF:-1 tvg-id="Canal24.7" tvg-name="LUPA 1 FM" tvg-logo="https://i.imgur.com/NEW_LUPA1FM.png" group-title="ESTUDIO FM",LUPA 1 FM
