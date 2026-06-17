@@ -18,7 +18,8 @@ EPG_SOURCES = [
     "https://raw.githubusercontent.com/JulioCesarXY/EPG-Plex-Brazil/refs/heads/main/plex_epg_brasil.xml",
     "https://raw.githubusercontent.com/JulioCesarXY/gerador-de-epg/refs/heads/main/yeeaahtv_epg.xml",
     "https://pastebin.com/raw/PkLp1BhD",
-"https://raw.githubusercontent.com/JulioCesarXY/gerador-de-epg/refs/heads/main/epg_canal_vazio.xml"
+"https://raw.githubusercontent.com/JulioCesarXY/gerador-de-epg/refs/heads/main/epg_canal_vazio.xml",
+    "https://raw.githubusercontent.com/JulioCesarXY/gerador-de-epg/refs/heads/main/latinasat_epg.xml"
 
 ]
 
