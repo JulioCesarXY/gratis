@@ -23,8 +23,8 @@ jobs:
 
       - name: Commit e Push das alterações
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+          git config --local user.name "JulioCesarXY"
           
           # Adiciona o arquivo específico dentro da pasta
           git add epg/epg_kpoptvbr.xml
