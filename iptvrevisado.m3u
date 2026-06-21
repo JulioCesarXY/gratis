@@ -58,6 +58,10 @@ https://v2.cloudecast.com/redengt/index.fmp4.m3u8
 https://cdn-tiva-maystreaming-cloudecast-com.smartbit.co/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGOTIPO-TVIN-100X100_copiar_rBlYpfD.png" group-title="Abertos",TV IN
 https://live.tvinterior.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="171" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Globo100x100.png" group-title="Religiosos | Cristianismo",Tv Aurora
+https://stream.redeaurora.com.br/public/index.m3u8
+
+
 
 
 
@@ -538,8 +542,10 @@ https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
 https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8
 #EXTINF:-1 tvg-id="256" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Logo_100x100px_TMYs8Kw.png" group-title="Religiosos | Cristianismo",TV SBN
 https://acesso.ecast.site:3500/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="171" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/Globo100x100.png" group-title="Religiosos | Cristianismo",Tv Aurora
-https://tv.redeaurora.com.br/public/Index.m3u8
+
+
+
+
 
 =======================RELIGIOSO ISLAMISMO=======================
 #EXTINF:-1 tvg-id="Canal24.7" tvg-logo="https://i.imgur.com/sku0M2y.png" group-title="Religiosos | Islamismo", MTA1 World
