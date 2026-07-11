@@ -102,22 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260711090000 +0000" stop="20260711093000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260711093000 +0000" stop="20260711100000 +0000" channel="95227">
-    <title lang="pt">Inheritors</title>
-    <desc lang="pt">Herdeiros é um produto multimídia da CGTN que ilumina o rico Patrimônio Cultural Imaterial da China. Cada edição de TV de 30 minutos é apresentada por um expatriado de longa data na China que possui uma compreensão única da cultura do país. Ele ou ela apresentará aos espectadores pessoas que estão dedicando suas vidas à sua proteção, herança, inovação, desenvolvimento e promoção.</desc>
-  </programme>
-  <programme start="20260711100000 +0000" stop="20260711101500 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260711101500 +0000" stop="20260711110000 +0000" channel="95227">
-    <title lang="pt">Africa Live</title>
-    <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
-  </programme>
   <programme start="20260711110000 +0000" stop="20260711113000 +0000" channel="95227">
     <title lang="pt">Asia Today</title>
     <desc lang="pt">Asia Today destaca as últimas notícias e desenvolvimentos sociais em toda a Ásia. Correspondentes em mais de uma dúzia de países relatam as principais notícias da região à medida que acontecem.</desc>
@@ -289,21 +273,25 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
     <title lang="pt">The World Today</title>
     <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
   </programme>
+  <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="95227">
+    <title lang="pt">Faces of Africa</title>
+    <desc lang="pt">Faces of Africa é uma revista temática que mostra a diversidade do continente.</desc>
+  </programme>
+  <programme start="20260712100000 +0000" stop="20260712101500 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260712101500 +0000" stop="20260712110000 +0000" channel="95227">
+    <title lang="pt">Africa Live</title>
+    <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
+  </programme>
+  <programme start="20260712110000 +0000" stop="20260712120000 +0000" channel="95227">
+    <title lang="pt">Zoom in</title>
+    <desc lang="pt">Um programa de revista de notícias de TV repleto das principais notícias de todo o mundo. O programa semanal amplia os detalhes das notícias em alta e diminui o zoom para dar aos espectadores uma visão geral. Com análise aprofundada e perspectiva atual, o Zoom in leva você a uma jornada além das manchetes diárias.</desc>
+  </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260711082500 +0000" stop="20260711100000 +0000" channel="95226">
-    <title lang="pt">TV Drama</title>
-    <desc lang="pt">Drama de televisão produzido na China</desc>
-  </programme>
-  <programme start="20260711100000 +0000" stop="20260711103000 +0000" channel="95226">
-    <title lang="pt">Memory of China</title>
-    <desc lang="pt">Memória da China é o primeiro programa de história da China, o programa de TV revela segredos de eventos históricos importantes, megaprojetos e as histórias não contadas por trás dessas decisões cruciais deste país.</desc>
-  </programme>
-  <programme start="20260711103000 +0000" stop="20260711110000 +0000" channel="95226">
-    <title lang="pt">China Showbiz</title>
-    <desc lang="pt">O China Showbiz reúne uma ampla gama de maravilhosos trabalhos artísticos de TV e direciona os espectadores para um fabuloso mundo das artes através da apreciação e revisão de obras.</desc>
-  </programme>
   <programme start="20260711110000 +0000" stop="20260711113000 +0000" channel="95226">
     <title lang="pt">China News</title>
     <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
@@ -432,20 +420,20 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
     <title lang="pt">TV Drama</title>
     <desc lang="pt">Drama de televisão produzido na China</desc>
   </programme>
+  <programme start="20260712100000 +0000" stop="20260712110000 +0000" channel="95226">
+    <title lang="pt">China Showbiz</title>
+    <desc lang="pt">O China Showbiz reúne uma ampla gama de maravilhosos trabalhos artísticos de TV e direciona os espectadores para um fabuloso mundo das artes através da apreciação e revisão de obras.</desc>
+  </programme>
+  <programme start="20260712110000 +0000" stop="20260712113000 +0000" channel="95226">
+    <title lang="pt">China News</title>
+    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
+  </programme>
   <channel id="83824">
     <display-name>Canal 83824</display-name>
   </channel>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260711090000 +0000" stop="20260711093000 +0000" channel="95229">
-    <title lang="pt">CGTN NOTICIAS</title>
-    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
-  </programme>
-  <programme start="20260711093000 +0000" stop="20260711100000 +0000" channel="95229">
-    <title lang="pt">DOCUMENTAL</title>
-    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
-  </programme>
   <programme start="20260711100000 +0000" stop="20260711113000 +0000" channel="95229">
     <title lang="pt">EL PROYECTOR</title>
     <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
@@ -456,7 +444,7 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
   </programme>
   <programme start="20260711114500 +0000" stop="20260711120000 +0000" channel="95229">
     <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="95229">
     <title lang="pt">DOCUMENTAL</title>
@@ -500,7 +488,7 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
   </programme>
   <programme start="20260711174500 +0000" stop="20260711180000 +0000" channel="95229">
     <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260711180000 +0000" stop="20260711183000 +0000" channel="95229">
     <title lang="pt">DOCUMENTAL</title>
@@ -520,7 +508,7 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
   </programme>
   <programme start="20260711194500 +0000" stop="20260711200000 +0000" channel="95229">
     <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260711200000 +0000" stop="20260711203000 +0000" channel="95229">
     <title lang="pt">RONDA ARTÍSTICA</title>
@@ -550,7 +538,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260711234500 +0000" stop="20260712000000 +0000" channel="95229">
     <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260712000000 +0000" stop="20260712003000 +0000" channel="95229">
     <title lang="pt">DOCUMENTAL</title>
@@ -596,7 +584,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260712054500 +0000" stop="20260712060000 +0000" channel="95229">
     <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260712060000 +0000" stop="20260712063000 +0000" channel="95229">
     <title lang="pt">DOCUMENTAL</title>
@@ -627,6 +615,14 @@ questões sociais e culturais atuais na China.</desc>
   <programme start="20260712090000 +0000" stop="20260712093000 +0000" channel="95229">
     <title lang="pt">CGTN NOTICIAS</title>
     <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
+  </programme>
+  <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="95229">
+    <title lang="pt">DOCUMENTAL</title>
+    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
+  </programme>
+  <programme start="20260712100000 +0000" stop="20260712113000 +0000" channel="95229">
+    <title lang="pt">EL PROYECTOR</title>
+    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
   </programme>
   <channel id="45144">
     <display-name>Canal 45144</display-name>
