@@ -102,18 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="95227">
-    <title lang="pt">Faces of Africa</title>
-    <desc lang="pt">Faces of Africa é uma revista temática que mostra a diversidade do continente.</desc>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712101500 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260712101500 +0000" stop="20260712110000 +0000" channel="95227">
-    <title lang="pt">Africa Live</title>
-    <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
-  </programme>
   <programme start="20260712110000 +0000" stop="20260712120000 +0000" channel="95227">
     <title lang="pt">Zoom in</title>
     <desc lang="pt">Um programa de revista de notícias de TV repleto das principais notícias de todo o mundo. O programa semanal amplia os detalhes das notícias em alta e diminui o zoom para dar aos espectadores uma visão geral. Com análise aprofundada e perspectiva atual, o Zoom in leva você a uma jornada além das manchetes diárias.</desc>
@@ -295,17 +283,21 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
     <title lang="pt">The Vibe</title>
     <desc lang="pt">The Vibe é um programa de TV de 30 minutos que passa diariamente durante a semana na CGTN. O conteúdo se concentra em novas tendências, moda e tópicos culturais em uma variedade de disciplinas, tanto na China quanto no exterior. O apresentador apresenta vários tópicos relacionados à cultura de uma forma divertida, ao mesmo tempo que faz análises aprofundadas para dar aos espectadores uma imagem mais completa do que está acontecendo e por que isso é importante.</desc>
   </programme>
+  <programme start="20260713100000 +0000" stop="20260713101500 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260713101500 +0000" stop="20260713110000 +0000" channel="95227">
+    <title lang="pt">Africa Live</title>
+    <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
+  </programme>
+  <programme start="20260713110000 +0000" stop="20260713113000 +0000" channel="95227">
+    <title lang="pt">Asia Today</title>
+    <desc lang="pt">Asia Today destaca as últimas notícias e desenvolvimentos sociais em toda a Ásia. Correspondentes em mais de uma dúzia de países relatam as principais notícias da região à medida que acontecem.</desc>
+  </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260712083000 +0000" stop="20260712100000 +0000" channel="95226">
-    <title lang="pt">TV Drama</title>
-    <desc lang="pt">Drama de televisão produzido na China</desc>
-  </programme>
-  <programme start="20260712100000 +0000" stop="20260712110000 +0000" channel="95226">
-    <title lang="pt">China Showbiz</title>
-    <desc lang="pt">O China Showbiz reúne uma ampla gama de maravilhosos trabalhos artísticos de TV e direciona os espectadores para um fabuloso mundo das artes através da apreciação e revisão de obras.</desc>
-  </programme>
   <programme start="20260712110000 +0000" stop="20260712113000 +0000" channel="95226">
     <title lang="pt">China News</title>
     <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
@@ -438,16 +430,28 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
     <title lang="pt">TV Drama</title>
     <desc lang="pt">Drama de televisão produzido na China</desc>
   </programme>
+  <programme start="20260713100000 +0000" stop="20260713103000 +0000" channel="95226">
+    <title lang="pt">China News</title>
+    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
+  </programme>
+  <programme start="20260713103000 +0000" stop="20260713104500 +0000" channel="95226">
+    <title lang="pt">Dreamchaser</title>
+    <desc lang="pt">Documentário sobre a carreira de pessoas comuns</desc>
+  </programme>
+  <programme start="20260713104500 +0000" stop="20260713110000 +0000" channel="95226">
+    <title lang="pt">Nostalgia</title>
+    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+  </programme>
+  <programme start="20260713110000 +0000" stop="20260713113000 +0000" channel="95226">
+    <title lang="pt">China News</title>
+    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
+  </programme>
   <channel id="83824">
     <display-name>Canal 83824</display-name>
   </channel>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260712093000 +0000" stop="20260712100000 +0000" channel="95229">
-    <title lang="pt">DOCUMENTAL</title>
-    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
-  </programme>
   <programme start="20260712100000 +0000" stop="20260712113000 +0000" channel="95229">
     <title lang="pt">EL PROYECTOR</title>
     <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
@@ -631,6 +635,10 @@ questões sociais e culturais atuais na China.</desc>
   <programme start="20260713093000 +0000" stop="20260713100000 +0000" channel="95229">
     <title lang="pt">DOCUMENTAL</title>
     <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
+  </programme>
+  <programme start="20260713100000 +0000" stop="20260713113000 +0000" channel="95229">
+    <title lang="pt">EL PROYECTOR</title>
+    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
   </programme>
   <channel id="45144">
     <display-name>Canal 45144</display-name>
