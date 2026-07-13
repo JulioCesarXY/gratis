@@ -102,18 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260713190000 +0000" stop="20260713193000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260713193000 +0000" stop="20260713200000 +0000" channel="95227">
-    <title lang="pt">World Insight with Tian Wei</title>
-    <desc lang="pt">World Insight com Tian Wei é uma plataforma internacional de longa data para debate e discussão inteligente.</desc>
-  </programme>
-  <programme start="20260713200000 +0000" stop="20260713203000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
   <programme start="20260713203000 +0000" stop="20260713210000 +0000" channel="95227">
     <title lang="pt">Dialogue </title>
     <desc lang="pt">É um talk show diário em inglês no horário nobre da CGTN.</desc>
@@ -286,17 +274,21 @@
     <title lang="pt">The World Today</title>
     <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
   </programme>
+  <programme start="20260714193000 +0000" stop="20260714200000 +0000" channel="95227">
+    <title lang="pt">World Insight with Tian Wei</title>
+    <desc lang="pt">World Insight com Tian Wei é uma plataforma internacional de longa data para debate e discussão inteligente.</desc>
+  </programme>
+  <programme start="20260714200000 +0000" stop="20260714203000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260714203000 +0000" stop="20260714210000 +0000" channel="95227">
+    <title lang="pt">Dialogue </title>
+    <desc lang="pt">É um talk show diário em inglês no horário nobre da CGTN.</desc>
+  </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260713183000 +0000" stop="20260713200000 +0000" channel="95226">
-    <title lang="pt">TV Drama</title>
-    <desc lang="pt">Drama de televisão produzido na China</desc>
-  </programme>
-  <programme start="20260713200000 +0000" stop="20260713203000 +0000" channel="95226">
-    <title lang="pt">China News</title>
-    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
-  </programme>
   <programme start="20260713203000 +0000" stop="20260713210000 +0000" channel="95226">
     <title lang="pt">Focus Today</title>
     <desc lang="pt">Rastreia os assuntos atuais da China e do exterior, artes/cultura</desc>
@@ -441,24 +433,20 @@
     <title lang="pt">TV Drama</title>
     <desc lang="pt">Drama de televisão produzido na China</desc>
   </programme>
+  <programme start="20260714200000 +0000" stop="20260714203000 +0000" channel="95226">
+    <title lang="pt">China News</title>
+    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
+  </programme>
+  <programme start="20260714203000 +0000" stop="20260714210000 +0000" channel="95226">
+    <title lang="pt">Focus Today</title>
+    <desc lang="pt">Rastreia os assuntos atuais da China e do exterior, artes/cultura</desc>
+  </programme>
   <channel id="83824">
     <display-name>Canal 83824</display-name>
   </channel>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260713190000 +0000" stop="20260713193000 +0000" channel="95229">
-    <title lang="pt">CGTN NOTICIAS</title>
-    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
-  </programme>
-  <programme start="20260713193000 +0000" stop="20260713200000 +0000" channel="95229">
-    <title lang="pt">PRISMA</title>
-    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos telespectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
-  </programme>
-  <programme start="20260713200000 +0000" stop="20260713203000 +0000" channel="95229">
-    <title lang="pt">RONDA ARTÍSTICA</title>
-    <desc lang="pt">A diversidade de canções e danças, óperas locais tradicionais, música e artes folclóricas da China são apresentadas.</desc>
-  </programme>
   <programme start="20260713203000 +0000" stop="20260713210000 +0000" channel="95229">
     <title lang="pt">AMÉRICA AHORA</title>
     <desc lang="pt">É um programa novo do canal, noticiário estilo revista, transmitido uma vez por semana. Aqui oferecemos relatórios e análises aprofundados sobre os temas mais debatidos e atuais na região americana, e especialmente na América Latina.</desc>
@@ -626,6 +614,22 @@
   <programme start="20260714190000 +0000" stop="20260714193000 +0000" channel="95229">
     <title lang="pt">CGTN NOTICIAS</title>
     <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
+  </programme>
+  <programme start="20260714193000 +0000" stop="20260714194500 +0000" channel="95229">
+    <title lang="pt">SABOREANDO CHINA</title>
+    <desc lang="pt">Aprenda a preparar as receitas chinesas mais populares. Nosso chef irá revelar de forma prática os segredos da arte culinária desta nação asiática. Conheça os ingredientes mais utilizados na variada gastronomia regional, a origem dos pratos e até os seus benefícios para a saúde. Em Da China para a sua cozinha, o espectador poderá vivenciar tanto a riqueza tradicional quanto a variedade gastronômica da China.</desc>
+  </programme>
+  <programme start="20260714194500 +0000" stop="20260714200000 +0000" channel="95229">
+    <title lang="pt">NIHAO CHINA</title>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
+  </programme>
+  <programme start="20260714200000 +0000" stop="20260714203000 +0000" channel="95229">
+    <title lang="pt">RONDA ARTÍSTICA</title>
+    <desc lang="pt">A diversidade de canções e danças, óperas locais tradicionais, música e artes folclóricas da China são apresentadas.</desc>
+  </programme>
+  <programme start="20260714203000 +0000" stop="20260714210000 +0000" channel="95229">
+    <title lang="pt">DIARIOS DE VIAJE</title>
+    <desc lang="pt">É um espaço que mostra ao espectador a grande diversidade que existe na China através de viagens divertidas e cativantes pelo país. Nos Diários de Viagem nossos telespectadores encontrarão belas paisagens e destinos de incalculável valor histórico, turístico e cultural. Modernidade e tradição, presente e passado unem-se num único programa.</desc>
   </programme>
   <channel id="45144">
     <display-name>Canal 45144</display-name>
