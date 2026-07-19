@@ -102,24 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260719163000 +0000" stop="20260719170000 +0000" channel="95227">
-    <title lang="pt">Razor</title>
-    <desc lang="pt">A nova feira de ciência e tecnologia da CGTN, cobrindo desenvolvimentos de ponta de todo o mundo. RAZOR mostrará o laser mais poderoso do mundo e o menor tratamento anticâncer do mundo. Ele o levará do estranho mundo da computação quântica até os limites do cosmos. 
-Uma equipe internacional de repórteres seguirá a orientação da Navalha de Occam – o princípio de que a explicação mais simples é a melhor. RAZOR vai mostrar que já estamos “vivendo no futuro”!</desc>
-  </programme>
-  <programme start="20260719170000 +0000" stop="20260719173000 +0000" channel="95227">
-    <title lang="pt">Africa Live</title>
-    <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
-  </programme>
-  <programme start="20260719173000 +0000" stop="20260719180000 +0000" channel="95227">
-    <title lang="pt">Faces of Africa</title>
-    <desc lang="pt">Faces of Africa é uma revista temática que mostra a diversidade do continente.</desc>
-  </programme>
-  <programme start="20260719180000 +0000" stop="20260719183000 +0000" channel="95227">
-    <title lang="pt">Razor</title>
-    <desc lang="pt">A nova feira de ciência e tecnologia da CGTN, cobrindo desenvolvimentos de ponta de todo o mundo. RAZOR mostrará o laser mais poderoso do mundo e o menor tratamento anticâncer do mundo. Ele o levará do estranho mundo da computação quântica até os limites do cosmos. 
-Uma equipe internacional de repórteres seguirá a orientação da Navalha de Occam – o princípio de que a explicação mais simples é a melhor. RAZOR vai mostrar que já estamos “vivendo no futuro”!</desc>
-  </programme>
   <programme start="20260719183000 +0000" stop="20260719190000 +0000" channel="95227">
     <title lang="pt">Talk Africa</title>
     <desc lang="pt">Talk Africa é um programa de discussão semanal que traz ao mundo as vozes mais influentes de África.</desc>
@@ -298,21 +280,17 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
     <title lang="pt">Global Business</title>
     <desc lang="pt">Global Business é o principal programa de negócios do CGTN English Channel, trazendo a você os mais recentes dados econômicos, tendências de negócios e políticas.</desc>
   </programme>
+  <programme start="20260720170000 +0000" stop="20260720180000 +0000" channel="95227">
+    <title lang="pt">Africa Live</title>
+    <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
+  </programme>
+  <programme start="20260720180000 +0000" stop="20260720190000 +0000" channel="95227">
+    <title lang="pt">Global Business</title>
+    <desc lang="pt">Global Business é o principal programa de negócios do CGTN English Channel, trazendo a você os mais recentes dados econômicos, tendências de negócios e políticas.</desc>
+  </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260719163000 +0000" stop="20260719174700 +0000" channel="95226">
-    <title lang="pt">A Way to be a Super Star</title>
-    <desc lang="pt">Um show de talentos musicais públicos</desc>
-  </programme>
-  <programme start="20260719174700 +0000" stop="20260719180000 +0000" channel="95226">
-    <title lang="pt">Nostalgia</title>
-    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
-  </programme>
-  <programme start="20260719180000 +0000" stop="20260719183000 +0000" channel="95226">
-    <title lang="pt">Chinese Story</title>
-    <desc lang="pt">"História Chinesa" é um programa de 30 minutos para promover chineses no exterior. O programa registra as lutas de destacados chineses no exterior e conta suas maravilhosas histórias de vida.</desc>
-  </programme>
   <programme start="20260719183000 +0000" stop="20260719200000 +0000" channel="95226">
     <title lang="pt">TV Drama</title>
     <desc lang="pt">Drama de televisão produzido na China</desc>
@@ -445,28 +423,28 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
     <title lang="pt">Voice</title>
     <desc lang="pt">O Voice tem como objetivo compartilhar as histórias de suas próprias celebridades e fertilizar a juventude chinesa tanto prática quanto mentalmente.</desc>
   </programme>
+  <programme start="20260720171500 +0000" stop="20260720174500 +0000" channel="95226">
+    <title lang="pt">China Showbiz</title>
+    <desc lang="pt">O China Showbiz reúne uma ampla gama de maravilhosos trabalhos artísticos de TV e direciona os espectadores para um fabuloso mundo das artes através da apreciação e revisão de obras.</desc>
+  </programme>
+  <programme start="20260720174500 +0000" stop="20260720182000 +0000" channel="95226">
+    <title lang="pt">Discoveries</title>
+    <desc lang="pt">Seguindo o rasto dos nossos antepassados ​​para identificar e interpretar mistérios e implicações culturais contidas nas geografias físicas e humanas, os Descobrimentos com uma atitude baseada na ciência centra-se nas descobertas históricas, geográficas e culturais na China na sua introdução às fabulosas heranças culturais da nação chinesa.</desc>
+  </programme>
+  <programme start="20260720182000 +0000" stop="20260720183000 +0000" channel="95226">
+    <title lang="pt">Nostalgia</title>
+    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+  </programme>
+  <programme start="20260720183000 +0000" stop="20260720200000 +0000" channel="95226">
+    <title lang="pt">TV Drama</title>
+    <desc lang="pt">Drama de televisão produzido na China</desc>
+  </programme>
   <channel id="83824">
     <display-name>Canal 83824</display-name>
   </channel>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260719160000 +0000" stop="20260719173000 +0000" channel="95229">
-    <title lang="pt">EL PROYECTOR</title>
-    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
-  </programme>
-  <programme start="20260719173000 +0000" stop="20260719174500 +0000" channel="95229">
-    <title lang="pt">SABOREANDO CHINA</title>
-    <desc lang="pt">Aprenda a preparar as receitas chinesas mais populares. Nosso chef irá revelar de forma prática os segredos da arte culinária desta nação asiática. Conheça os ingredientes mais utilizados na variada gastronomia regional, a origem dos pratos e até os seus benefícios para a saúde. Em Da China para a sua cozinha, o espectador poderá vivenciar tanto a riqueza tradicional quanto a variedade gastronômica da China.</desc>
-  </programme>
-  <programme start="20260719174500 +0000" stop="20260719180000 +0000" channel="95229">
-    <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
-  </programme>
-  <programme start="20260719180000 +0000" stop="20260719183000 +0000" channel="95229">
-    <title lang="pt">DOCUMENTAL</title>
-    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
-  </programme>
   <programme start="20260719183000 +0000" stop="20260719190000 +0000" channel="95229">
     <title lang="pt">ASÍ ES CHINA</title>
     <desc lang="pt">Descubra para o espectador o grande legado cultural e histórico das diferentes regiões e etnias da China. Também aproxima você da vida e dos costumes do cidadão comum e mostra a evolução do país em aspectos como educação, sociedade e proteção do meio ambiente e do patrimônio histórico e natural.</desc>
@@ -638,6 +616,22 @@ questões sociais e culturais atuais na China.</desc>
   <programme start="20260720160000 +0000" stop="20260720173000 +0000" channel="95229">
     <title lang="pt">EL PROYECTOR</title>
     <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
+  </programme>
+  <programme start="20260720173000 +0000" stop="20260720174500 +0000" channel="95229">
+    <title lang="pt">SABOREANDO CHINA</title>
+    <desc lang="pt">Aprenda a preparar as receitas chinesas mais populares. Nosso chef irá revelar de forma prática os segredos da arte culinária desta nação asiática. Conheça os ingredientes mais utilizados na variada gastronomia regional, a origem dos pratos e até os seus benefícios para a saúde. Em Da China para a sua cozinha, o espectador poderá vivenciar tanto a riqueza tradicional quanto a variedade gastronômica da China.</desc>
+  </programme>
+  <programme start="20260720174500 +0000" stop="20260720180000 +0000" channel="95229">
+    <title lang="pt">NIHAO CHINA</title>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
+  </programme>
+  <programme start="20260720180000 +0000" stop="20260720183000 +0000" channel="95229">
+    <title lang="pt">DOCUMENTAL</title>
+    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
+  </programme>
+  <programme start="20260720183000 +0000" stop="20260720190000 +0000" channel="95229">
+    <title lang="pt">ASÍ ES CHINA</title>
+    <desc lang="pt">Descubra para o espectador o grande legado cultural e histórico das diferentes regiões e etnias da China. Também aproxima você da vida e dos costumes do cidadão comum e mostra a evolução do país em aspectos como educação, sociedade e proteção do meio ambiente e do patrimônio histórico e natural.</desc>
   </programme>
   <channel id="45144">
     <display-name>Canal 45144</display-name>
