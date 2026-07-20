@@ -102,39 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260720063000 +0000" stop="20260720070000 +0000" channel="95227">
-    <title lang="pt">Razor</title>
-    <desc lang="pt">A nova feira de ciência e tecnologia da CGTN, cobrindo desenvolvimentos de ponta de todo o mundo. RAZOR mostrará o laser mais poderoso do mundo e o menor tratamento anticâncer do mundo. Ele o levará do estranho mundo da computação quântica até os limites do cosmos. 
-Uma equipe internacional de repórteres seguirá a orientação da Navalha de Occam – o princípio de que a explicação mais simples é a melhor. RAZOR vai mostrar que já estamos “vivendo no futuro”!</desc>
-  </programme>
-  <programme start="20260720070000 +0000" stop="20260720073000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260720073000 +0000" stop="20260720080000 +0000" channel="95227">
-    <title lang="pt">Sports Scene</title>
-    <desc lang="pt">Sports Scene aproxima você de toda a ação de todos os cantos do mundo, com destaques da Europa, América do Norte e das principais ligas esportivas da China.</desc>
-  </programme>
-  <programme start="20260720080000 +0000" stop="20260720081500 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260720081500 +0000" stop="20260720090000 +0000" channel="95227">
-    <title lang="pt">Global Business</title>
-    <desc lang="pt">Global Business é o principal programa de negócios do CGTN English Channel, trazendo a você os mais recentes dados econômicos, tendências de negócios e políticas.</desc>
-  </programme>
-  <programme start="20260720090000 +0000" stop="20260720093000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260720093000 +0000" stop="20260720100000 +0000" channel="95227">
-    <title lang="pt">The Vibe</title>
-    <desc lang="pt">The Vibe é um programa de TV de 30 minutos que passa diariamente durante a semana na CGTN. O conteúdo se concentra em novas tendências, moda e tópicos culturais em uma variedade de disciplinas, tanto na China quanto no exterior. O apresentador apresenta vários tópicos relacionados à cultura de uma forma divertida, ao mesmo tempo que faz análises aprofundadas para dar aos espectadores uma imagem mais completa do que está acontecendo e por que isso é importante.</desc>
-  </programme>
-  <programme start="20260720100000 +0000" stop="20260720101500 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
   <programme start="20260720101500 +0000" stop="20260720110000 +0000" channel="95227">
     <title lang="pt">Africa Live</title>
     <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
@@ -225,7 +192,7 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260720230000 +0000" stop="20260720233000 +0000" channel="95227">
     <title lang="pt">The Heat</title>
-    <desc lang="pt">The Heat é um talk show diário ancorado em Washington, D.C. Ele se concentra nas principais notícias que geram notícias em todo o mundo.</desc>
+    <desc lang="pt">The Heat é um talk show diário ancorado em Washington, D.C. Ele se concentra nas principais notícias que são notícias em todo o mundo.</desc>
   </programme>
   <programme start="20260720233000 +0000" stop="20260721000000 +0000" channel="95227">
     <title lang="pt">The World Today</title>
@@ -285,34 +252,46 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260721063000 +0000" stop="20260721070000 +0000" channel="95227">
     <title lang="pt">The Heat</title>
-    <desc lang="pt">The Heat é um talk show diário ancorado em Washington, D.C. Ele se concentra nas principais notícias que geram notícias em todo o mundo.</desc>
+    <desc lang="pt">The Heat é um talk show diário ancorado em Washington, D.C. Ele se concentra nas principais notícias que são notícias em todo o mundo.</desc>
+  </programme>
+  <programme start="20260721070000 +0000" stop="20260721073000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260721073000 +0000" stop="20260721080000 +0000" channel="95227">
+    <title lang="pt">Sports Scene</title>
+    <desc lang="pt">Sports Scene aproxima você de toda a ação de todos os cantos do mundo, com destaques da Europa, América do Norte e das principais ligas esportivas da China.</desc>
+  </programme>
+  <programme start="20260721080000 +0000" stop="20260721081500 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260721081500 +0000" stop="20260721090000 +0000" channel="95227">
+    <title lang="pt">Global Business</title>
+    <desc lang="pt">Global Business é o principal programa de negócios do CGTN English Channel, trazendo a você os mais recentes dados econômicos, tendências de negócios e políticas.</desc>
+  </programme>
+  <programme start="20260721090000 +0000" stop="20260721093000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260721093000 +0000" stop="20260721100000 +0000" channel="95227">
+    <title lang="pt">The Vibe</title>
+    <desc lang="pt">The Vibe é um programa de TV de 30 minutos que passa diariamente durante a semana na CGTN. O conteúdo se concentra em novas tendências, moda e tópicos culturais em uma variedade de disciplinas, tanto na China quanto no exterior. O apresentador apresenta vários tópicos relacionados à cultura de uma forma divertida, ao mesmo tempo que faz análises aprofundadas para dar aos espectadores uma imagem mais completa do que está acontecendo e por que isso é importante.</desc>
+  </programme>
+  <programme start="20260721100000 +0000" stop="20260721101500 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260721101500 +0000" stop="20260721110000 +0000" channel="95227">
+    <title lang="pt">Africa Live</title>
+    <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
   </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260720063000 +0000" stop="20260720080000 +0000" channel="95226">
-    <title lang="pt">TV Drama</title>
-    <desc lang="pt">Drama de televisão produzido na China</desc>
-  </programme>
-  <programme start="20260720080000 +0000" stop="20260720083000 +0000" channel="95226">
-    <title lang="pt">Bond with China</title>
-    <desc lang="pt">“Bond with China”, produzido pelo China Media Group China Central Television International Channel, é um programa documental de comunicação intercultural em grande escala.</desc>
-  </programme>
-  <programme start="20260720083000 +0000" stop="20260720100000 +0000" channel="95226">
-    <title lang="pt">TV Drama</title>
-    <desc lang="pt">Drama de televisão produzido na China</desc>
-  </programme>
-  <programme start="20260720100000 +0000" stop="20260720103000 +0000" channel="95226">
-    <title lang="pt">China News</title>
-    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
-  </programme>
-  <programme start="20260720103000 +0000" stop="20260720104500 +0000" channel="95226">
-    <title lang="pt">Dreamchaser</title>
-    <desc lang="pt">Documentário sobre a carreira de pessoas comuns</desc>
-  </programme>
   <programme start="20260720104500 +0000" stop="20260720110000 +0000" channel="95226">
     <title lang="pt">Nostalgia</title>
-    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+    <desc lang="pt">A Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
   </programme>
   <programme start="20260720110000 +0000" stop="20260720113000 +0000" channel="95226">
     <title lang="pt">China News</title>
@@ -360,11 +339,11 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260720174500 +0000" stop="20260720182000 +0000" channel="95226">
     <title lang="pt">Discoveries</title>
-    <desc lang="pt">Seguindo o rasto dos nossos antepassados ​​para identificar e interpretar mistérios e implicações culturais contidos nas geografias físicas e humanas, os Descobrimentos com uma atitude baseada na ciência centra-se nas descobertas históricas, geográficas e culturais na China na sua introdução às fabulosas heranças culturais da nação chinesa.</desc>
+    <desc lang="pt">Seguindo o rasto dos nossos antepassados ​​para identificar e interpretar mistérios e implicações culturais contidas nas geografias físicas e humanas, os Descobrimentos com uma atitude baseada na ciência centra-se nas descobertas históricas, geográficas e culturais na China na sua introdução às fabulosas heranças culturais da nação chinesa.</desc>
   </programme>
   <programme start="20260720182000 +0000" stop="20260720183000 +0000" channel="95226">
     <title lang="pt">Nostalgia</title>
-    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+    <desc lang="pt">A Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
   </programme>
   <programme start="20260720183000 +0000" stop="20260720200000 +0000" channel="95226">
     <title lang="pt">TV Drama</title>
@@ -420,7 +399,7 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260721034500 +0000" stop="20260721040000 +0000" channel="95226">
     <title lang="pt">Nostalgia</title>
-    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+    <desc lang="pt">A Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
   </programme>
   <programme start="20260721040000 +0000" stop="20260721050000 +0000" channel="95226">
     <title lang="pt">China News</title>
@@ -438,42 +417,32 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
     <title lang="pt">TV Drama</title>
     <desc lang="pt">Drama de televisão produzido na China</desc>
   </programme>
+  <programme start="20260721073000 +0000" stop="20260721081500 +0000" channel="95226">
+    <title lang="pt">On the Way</title>
+    <desc lang="pt">Do ângulo visual de um viajante para mostrar a beleza da China e do mundo</desc>
+  </programme>
+  <programme start="20260721081500 +0000" stop="20260721082500 +0000" channel="95226">
+    <title lang="pt">Nostalgia</title>
+    <desc lang="pt">A Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+  </programme>
+  <programme start="20260721082500 +0000" stop="20260721100000 +0000" channel="95226">
+    <title lang="pt">TV Drama</title>
+    <desc lang="pt">Drama de televisão produzido na China</desc>
+  </programme>
+  <programme start="20260721100000 +0000" stop="20260721103000 +0000" channel="95226">
+    <title lang="pt">China News</title>
+    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
+  </programme>
+  <programme start="20260721103000 +0000" stop="20260721110000 +0000" channel="95226">
+    <title lang="pt">China Showbiz</title>
+    <desc lang="pt">O China Showbiz reúne uma ampla gama de maravilhosos trabalhos artísticos de TV e direciona os espectadores para um fabuloso mundo das artes através da apreciação e revisão de obras.</desc>
+  </programme>
   <channel id="83824">
     <display-name>Canal 83824</display-name>
   </channel>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260720063000 +0000" stop="20260720070000 +0000" channel="95229">
-    <title lang="pt">ASÍ ES CHINA</title>
-    <desc lang="pt">Descubra para o espectador o grande legado cultural e histórico das diferentes regiões e etnias da China. Também aproxima você da vida e dos costumes do cidadão comum e mostra a evolução do país em aspectos como educação, sociedade e proteção do meio ambiente e do patrimônio histórico e natural.</desc>
-  </programme>
-  <programme start="20260720070000 +0000" stop="20260720073000 +0000" channel="95229">
-    <title lang="pt">PRISMA</title>
-    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos telespectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
-  </programme>
-  <programme start="20260720073000 +0000" stop="20260720080000 +0000" channel="95229">
-    <title lang="pt">RONDA ARTÍSTICA</title>
-    <desc lang="pt">A diversidade de canções e danças, óperas locais tradicionais, música e artes folclóricas da China são apresentadas.</desc>
-  </programme>
-  <programme start="20260720080000 +0000" stop="20260720083000 +0000" channel="95229">
-    <title lang="pt">CGTN NOTICIAS</title>
-    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
-  </programme>
-  <programme start="20260720083000 +0000" stop="20260720090000 +0000" channel="95229">
-    <title lang="pt">CAFÉ DE CGTN</title>
-    <desc lang="pt">Neste espaço os colegas da família CGTN em espanhol
-Trocam opiniões e debatem casualmente questões económicas,
-questões sociais e culturais atuais na China.</desc>
-  </programme>
-  <programme start="20260720090000 +0000" stop="20260720093000 +0000" channel="95229">
-    <title lang="pt">CGTN NOTICIAS</title>
-    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
-  </programme>
-  <programme start="20260720093000 +0000" stop="20260720100000 +0000" channel="95229">
-    <title lang="pt">DOCUMENTAL</title>
-    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
-  </programme>
   <programme start="20260720100000 +0000" stop="20260720113000 +0000" channel="95229">
     <title lang="pt">EL PROYECTOR</title>
     <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
@@ -627,6 +596,34 @@ questões sociais e culturais atuais na China.</desc>
   <programme start="20260721063000 +0000" stop="20260721070000 +0000" channel="95229">
     <title lang="pt">ASÍ ES CHINA</title>
     <desc lang="pt">Descubra para o espectador o grande legado cultural e histórico das diferentes regiões e etnias da China. Também aproxima você da vida e dos costumes do cidadão comum e mostra a evolução do país em aspectos como educação, sociedade e proteção do meio ambiente e do patrimônio histórico e natural.</desc>
+  </programme>
+  <programme start="20260721070000 +0000" stop="20260721073000 +0000" channel="95229">
+    <title lang="pt">AMÉRICA AHORA</title>
+    <desc lang="pt">É um programa novo do canal, noticiário estilo revista, transmitido uma vez por semana. Aqui oferecemos relatórios e análises aprofundados sobre os temas mais debatidos e atuais na região americana, e especialmente na América Latina.</desc>
+  </programme>
+  <programme start="20260721073000 +0000" stop="20260721080000 +0000" channel="95229">
+    <title lang="pt">RONDA ARTÍSTICA</title>
+    <desc lang="pt">A diversidade de canções e danças, óperas locais tradicionais, música e artes folclóricas da China são apresentadas.</desc>
+  </programme>
+  <programme start="20260721080000 +0000" stop="20260721083000 +0000" channel="95229">
+    <title lang="pt">CGTN NOTICIAS</title>
+    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
+  </programme>
+  <programme start="20260721083000 +0000" stop="20260721090000 +0000" channel="95229">
+    <title lang="pt">DÍALOGO</title>
+    <desc lang="pt">Reúne celebridades, acadêmicos e funcionários governamentais da China e do exterior para discutir temas de relevância atual, interesse geral e projeção internacional.</desc>
+  </programme>
+  <programme start="20260721090000 +0000" stop="20260721093000 +0000" channel="95229">
+    <title lang="pt">CGTN NOTICIAS</title>
+    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
+  </programme>
+  <programme start="20260721093000 +0000" stop="20260721100000 +0000" channel="95229">
+    <title lang="pt">DOCUMENTAL</title>
+    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
+  </programme>
+  <programme start="20260721100000 +0000" stop="20260721113000 +0000" channel="95229">
+    <title lang="pt">EL PROYECTOR</title>
+    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
   </programme>
   <channel id="45144">
     <display-name>Canal 45144</display-name>
