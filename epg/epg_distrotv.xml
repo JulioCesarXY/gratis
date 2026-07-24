@@ -102,18 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260724203000 +0000" stop="20260724210000 +0000" channel="95227">
-    <title lang="pt">Dialogue </title>
-    <desc lang="pt">É um talk show diário em inglês no horário nobre da CGTN.</desc>
-  </programme>
-  <programme start="20260724210000 +0000" stop="20260724213000 +0000" channel="95227">
-    <title lang="pt">Global Business</title>
-    <desc lang="pt">Global Business é o principal programa de negócios do CGTN English Channel, trazendo a você os mais recentes dados econômicos, tendências de negócios e políticas.</desc>
-  </programme>
-  <programme start="20260724213000 +0000" stop="20260724220000 +0000" channel="95227">
-    <title lang="pt">The Point with Liu Xin  </title>
-    <desc lang="pt">The Point with LIU Xin é um programa de atualidades da CGTN. O programa comenta notícias globais através da perspectiva única de LIU Xin.</desc>
-  </programme>
   <programme start="20260724220000 +0000" stop="20260724230000 +0000" channel="95227">
     <title lang="pt">Americas Now</title>
     <desc lang="pt">Americas Now traça o perfil do desenvolvimento, da diversidade e dos desafios que as Américas enfrentam, especialmente a América Latina.</desc>
@@ -288,25 +276,21 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
     <desc lang="pt">Um talk-show semanal que olha além das manchetes e da “sabedoria aceita” para encontrar a verdadeira história. Apresentado pelo premiado jornalista e apresentador Stephen Cole, The Agenda simplesmente define The Agenda. Você não encontrará os mesmos velhos falantes reciclando banalidades; em vez disso, convidados instigantes para debater e explorar questões-chave do mundo de hoje. Usando gráficos de realidade virtual para dar vida aos assuntos, Stephen navegará por assuntos que vão desde “Prove que a mudança climática existe” até “Quem vencerá a corrida ao espaço”. Pontos de vista opostos terão a oportunidade de florescer e evoluir para uma conversa significativa. 
 A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
   </programme>
+  <programme start="20260725210000 +0000" stop="20260725213000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="95227">
+    <title lang="pt">Leaders Talk</title>
+    <desc lang="pt">Leaders Talk é o novo programa de assuntos atuais do China Media Group que apresenta entrevistas individuais com chefes de estado e altos funcionários governamentais e chefes de organizações internacionais. Irão partilhar as suas ideias sobre os principais eventos que moldam o mundo de hoje, proporcionando um ponto de vista internacional para compreender os nossos tempos, as visões que partilhamos, os desafios que enfrentamos e os esforços que podemos fazer para um futuro melhor.</desc>
+  </programme>
+  <programme start="20260725220000 +0000" stop="20260725230000 +0000" channel="95227">
+    <title lang="pt">Full Frame </title>
+    <desc lang="pt">Full Frame enriquece a vida dos espectadores através de discussões animadas sobre filmes, artes e cultura, tendências sociais, etc., impactando um público global diversificado.</desc>
+  </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260724203000 +0000" stop="20260724210000 +0000" channel="95226">
-    <title lang="pt">Focus Today</title>
-    <desc lang="pt">Rastreia os assuntos atuais da China e do exterior, artes/cultura</desc>
-  </programme>
-  <programme start="20260724210000 +0000" stop="20260724213000 +0000" channel="95226">
-    <title lang="pt">China Showbiz</title>
-    <desc lang="pt">O China Showbiz reúne uma ampla gama de maravilhosos trabalhos artísticos de TV e direciona os espectadores para um fabuloso mundo das artes através da apreciação e revisão de obras.</desc>
-  </programme>
-  <programme start="20260724213000 +0000" stop="20260724220000 +0000" channel="95226">
-    <title lang="pt">Network News </title>
-    <desc lang="pt">Apresenta ao espectador uma quantidade considerável de informações</desc>
-  </programme>
-  <programme start="20260724220000 +0000" stop="20260724223000 +0000" channel="95226">
-    <title lang="pt">Across the Strait</title>
-    <desc lang="pt">Do outro lado do Estreito traça as questões muito discutidas através do Estreito, reflecte a vontade dos cidadãos dos dois lados do Estreito e detalha a política do governo chinês de “um país, dois sistemas” numa tentativa de melhorar a compreensão dos concidadãos de Taiwan sobre a China Continental.</desc>
-  </programme>
   <programme start="20260724223000 +0000" stop="20260724230000 +0000" channel="95226">
     <title lang="pt">Talk With Lu Jian</title>
     <desc lang="pt">Fale com Lu Jian</desc>
@@ -435,24 +419,32 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
     <title lang="pt">Focus Today</title>
     <desc lang="pt">Rastreia os assuntos atuais da China e do exterior, artes/cultura</desc>
   </programme>
+  <programme start="20260725210000 +0000" stop="20260725211500 +0000" channel="95226">
+    <title lang="pt">Dreamchaser</title>
+    <desc lang="pt">Documentário sobre a carreira de pessoas comuns</desc>
+  </programme>
+  <programme start="20260725211500 +0000" stop="20260725213000 +0000" channel="95226">
+    <title lang="pt">Nostalgia</title>
+    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+  </programme>
+  <programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="95226">
+    <title lang="pt">Network News </title>
+    <desc lang="pt">Apresenta ao espectador uma quantidade considerável de informações</desc>
+  </programme>
+  <programme start="20260725220000 +0000" stop="20260725223000 +0000" channel="95226">
+    <title lang="pt">Across the Strait</title>
+    <desc lang="pt">Do outro lado do Estreito traça as questões muito discutidas através do Estreito, reflecte a vontade dos cidadãos dos dois lados do Estreito e detalha a política do governo chinês de “um país, dois sistemas” numa tentativa de melhorar a compreensão dos concidadãos de Taiwan sobre a China Continental.</desc>
+  </programme>
+  <programme start="20260725223000 +0000" stop="20260725230000 +0000" channel="95226">
+    <title lang="pt">Chinese Story</title>
+    <desc lang="pt">"História Chinesa" é um programa de 30 minutos para promover chineses no exterior. O programa registra as lutas de destacados chineses no exterior e conta suas maravilhosas histórias de vida.</desc>
+  </programme>
   <channel id="83824">
     <display-name>Canal 83824</display-name>
   </channel>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260724203000 +0000" stop="20260724210000 +0000" channel="95229">
-    <title lang="pt">HORA INFANTIL</title>
-    <desc lang="pt">Uma seleção das melhores séries de desenhos animados chineses, dublados em espanhol. A Hora Infantil é uma janela através da qual crianças e adolescentes dos países de língua espanhola podem compreender melhor o que é e como é a China.</desc>
-  </programme>
-  <programme start="20260724210000 +0000" stop="20260724213000 +0000" channel="95229">
-    <title lang="pt">MIRADA ECONÓMICA</title>
-    <desc lang="pt">Convida especialistas chineses nos assuntos dos países de língua espanhola e analistas desses países a darem a conhecer as suas opiniões e visões sobre questões de contingência.</desc>
-  </programme>
-  <programme start="20260724213000 +0000" stop="20260724220000 +0000" channel="95229">
-    <title lang="pt">DOCUMENTAL</title>
-    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
-  </programme>
   <programme start="20260724220000 +0000" stop="20260724233000 +0000" channel="95229">
     <title lang="pt">EL PROYECTOR</title>
     <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
@@ -624,6 +616,20 @@ A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
   <programme start="20260725203000 +0000" stop="20260725210000 +0000" channel="95229">
     <title lang="pt">HORA INFANTIL</title>
     <desc lang="pt">Uma seleção das melhores séries de desenhos animados chineses, dublados em espanhol. A Hora Infantil é uma janela através da qual crianças e adolescentes dos países de língua espanhola podem compreender melhor o que é e como é a China.</desc>
+  </programme>
+  <programme start="20260725210000 +0000" stop="20260725213000 +0000" channel="95229">
+    <title lang="pt">CAFÉ DE CGTN</title>
+    <desc lang="pt">Neste espaço os colegas da família CGTN em espanhol
+Trocam opiniões e debatem casualmente questões económicas,
+questões sociais e culturais atuais na China.</desc>
+  </programme>
+  <programme start="20260725213000 +0000" stop="20260725220000 +0000" channel="95229">
+    <title lang="pt">DOCUMENTAL</title>
+    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
+  </programme>
+  <programme start="20260725220000 +0000" stop="20260725233000 +0000" channel="95229">
+    <title lang="pt">EL PROYECTOR</title>
+    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
   </programme>
   <channel id="45144">
     <display-name>Canal 45144</display-name>
