@@ -102,31 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260725220000 +0000" stop="20260725230000 +0000" channel="95227">
-    <title lang="pt">Full Frame </title>
-    <desc lang="pt">Full Frame enriquece a vida dos espectadores através de discussões animadas sobre filmes, artes e cultura, tendências sociais, etc., impactando um público global diversificado.</desc>
-  </programme>
-  <programme start="20260725230000 +0000" stop="20260725233000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260725233000 +0000" stop="20260726000000 +0000" channel="95227">
-    <title lang="pt">Assignment Asia</title>
-    <desc lang="pt">O Assignment Asia é um programa de assuntos atuais que analisa em profundidade histórias de toda a Ásia.</desc>
-  </programme>
-  <programme start="20260726000000 +0000" stop="20260726003000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260726003000 +0000" stop="20260726010000 +0000" channel="95227">
-    <title lang="pt">The Agenda</title>
-    <desc lang="pt">Um talk-show semanal que olha além das manchetes e da “sabedoria aceita” para encontrar a verdadeira história. Apresentado pelo premiado jornalista e apresentador Stephen Cole, The Agenda simplesmente define The Agenda. Você não encontrará os mesmos velhos falantes reciclando banalidades; em vez disso, convidados instigantes para debater e explorar questões-chave do mundo de hoje. Usando gráficos de realidade virtual para dar vida aos assuntos, Stephen navegará por assuntos que vão desde “Prove que a mudança climática existe” até “Quem vencerá a corrida ao espaço”. Pontos de vista opostos terão a oportunidade de florescer e evoluir para uma conversa significativa. 
-A Agenda: Nada de conversa fiada; Percepções desafiadoras.</desc>
-  </programme>
-  <programme start="20260726010000 +0000" stop="20260726020000 +0000" channel="95227">
-    <title lang="pt">Big Story</title>
-    <desc lang="pt">Big Story é um programa de documentários da CGTN. Ele explora eventos globais em uma variedade de estilos cinematográficos e apresenta narrativas originais, profundas e instigantes.</desc>
-  </programme>
   <programme start="20260726020000 +0000" stop="20260726023000 +0000" channel="95227">
     <title lang="pt">The World Today</title>
     <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
@@ -282,25 +257,38 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
     <title lang="pt">Americas Now</title>
     <desc lang="pt">Americas Now traça o perfil do desenvolvimento, da diversidade e dos desafios que as Américas enfrentam, especialmente a América Latina.</desc>
   </programme>
+  <programme start="20260726230000 +0000" stop="20260726233000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260726233000 +0000" stop="20260727000000 +0000" channel="95227">
+    <title lang="pt">Faces of Africa</title>
+    <desc lang="pt">Faces of Africa é uma revista temática que mostra a diversidade do continente.</desc>
+  </programme>
+  <programme start="20260727000000 +0000" stop="20260727003000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260727003000 +0000" stop="20260727010000 +0000" channel="95227">
+    <title lang="pt">Inheritors</title>
+    <desc lang="pt">Herdeiros é um produto multimídia da CGTN que ilumina o rico Patrimônio Cultural Imaterial da China. Cada edição de TV de 30 minutos é apresentada por um expatriado de longa data na China que possui uma compreensão única da cultura do país. Ele ou ela apresentará aos espectadores pessoas que estão dedicando suas vidas à sua proteção, herança, inovação, desenvolvimento e promoção.</desc>
+  </programme>
+  <programme start="20260727010000 +0000" stop="20260727013000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260727013000 +0000" stop="20260727020000 +0000" channel="95227">
+    <title lang="pt">Razor</title>
+    <desc lang="pt">A nova feira de ciência e tecnologia da CGTN, cobrindo desenvolvimentos de ponta de todo o mundo. RAZOR mostrará o laser mais poderoso do mundo e o menor tratamento anticâncer do mundo. Ele o levará do estranho mundo da computação quântica até os limites do cosmos. 
+Uma equipe internacional de repórteres seguirá a orientação da Navalha de Occam – o princípio de que a explicação mais simples é a melhor. RAZOR vai mostrar que já estamos “vivendo no futuro”!</desc>
+  </programme>
+  <programme start="20260727020000 +0000" stop="20260727023000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260725223000 +0000" stop="20260725230000 +0000" channel="95226">
-    <title lang="pt">Chinese Story</title>
-    <desc lang="pt">"História Chinesa" é um programa de 30 minutos para promover chineses no exterior. O programa registra as lutas de destacados chineses no exterior e conta suas maravilhosas histórias de vida.</desc>
-  </programme>
-  <programme start="20260725230000 +0000" stop="20260725233000 +0000" channel="95226">
-    <title lang="pt">China News</title>
-    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
-  </programme>
-  <programme start="20260725233000 +0000" stop="20260726000000 +0000" channel="95226">
-    <title lang="pt">Focus Today</title>
-    <desc lang="pt">Rastreia os assuntos atuais da China e do exterior, artes/cultura</desc>
-  </programme>
-  <programme start="20260726000000 +0000" stop="20260726010000 +0000" channel="95226">
-    <title lang="pt">Global News</title>
-    <desc lang="pt">Um noticiário matinal de uma hora</desc>
-  </programme>
   <programme start="20260726010000 +0000" stop="20260726023000 +0000" channel="95226">
     <title lang="pt">TV Drama</title>
     <desc lang="pt">Drama de televisão produzido na China</desc>
@@ -425,40 +413,28 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
     <title lang="pt">Bond with China</title>
     <desc lang="pt">“Bond with China”, produzido pelo China Media Group China Central Television International Channel, é um programa documental de comunicação intercultural em grande escala.</desc>
   </programme>
+  <programme start="20260726230000 +0000" stop="20260726233000 +0000" channel="95226">
+    <title lang="pt">China News</title>
+    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
+  </programme>
+  <programme start="20260726233000 +0000" stop="20260727000000 +0000" channel="95226">
+    <title lang="pt">Focus Today</title>
+    <desc lang="pt">Rastreia os assuntos atuais da China e do exterior, artes/cultura</desc>
+  </programme>
+  <programme start="20260727000000 +0000" stop="20260727010000 +0000" channel="95226">
+    <title lang="pt">Global News</title>
+    <desc lang="pt">Um noticiário matinal de uma hora</desc>
+  </programme>
+  <programme start="20260727010000 +0000" stop="20260727023000 +0000" channel="95226">
+    <title lang="pt">TV Drama</title>
+    <desc lang="pt">Drama de televisão produzido na China</desc>
+  </programme>
   <channel id="83824">
     <display-name>Canal 83824</display-name>
   </channel>
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260725220000 +0000" stop="20260725233000 +0000" channel="95229">
-    <title lang="pt">EL PROYECTOR</title>
-    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
-  </programme>
-  <programme start="20260725233000 +0000" stop="20260725234500 +0000" channel="95229">
-    <title lang="pt">SABOREANDO CHINA</title>
-    <desc lang="pt">Aprenda a preparar as receitas chinesas mais populares. Nosso chef irá revelar de forma prática os segredos da arte culinária desta nação asiática. Conheça os ingredientes mais utilizados na variada gastronomia regional, a origem dos pratos e até os seus benefícios para a saúde. Em Da China para a sua cozinha, o espectador poderá vivenciar tanto a riqueza tradicional quanto a variedade gastronômica da China.</desc>
-  </programme>
-  <programme start="20260725234500 +0000" stop="20260726000000 +0000" channel="95229">
-    <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
-  </programme>
-  <programme start="20260726000000 +0000" stop="20260726003000 +0000" channel="95229">
-    <title lang="pt">DOCUMENTAL</title>
-    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
-  </programme>
-  <programme start="20260726003000 +0000" stop="20260726010000 +0000" channel="95229">
-    <title lang="pt">ASÍ ES CHINA</title>
-    <desc lang="pt">Descubra para o espectador o grande legado cultural e histórico das diferentes regiões e etnias da China. Também aproxima você da vida e dos costumes do cidadão comum e mostra a evolução do país em aspectos como educação, sociedade e proteção do meio ambiente e do patrimônio histórico e natural.</desc>
-  </programme>
-  <programme start="20260726010000 +0000" stop="20260726013000 +0000" channel="95229">
-    <title lang="pt">CGTN NOTICIAS</title>
-    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
-  </programme>
-  <programme start="20260726013000 +0000" stop="20260726020000 +0000" channel="95229">
-    <title lang="pt">RONDA ARTÍSTICA</title>
-    <desc lang="pt">A diversidade de canções e danças, óperas locais tradicionais, música e artes folclóricas da China são apresentadas.</desc>
-  </programme>
   <programme start="20260726020000 +0000" stop="20260726023000 +0000" channel="95229">
     <title lang="pt">CGTN NOTICIAS</title>
     <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
@@ -487,7 +463,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260726054500 +0000" stop="20260726060000 +0000" channel="95229">
     <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260726060000 +0000" stop="20260726063000 +0000" channel="95229">
     <title lang="pt">DOCUMENTAL</title>
@@ -533,7 +509,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260726114500 +0000" stop="20260726120000 +0000" channel="95229">
     <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260726120000 +0000" stop="20260726123000 +0000" channel="95229">
     <title lang="pt">DOCUMENTAL</title>
@@ -579,7 +555,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260726174500 +0000" stop="20260726180000 +0000" channel="95229">
     <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes do planeta.</desc>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
   </programme>
   <programme start="20260726180000 +0000" stop="20260726183000 +0000" channel="95229">
     <title lang="pt">DOCUMENTAL</title>
@@ -595,7 +571,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260726193000 +0000" stop="20260726200000 +0000" channel="95229">
     <title lang="pt">PRISMA</title>
-    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos espectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
+    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos telespectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
   </programme>
   <programme start="20260726200000 +0000" stop="20260726203000 +0000" channel="95229">
     <title lang="pt">RONDA ARTÍSTICA</title>
@@ -618,6 +594,34 @@ questões sociais e culturais atuais na China.</desc>
   <programme start="20260726220000 +0000" stop="20260726233000 +0000" channel="95229">
     <title lang="pt">EL PROYECTOR</title>
     <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
+  </programme>
+  <programme start="20260726233000 +0000" stop="20260726234500 +0000" channel="95229">
+    <title lang="pt">SABOREANDO CHINA</title>
+    <desc lang="pt">Aprenda a preparar as receitas chinesas mais populares. Nosso chef irá revelar de forma prática os segredos da arte culinária desta nação asiática. Conheça os ingredientes mais utilizados na variada gastronomia regional, a origem dos pratos e até os seus benefícios para a saúde. Em Da China para a sua cozinha, o espectador poderá vivenciar tanto a riqueza tradicional quanto a variedade gastronômica da China.</desc>
+  </programme>
+  <programme start="20260726234500 +0000" stop="20260727000000 +0000" channel="95229">
+    <title lang="pt">NIHAO CHINA</title>
+    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
+  </programme>
+  <programme start="20260727000000 +0000" stop="20260727003000 +0000" channel="95229">
+    <title lang="pt">DOCUMENTAL</title>
+    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
+  </programme>
+  <programme start="20260727003000 +0000" stop="20260727010000 +0000" channel="95229">
+    <title lang="pt">ASÍ ES CHINA</title>
+    <desc lang="pt">Descubra para o espectador o grande legado cultural e histórico das diferentes regiões e etnias da China. Também aproxima você da vida e dos costumes do cidadão comum e mostra a evolução do país em aspectos como educação, sociedade e proteção do meio ambiente e do patrimônio histórico e natural.</desc>
+  </programme>
+  <programme start="20260727010000 +0000" stop="20260727013000 +0000" channel="95229">
+    <title lang="pt">CGTN NOTICIAS</title>
+    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
+  </programme>
+  <programme start="20260727013000 +0000" stop="20260727020000 +0000" channel="95229">
+    <title lang="pt">PRISMA</title>
+    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos telespectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
+  </programme>
+  <programme start="20260727020000 +0000" stop="20260727023000 +0000" channel="95229">
+    <title lang="pt">CGTN NOTICIAS</title>
+    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
   </programme>
   <channel id="45144">
     <display-name>Canal 45144</display-name>
