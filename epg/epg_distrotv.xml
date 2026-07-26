@@ -102,18 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260726190000 +0000" stop="20260726193000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
-  <programme start="20260726193000 +0000" stop="20260726200000 +0000" channel="95227">
-    <title lang="pt">Inheritors</title>
-    <desc lang="pt">Herdeiros é um produto multimídia da CGTN que ilumina o rico Patrimônio Cultural Imaterial da China. Cada edição de TV de 30 minutos é apresentada por um expatriado de longa data na China que possui uma compreensão única da cultura do país. Ele ou ela apresentará aos espectadores pessoas que estão dedicando suas vidas à sua proteção, herança, inovação, desenvolvimento e promoção.</desc>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260726203000 +0000" channel="95227">
-    <title lang="pt">The World Today</title>
-    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
-  </programme>
   <programme start="20260726203000 +0000" stop="20260726210000 +0000" channel="95227">
     <title lang="pt">Travelogue</title>
     <desc lang="pt">Travelogue é um programa de viagem de 30 minutos. Através das viagens dos nossos intrépidos anfitriões, vivenciamos a beleza, a cultura e o mistério da China, descobrindo como as pessoas vivem neste vasto país e mostrando ao mundo a transformação da China.</desc>
@@ -222,7 +210,7 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260727093000 +0000" stop="20260727100000 +0000" channel="95227">
     <title lang="pt">The Vibe</title>
-    <desc lang="pt">The Vibe é um programa de TV de 30 minutos que passa diariamente durante a semana na CGTN. O conteúdo se concentra em novas tendências, moda e tópicos culturais em uma variedade de disciplinas, tanto na China quanto no exterior. O apresentador apresenta vários tópicos relacionados à cultura de uma forma divertida, ao mesmo tempo que faz análises aprofundadas para dar aos espectadores uma imagem mais completa do que está acontecendo e por que isso é importante.</desc>
+    <desc lang="pt">The Vibe é um programa de TV de 30 minutos que passa diariamente durante a semana na CGTN. O conteúdo se concentra em novas tendências, moda e tópicos culturais em uma variedade de disciplinas, tanto na China quanto no exterior. O apresentador apresenta vários tópicos relacionados à cultura de uma forma divertida, ao mesmo tempo que faz análises aprofundadas para dar aos espectadores uma visão mais completa do que está acontecendo e por que isso é importante.</desc>
   </programme>
   <programme start="20260727100000 +0000" stop="20260727101500 +0000" channel="95227">
     <title lang="pt">The World Today</title>
@@ -270,7 +258,7 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260727153000 +0000" stop="20260727160000 +0000" channel="95227">
     <title lang="pt">The Vibe</title>
-    <desc lang="pt">The Vibe é um programa de TV de 30 minutos que passa diariamente durante a semana na CGTN. O conteúdo se concentra em novas tendências, moda e tópicos culturais em uma variedade de disciplinas, tanto na China quanto no exterior. O apresentador apresenta vários tópicos relacionados à cultura de uma forma divertida, ao mesmo tempo que faz análises aprofundadas para dar aos espectadores uma imagem mais completa do que está acontecendo e por que isso é importante.</desc>
+    <desc lang="pt">The Vibe é um programa de TV de 30 minutos que passa diariamente durante a semana na CGTN. O conteúdo se concentra em novas tendências, moda e tópicos culturais em uma variedade de disciplinas, tanto na China quanto no exterior. O apresentador apresenta vários tópicos relacionados à cultura de uma forma divertida, ao mesmo tempo que faz análises aprofundadas para dar aos espectadores uma visão mais completa do que está acontecendo e por que isso é importante.</desc>
   </programme>
   <programme start="20260727160000 +0000" stop="20260727170000 +0000" channel="95227">
     <title lang="pt">Global Business</title>
@@ -288,17 +276,21 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
     <title lang="pt">The World Today</title>
     <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
   </programme>
+  <programme start="20260727193000 +0000" stop="20260727200000 +0000" channel="95227">
+    <title lang="pt">World Insight with Tian Wei</title>
+    <desc lang="pt">World Insight com Tian Wei é uma plataforma internacional de longa data para debate e discussão inteligente.</desc>
+  </programme>
+  <programme start="20260727200000 +0000" stop="20260727203000 +0000" channel="95227">
+    <title lang="pt">The World Today</title>
+    <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
+  </programme>
+  <programme start="20260727203000 +0000" stop="20260727210000 +0000" channel="95227">
+    <title lang="pt">Dialogue </title>
+    <desc lang="pt">É um talk show diário em inglês no horário nobre da CGTN.</desc>
+  </programme>
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260726183000 +0000" stop="20260726200000 +0000" channel="95226">
-    <title lang="pt">TV Drama</title>
-    <desc lang="pt">Drama de televisão produzido na China</desc>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260726203000 +0000" channel="95226">
-    <title lang="pt">China News</title>
-    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
-  </programme>
   <programme start="20260726203000 +0000" stop="20260726210000 +0000" channel="95226">
     <title lang="pt">Focus Today</title>
     <desc lang="pt">Rastreia os assuntos atuais da China e do exterior, artes/cultura</desc>
@@ -309,7 +301,7 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260726211500 +0000" stop="20260726213000 +0000" channel="95226">
     <title lang="pt">Nostalgia</title>
-    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+    <desc lang="pt">A Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
   </programme>
   <programme start="20260726213000 +0000" stop="20260726220000 +0000" channel="95226">
     <title lang="pt">Network News </title>
@@ -381,7 +373,7 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260727104500 +0000" stop="20260727110000 +0000" channel="95226">
     <title lang="pt">Nostalgia</title>
-    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+    <desc lang="pt">A Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
   </programme>
   <programme start="20260727110000 +0000" stop="20260727113000 +0000" channel="95226">
     <title lang="pt">China News</title>
@@ -433,11 +425,19 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   </programme>
   <programme start="20260727182000 +0000" stop="20260727183000 +0000" channel="95226">
     <title lang="pt">Nostalgia</title>
-    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
+    <desc lang="pt">A Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
   </programme>
   <programme start="20260727183000 +0000" stop="20260727200000 +0000" channel="95226">
     <title lang="pt">TV Drama</title>
     <desc lang="pt">Drama de televisão produzido na China</desc>
+  </programme>
+  <programme start="20260727200000 +0000" stop="20260727203000 +0000" channel="95226">
+    <title lang="pt">China News</title>
+    <desc lang="pt">Ele se concentra nas últimas notícias e mudanças sociais que acontecem na China e em todo o mundo</desc>
+  </programme>
+  <programme start="20260727203000 +0000" stop="20260727210000 +0000" channel="95226">
+    <title lang="pt">Focus Today</title>
+    <desc lang="pt">Rastreia os assuntos atuais da China e do exterior, artes/cultura</desc>
   </programme>
   <channel id="83824">
     <display-name>Canal 83824</display-name>
@@ -445,18 +445,6 @@ Uma equipe internacional de repórteres seguirá a orientação da Navalha de Oc
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260726190000 +0000" stop="20260726193000 +0000" channel="95229">
-    <title lang="pt">CGTN NOTICIAS</title>
-    <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
-  </programme>
-  <programme start="20260726193000 +0000" stop="20260726200000 +0000" channel="95229">
-    <title lang="pt">PRISMA</title>
-    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos telespectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
-  </programme>
-  <programme start="20260726200000 +0000" stop="20260726203000 +0000" channel="95229">
-    <title lang="pt">RONDA ARTÍSTICA</title>
-    <desc lang="pt">A diversidade de canções e danças, óperas locais tradicionais, música e artes folclóricas da China são apresentadas.</desc>
-  </programme>
   <programme start="20260726203000 +0000" stop="20260726210000 +0000" channel="95229">
     <title lang="pt">HORA INFANTIL</title>
     <desc lang="pt">Uma seleção das melhores séries de desenhos animados chineses, dublados em espanhol. A Hora Infantil é uma janela através da qual crianças e adolescentes dos países de língua espanhola podem compreender melhor o que é e como é a China.</desc>
@@ -497,7 +485,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260727013000 +0000" stop="20260727020000 +0000" channel="95229">
     <title lang="pt">PRISMA</title>
-    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos telespectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
+    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos espectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
   </programme>
   <programme start="20260727020000 +0000" stop="20260727023000 +0000" channel="95229">
     <title lang="pt">CGTN NOTICIAS</title>
@@ -539,7 +527,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260727070000 +0000" stop="20260727073000 +0000" channel="95229">
     <title lang="pt">PRISMA</title>
-    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos telespectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
+    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos espectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
   </programme>
   <programme start="20260727073000 +0000" stop="20260727080000 +0000" channel="95229">
     <title lang="pt">RONDA ARTÍSTICA</title>
@@ -589,7 +577,7 @@ questões sociais e culturais atuais na China.</desc>
   </programme>
   <programme start="20260727133000 +0000" stop="20260727140000 +0000" channel="95229">
     <title lang="pt">PRISMA</title>
-    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos telespectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
+    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos espectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
   </programme>
   <programme start="20260727140000 +0000" stop="20260727143000 +0000" channel="95229">
     <title lang="pt">RONDA ARTÍSTICA</title>
@@ -632,6 +620,18 @@ questões sociais e culturais atuais na China.</desc>
   <programme start="20260727190000 +0000" stop="20260727193000 +0000" channel="95229">
     <title lang="pt">CGTN NOTICIAS</title>
     <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
+  </programme>
+  <programme start="20260727193000 +0000" stop="20260727200000 +0000" channel="95229">
+    <title lang="pt">PRISMA</title>
+    <desc lang="pt">Prisma é um programa cultural produzido pela CGTN em espanhol em colaboração com a teleSUR multimídia latino-americana. O seu objectivo é mostrar aos espectadores a riqueza cultural da China e do mundo de língua espanhola, aumentar a consciência da cultura chinesa nos países de língua espanhola e estabelecer uma plataforma de diálogo entre ambas as partes. É um programa mensal de 30 minutos que começou a ser exibido em agosto de 2016. É composto por três segmentos que se destacam pela diversidade temática. Primeiro, um espaço de notícias culturais; depois, um perfil de alguma personalidade da esfera cultural latino-americana; e finalmente um documentário sobre aspectos da cultura chinesa.</desc>
+  </programme>
+  <programme start="20260727200000 +0000" stop="20260727203000 +0000" channel="95229">
+    <title lang="pt">RONDA ARTÍSTICA</title>
+    <desc lang="pt">A diversidade de canções e danças, óperas locais tradicionais, música e artes folclóricas da China são apresentadas.</desc>
+  </programme>
+  <programme start="20260727203000 +0000" stop="20260727210000 +0000" channel="95229">
+    <title lang="pt">AMÉRICA AHORA</title>
+    <desc lang="pt">É um programa novo do canal, noticiário estilo revista, transmitido uma vez por semana. Aqui oferecemos relatórios e análises aprofundados sobre os temas mais debatidos e atuais na região americana, e especialmente na América Latina.</desc>
   </programme>
   <channel id="45144">
     <display-name>Canal 45144</display-name>
