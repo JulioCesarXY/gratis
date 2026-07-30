@@ -102,14 +102,6 @@
   <channel id="95227">
     <display-name>CGTN</display-name>
   </channel>
-  <programme start="20260730170000 +0000" stop="20260730180000 +0000" channel="95227">
-    <title lang="pt">Africa Live</title>
-    <desc lang="pt">Africa Live é um programa de notícias que se concentra em questões africanas e questões relacionadas com este continente diversificado. O centro de transmissão da CGTN com sede em Nairobi produz Africa Live.</desc>
-  </programme>
-  <programme start="20260730180000 +0000" stop="20260730190000 +0000" channel="95227">
-    <title lang="pt">Global Business</title>
-    <desc lang="pt">Global Business é o principal programa de negócios do CGTN English Channel, trazendo a você os mais recentes dados econômicos, tendências de negócios e políticas.</desc>
-  </programme>
   <programme start="20260730190000 +0000" stop="20260730193000 +0000" channel="95227">
     <title lang="pt">The World Today</title>
     <desc lang="pt">The World Today é o principal serviço contínuo da CGTN. mantenha os espectadores atualizados com todas as principais notícias do mundo conforme elas acontecem.</desc>
@@ -132,7 +124,7 @@
   </programme>
   <programme start="20260730213000 +0000" stop="20260730220000 +0000" channel="95227">
     <title lang="pt">The Hub With Wang Guan</title>
-    <desc lang="pt">O Hub com Wang Guan cobre questões geopolíticas e econômicas urgentes, bem como histórias e tendências interessantes em cultura, educação, tecnologia e estilo de vida. Tem como objetivo conectar pessoas, culturas e sociedades em todo o Oriente e no Ocidente. O programa apresenta designs dinâmicos, ritmo acelerado e recursos visuais ricos para manter os espectadores envolvidos.  Também utiliza tópicos de tendência online, ao mesmo tempo que se concentra no que é relevante na China e no mundo.</desc>
+    <desc lang="pt">O Hub com Wang Guan cobre questões geopolíticas e econômicas urgentes, bem como histórias e tendências interessantes em cultura, educação, tecnologia e estilo de vida. Tem como objetivo conectar pessoas, culturas e sociedades no Oriente e no Ocidente. O programa apresenta designs dinâmicos, ritmo acelerado e recursos visuais ricos para manter os espectadores envolvidos.  Também utiliza tópicos de tendência online, ao mesmo tempo que se concentra no que é relevante na China e no mundo.</desc>
   </programme>
   <programme start="20260730220000 +0000" stop="20260730223000 +0000" channel="95227">
     <title lang="pt">The World Today</title>
@@ -281,18 +273,6 @@
   <channel id="95226">
     <display-name>CCTV-4</display-name>
   </channel>
-  <programme start="20260730171500 +0000" stop="20260730174500 +0000" channel="95226">
-    <title lang="pt">China Showbiz</title>
-    <desc lang="pt">O China Showbiz reúne uma ampla gama de maravilhosos trabalhos artísticos de TV e direciona os espectadores para um fabuloso mundo das artes através da apreciação e revisão de obras.</desc>
-  </programme>
-  <programme start="20260730174500 +0000" stop="20260730182000 +0000" channel="95226">
-    <title lang="pt">Discoveries</title>
-    <desc lang="pt">Seguindo o rasto dos nossos antepassados ​​para identificar e interpretar mistérios e implicações culturais contidos nas geografias físicas e humanas, os Descobrimentos com uma atitude baseada na ciência centra-se nas descobertas históricas, geográficas e culturais na China na sua introdução às fabulosas heranças culturais da nação chinesa.</desc>
-  </programme>
-  <programme start="20260730182000 +0000" stop="20260730183000 +0000" channel="95226">
-    <title lang="pt">Nostalgia</title>
-    <desc lang="pt">Nostalgia pretende representar a cultura tradicional chinesa, revelando a vida nas aldeias através da narração de histórias.</desc>
-  </programme>
   <programme start="20260730183000 +0000" stop="20260730200000 +0000" channel="95226">
     <title lang="pt">TV Drama</title>
     <desc lang="pt">Drama de televisão produzido na China</desc>
@@ -427,26 +407,6 @@
   <channel id="95229">
     <display-name>CGTN Español</display-name>
   </channel>
-  <programme start="20260730160000 +0000" stop="20260730173000 +0000" channel="95229">
-    <title lang="pt">EL PROYECTOR</title>
-    <desc lang="pt">Aproxime-se da vida da China antiga e moderna através das produções dramáticas da CGTN-Español. A combinação perfeita de história e ficção chinesa na tela da sua TV.</desc>
-  </programme>
-  <programme start="20260730173000 +0000" stop="20260730174500 +0000" channel="95229">
-    <title lang="pt">SABOREANDO CHINA</title>
-    <desc lang="pt">Aprenda a preparar as receitas chinesas mais populares. Nosso chef irá revelar de forma prática os segredos da arte culinária desta nação asiática. Conheça os ingredientes mais utilizados na variada gastronomia regional, a origem dos pratos e até os seus benefícios para a saúde. Em Da China para a sua cozinha, o espectador poderá vivenciar tanto a riqueza tradicional quanto a variedade gastronômica da China.</desc>
-  </programme>
-  <programme start="20260730174500 +0000" stop="20260730180000 +0000" channel="95229">
-    <title lang="pt">NIHAO CHINA</title>
-    <desc lang="pt">É a aula de chinês da CGTN-Español. As séries “Vamos aprender pinyin juntos”, “Comunicar em chinês” e “Viajar e aprender chinês” abordam diferentes níveis de aprendizagem da nova língua da moda no mundo, dando assim ao espectador a possibilidade de expandir o seu vocabulário, melhorar a sua gramática e dominar as frases e expressões mais comuns da língua com mais falantes no planeta.</desc>
-  </programme>
-  <programme start="20260730180000 +0000" stop="20260730183000 +0000" channel="95229">
-    <title lang="pt">DOCUMENTAL</title>
-    <desc lang="pt">Apresenta personagens e acontecimentos típicos, avanços e descobertas tecnológicas e científicas e a civilização social da China.</desc>
-  </programme>
-  <programme start="20260730183000 +0000" stop="20260730190000 +0000" channel="95229">
-    <title lang="pt">ASÍ ES CHINA</title>
-    <desc lang="pt">Descubra para o espectador o grande legado cultural e histórico das diferentes regiões e etnias da China. Também aproxima você da vida e dos costumes do cidadão comum e mostra a evolução do país em aspectos como educação, sociedade e proteção do meio ambiente e do patrimônio histórico e natural.</desc>
-  </programme>
   <programme start="20260730190000 +0000" stop="20260730193000 +0000" channel="95229">
     <title lang="pt">CGTN NOTICIAS</title>
     <desc lang="pt">É o principal programa de notícias do canal, com as últimas notícias sobre eventos políticos, sociais, esportivos e culturais na China e no resto do mundo. Os factos que compõem as manchetes estão aqui, na CGTN News.</desc>
